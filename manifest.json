@@ -1,8 +1,114 @@
 {
   "overall_version": 1,
-  "updated_at": "2024-06-19 12:00:00",
+  "updated_at": "2026-06-26 15:53:09",
   "sections": {
-    "screens": [],
-    "directory": []
+    "screens": [
+      {
+        "name": "kanda_sashti_kavasam.json",
+        "ver": 1,
+        "hash": "8921d21ff3eb0f537d093a63712e7b18"
+      },
+      {
+        "name": "kolaru_pathikam.json",
+        "ver": 1,
+        "hash": "a14c8a6282af88c998ef102bbf2ff55d"
+      },
+      {
+        "name": "kovilkal.json",
+        "ver": 1,
+        "hash": "0b815643b44d935c61d1e1c7dfd3bfa0"
+      },
+      {
+        "name": "mahishasura_mardhini.json",
+        "ver": 1,
+        "hash": "aa6b781e826136064dd8657766a7ba38"
+      },
+      {
+        "name": "Main_menu_buttons.json",
+        "ver": 1,
+        "hash": "5ceec6a6ff461059c7e39d540b976928"
+      },
+      {
+        "name": "muhurtham_varai.json",
+        "ver": 1,
+        "hash": "0d90cfdd34432cc8ce4f0a7ba8407370"
+      },
+      {
+        "name": "muhurthathirku_pin.json",
+        "ver": 1,
+        "hash": "522bbba11435b4049a7a233175036f1d"
+      },
+      {
+        "name": "nichaya_thamboolam.json",
+        "ver": 1,
+        "hash": "0d4462b9029809f4a8279004fcc9bed5"
+      },
+      {
+        "name": "oonjal_thirupor.json",
+        "ver": 1,
+        "hash": "257b6bd2f8780958ae74f1506e3ee699"
+      },
+      {
+        "name": "pandikaikal.json",
+        "ver": 1,
+        "hash": "99954a97a944ad77ba4fbfd762a7c58d"
+      },
+      {
+        "name": "pira_kaariyankal.json",
+        "ver": 1,
+        "hash": "2f576f62ad78cb917f4af939ac43a5a2"
+      },
+      {
+        "name": "potri_thiruthaandakam.json",
+        "ver": 1,
+        "hash": "dfcd80c8bff805a2b9fdecb19a6a10c3"
+      },
+      {
+        "name": "saamaankal_list.json",
+        "ver": 1,
+        "hash": "933e9e542c60d94840388234c6677f30"
+      },
+      {
+        "name": "sivapuraanam.json",
+        "ver": 1,
+        "hash": "d65a78abb816e6f93f0af72001e2d4b1"
+      },
+      {
+        "name": "subha_kaariyankal.json",
+        "ver": 1,
+        "hash": "c7e00b7a4646ce162e2ea60dac5e0f16"
+      },
+      {
+        "name": "thirumanathirku_mun.json",
+        "ver": 1,
+        "hash": "97014c0475c972d92f4d1e6f80084e91"
+      },
+      {
+        "name": "thirumanathirku_pin.json",
+        "ver": 1,
+        "hash": "7023779b43e85371743ee037d741c800"
+      },
+      {
+        "name": "thirumana_naal_seerkal.json",
+        "ver": 1,
+        "hash": "72d1b46fe70adf4c130f96aa46951d39"
+      },
+      {
+        "name": "thiruvempaavai.json",
+        "ver": 1,
+        "hash": "a496bf07d8eeda84676870aab3bb9e91"
+      },
+      {
+        "name": "vazhimuraikal.json",
+        "ver": 1,
+        "hash": "b5f77b253230828b75510f405e76a83f"
+      },
+      {
+        "name": "vinayagar_akaval.json",
+        "ver": 1,
+        "hash": "f88fd51d16bb79c7e20ebdb6b2468c76"
+      }
+    ],
+    "PhoneDirectory": []
   }
 }
