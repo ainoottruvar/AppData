@@ -1,0 +1,41 @@
+{
+  "group_id": "vazhimuraikal_group",
+  "screens": [
+    {
+      "id": "vazhimuraikal",
+      "type": "BUTTONS",
+      "title": "வழிமுறைகள்",
+      "fab": "home",
+      "payload": {
+        "buttons": [
+          {"label": "திருமணம்", "dest": "thirumanam"},
+          {"label": "சுப காரியங்கள்", "dest": "subha_kaariyankal"},
+          {"label": "பண்டிகைகள்", "dest": "pandikaikal"},
+          {"label": "பிற காரியங்கள்", "dest": "pira_kaariyankal"}
+        ]
+      }
+    },
+
+    {
+      "id": "thirumanam",
+      "type": "BUTTONS",
+      "title": "திருமணம்",
+      "fab": "vazhimuraikal",
+      "payload": {
+        "buttons": [
+          {"label": "திருமணத்திற்க்கு முன்", "dest": "thirumanathirku_mun"},
+          {"label": "நிச்சய தாம்பூலம்", "dest": "nichaya_thamboolam"},
+          {"label": "திருமணநாள் - முகூர்த்தம் வரை", "dest": "muhurtham_varai"},
+          {"label": "முகூர்த்தத்திற்க்கு பின்", "dest": "muhurthathirku_pin"},
+          {"label": "திருமண நாள் சீர்கள்", "dest": "thirumana_naal_seerkal"},
+          {"label": "திருமணத்திற்க்கு பின்", "dest": "thirumanathirku_pin"}
+        ]
+      }
+    }
+
+
+
+
+
+  ]
+}
