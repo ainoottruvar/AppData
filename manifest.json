@@ -1,6 +1,6 @@
 {
-  "overall_version": 7,
-  "updated_at": "2026-06-28 17:30:08",
+  "overall_version": 8,
+  "updated_at": "2026-06-28 21:39:32",
   "sections": {
     "screens": [
       {
@@ -75,8 +75,8 @@
       },
       {
         "name": "subha_kaariyankal.json",
-        "ver": 1,
-        "hash": "c7e00b7a4646ce162e2ea60dac5e0f16"
+        "ver": 2,
+        "hash": "bbe7de58aa1d92b6eee276218e5cc019"
       },
       {
         "name": "thirumanathirku_mun.json",
