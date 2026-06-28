@@ -1,6 +1,6 @@
 {
-  "overall_version": 9,
-  "updated_at": "2026-06-28 21:54:04",
+  "overall_version": 10,
+  "updated_at": "2026-06-28 22:16:55",
   "sections": {
     "screens": [
       {
@@ -65,8 +65,8 @@
       },
       {
         "name": "saamaankal_list.json",
-        "ver": 2,
-        "hash": "0a1cfa519eb4800cd9fb446265afa79a"
+        "ver": 3,
+        "hash": "cb28fddf4c5413675b523c632ee02f25"
       },
       {
         "name": "sivapuraanam.json",
@@ -75,8 +75,8 @@
       },
       {
         "name": "subha_kaariyankal.json",
-        "ver": 2,
-        "hash": "bbe7de58aa1d92b6eee276218e5cc019"
+        "ver": 3,
+        "hash": "a2db514dab3c5a1b36380d606cd4f1a4"
       },
       {
         "name": "thirumanathirku_mun.json",
@@ -95,8 +95,8 @@
       },
       {
         "name": "thiruvempaavai.json",
-        "ver": 1,
-        "hash": "a496bf07d8eeda84676870aab3bb9e91"
+        "ver": 2,
+        "hash": "1c25f2d3866895e337c6cf2867c3d6f7"
       },
       {
         "name": "vazhimuraikal.json",
