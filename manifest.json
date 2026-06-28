@@ -1,27 +1,27 @@
 {
-  "overall_version": 10,
-  "updated_at": "2026-06-28 22:16:55",
+  "overall_version": 11,
+  "updated_at": "2026-06-28 22:27:53",
   "sections": {
     "screens": [
       {
         "name": "kanda_sashti_kavasam.json",
-        "ver": 1,
-        "hash": "8921d21ff3eb0f537d093a63712e7b18"
+        "ver": 2,
+        "hash": "614d4de5dc0463f942415e2bdf67d70c"
       },
       {
         "name": "kolaru_pathikam.json",
-        "ver": 1,
-        "hash": "a14c8a6282af88c998ef102bbf2ff55d"
+        "ver": 2,
+        "hash": "9ad39f4fb6bebc3df97d3ffe3326141a"
       },
       {
         "name": "kovilkal.json",
-        "ver": 2,
-        "hash": "0f7a1e1da4f72722ebe411617292d1d1"
+        "ver": 3,
+        "hash": "9f76ce0e99ac73befbb12d5906106487"
       },
       {
         "name": "mahishasura_mardhini.json",
-        "ver": 1,
-        "hash": "aa6b781e826136064dd8657766a7ba38"
+        "ver": 2,
+        "hash": "0d7d6b818f3bf4368ce2efa5cc7c4bdc"
       },
       {
         "name": "Main_menu_buttons.json",
@@ -30,18 +30,18 @@
       },
       {
         "name": "muhurtham_varai.json",
-        "ver": 1,
-        "hash": "0d90cfdd34432cc8ce4f0a7ba8407370"
+        "ver": 2,
+        "hash": "8bc1319e8150eeb33e99ceb5950616b0"
       },
       {
         "name": "muhurthathirku_pin.json",
-        "ver": 2,
-        "hash": "212a99d6566546e17a54cd247ec52749"
+        "ver": 3,
+        "hash": "68aea70e460b3a324ad8c57289bc5489"
       },
       {
         "name": "nichaya_thamboolam.json",
-        "ver": 1,
-        "hash": "0d4462b9029809f4a8279004fcc9bed5"
+        "ver": 2,
+        "hash": "c77fa6b621b5c4706b4be18fe1fa45e7"
       },
       {
         "name": "oonjal_thirupor.json",
