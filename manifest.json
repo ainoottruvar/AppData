@@ -1,6 +1,6 @@
 {
-  "overall_version": 8,
-  "updated_at": "2026-06-28 21:39:32",
+  "overall_version": 9,
+  "updated_at": "2026-06-28 21:54:04",
   "sections": {
     "screens": [
       {
@@ -15,8 +15,8 @@
       },
       {
         "name": "kovilkal.json",
-        "ver": 1,
-        "hash": "0b815643b44d935c61d1e1c7dfd3bfa0"
+        "ver": 2,
+        "hash": "0f7a1e1da4f72722ebe411617292d1d1"
       },
       {
         "name": "mahishasura_mardhini.json",
@@ -35,8 +35,8 @@
       },
       {
         "name": "muhurthathirku_pin.json",
-        "ver": 1,
-        "hash": "522bbba11435b4049a7a233175036f1d"
+        "ver": 2,
+        "hash": "212a99d6566546e17a54cd247ec52749"
       },
       {
         "name": "nichaya_thamboolam.json",
@@ -65,8 +65,8 @@
       },
       {
         "name": "saamaankal_list.json",
-        "ver": 1,
-        "hash": "933e9e542c60d94840388234c6677f30"
+        "ver": 2,
+        "hash": "0a1cfa519eb4800cd9fb446265afa79a"
       },
       {
         "name": "sivapuraanam.json",
