@@ -1,6 +1,6 @@
 {
-  "overall_version": 6,
-  "updated_at": "2026-06-27 22:37:29",
+  "overall_version": 7,
+  "updated_at": "2026-06-28 17:30:08",
   "sections": {
     "screens": [
       {
@@ -80,8 +80,8 @@
       },
       {
         "name": "thirumanathirku_mun.json",
-        "ver": 1,
-        "hash": "97014c0475c972d92f4d1e6f80084e91"
+        "ver": 2,
+        "hash": "709e83383b44e9f98398576ed3a7d494"
       },
       {
         "name": "thirumanathirku_pin.json",
