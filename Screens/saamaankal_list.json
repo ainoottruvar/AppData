@@ -38,7 +38,7 @@
       "next": "thirumana_saamaankal_list",
       "fab": "thirumana_saamaankal_buttons",
       "payload": {
-        "pdf": "pdfs/nichaya_thamboola.pdf",
+        "pdf": "pdfs/saamaankal/thirumanam/nichaym.pdf",
         "groups": [
           {
             "title": "",
@@ -64,7 +64,7 @@
       "next": "manamagan_veetu_saamaankal",
       "fab": "thirumana_saamaankal_buttons",
       "payload": {
-        "pdf": "pdfs/thirumana_items.pdf",
+        "pdf": "pdfs/saamaankal/thirumanam/thirumanam.pdf",
         "groups": [
           {
             "title": "",
@@ -170,7 +170,7 @@
       "next": "naazhiyarisi_seer_saamaankal",
       "fab": "thirumana_saamaankal_buttons",
       "payload": {
-        "pdf": "pdfs/manamagan_veetu.pdf",
+        "pdf": "pdfs/saamaankal/thirumanam/manamagan.pdf",
         "groups": [
           {
             "title": "",
@@ -198,7 +198,7 @@
       "next": "manamagal_veetu_saamaankal",
       "fab": "thirumana_saamaankal_buttons",
       "payload": {
-        "pdf": "pdfs/naazhiyarisi_seer.pdf",
+        "pdf": "pdfs/saamaankal/thirumanam/seerkal.pdf",
         "groups": [
           {
             "title": "நாழியரிசிக்கூடை சாமான்கள்",
@@ -254,7 +254,7 @@
       "next": "thirumana_all_saamaankal",
       "fab": "thirumana_saamaankal_buttons",
       "payload": {
-        "pdf": "pdfs/manamagal_veetu.pdf",
+        "pdf": "pdfs/saamaankal/thirumanam/manamagal.pdf",
         "groups": [
           {
             "title": "",
@@ -276,7 +276,7 @@
       "prev": "manamagal_veetu_saamaankal",
       "fab": "thirumana_saamaankal_buttons",
       "payload": {
-        "pdf": "pdfs/thirumana_all.pdf",
+        "pdf": "pdfs/saamaankal/thirumanam/thirumanamfull.pdf",
         "groups": [
           {
             "title": "",
@@ -299,7 +299,7 @@
           {"label": "காரியம் செய்ய சாமான்கள்", "dest": "kaariyam_saamaankal"},
           {"label": "அந்தரட்டி சாமான்கள்", "dest": "andheratti_saamaankal"},
           {"label": "மாசியம் சாமான்கள்", "dest": "maasiyam_saamaankal"},
-          {"label": "திவச சாமான்கள்", "dest": "dhivasa_saamaankal"}
+          {"label": "திருதிவச சாமான்கள்", "dest": "dhivasa_saamaankal"}
         ]
       }
     },
@@ -310,7 +310,7 @@
       "next": "kaariyam_saamaankal",
       "fab": "pira_saamaankal_buttons",
       "payload": {
-        "pdf": "pdfs/viradhaana_saamaankal.pdf",
+        "pdf": "pdfs/saamaankal/pira/viradhaanam.pdf",
         "groups": [
           {
             "title": "",
@@ -355,7 +355,7 @@
       "next": "andheratti_saamaankal",
       "fab": "pira_saamaankal_buttons",
       "payload": {
-        "pdf": "pdfs/kaariyam_saamaankal.pdf",
+        "pdf": "pdfs/saamaankal/pira/kaariyam.pdf",
         "groups": [
           {
             "title": "",
@@ -369,10 +369,10 @@
               {"n": "மண்சட்டி", "q": "2"},
               {"n": "தேன் பாட்டில் சிறியது 1மூடியுடன்", "q": "1"},
               {"n": "கரும்பு சர்க்கரை", "q": "50 கிராம்"},
-              {"n": "நல்லெண்ணெய்", "q": "100 மி.லி"},
+              {"n": "ந. எண்ணெய்", "q": "100 மி.லி"},
               {"n": "மஞ்சள் தூள்", "q": "50 கிராம்"},
               {"n": "அரப்பு", "q": "100 கிராம்"},
-              {"n": "கண் அடக்கம்", "q": "1 செட்"},
+              {"n": "கண் அடக்கம்", "q": "1 set"},
               {"n": "கடுகு", "q": "5O கிராம்"},
               {"n": "பிளாஸ்டிக் / பித்தளை கிண்ணம்", "q": "2"},
               {"n": "பொரி", "q": "2 கிலோ"},
@@ -390,7 +390,7 @@
       "next": "maasiyam_saamaankal",
       "fab": "pira_saamaankal_buttons",
       "payload": {
-        "pdf": "pdfs/andheratti_saamaankal.pdf",
+        "pdf": "pdfs/saamaankal/pira/andheratti.pdf",
         "groups": [
           {
             "title": "",
@@ -412,7 +412,7 @@
               {"n": "கரும்பு சர்க்கரை", "q": "50 கிராம்"},
               {"n": "நெய்", "q": "100 கிராம்"},
               {"n": "தீப்பெட்டி", "q": "2"},
-              {"n": "திரி பாக்கெட்", "q": "2"},
+              {"n": "திர பாக்கெட்", "q": "2"},
               {"n": "நூல்கண்டு", "q": "1"},
               {"n": "சமித்துக்கட்டு (சிறியது)", "q": "1"},
               {"n": "தர்ப்பப்பில்", "q": "1 கட்டு"},
@@ -479,7 +479,7 @@
       "next": "dhivasa_saamaankal",
       "fab": "pira_saamaankal_buttons",
       "payload": {
-        "pdf": "pdfs/maasiyam_saamaankal.pdf",
+        "pdf": "pdfs/saamaankal/pira/maasiyam.pdf",
         "groups": [
           {
             "title": "",
@@ -593,7 +593,7 @@
               {"n": "கருவேப்பிலை", "q": "10 ரூ"},
               {"n": "கொத்துமல்லி", "q": "10 ரூ"},
               {"n": "நெல்லிக்காய்", "q": "7"},
-              {"n": "பிரண்டை, சேம்பு, மின்னத்தழை", "q": ""}
+              {"n": "பிரண்டை, சேம்பு, மின்னத்தலை", "q": ""}
             ]
           }
         ]
@@ -606,7 +606,7 @@
       "prev": "maasiyam_saamaankal",
       "fab": "pira_saamaankal_buttons",
       "payload": {
-        "pdf": "pdfs/dhivasa_saamaankal.pdf",
+        "pdf": "pdfs/saamaankal/pira/dhivasam.pdf",
         "groups": [
           {
             "title": "",
@@ -690,7 +690,5 @@
         ]
       }
     }
-
-
   ]
 }

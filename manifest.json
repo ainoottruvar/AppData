@@ -1,6 +1,6 @@
 {
-  "overall_version": 11,
-  "updated_at": "2026-06-28 22:27:53",
+  "overall_version": 13,
+  "updated_at": "2026-07-25 19:03:03",
   "sections": {
     "screens": [
       {
@@ -65,8 +65,8 @@
       },
       {
         "name": "saamaankal_list.json",
-        "ver": 3,
-        "hash": "cb28fddf4c5413675b523c632ee02f25"
+        "ver": 5,
+        "hash": "452a7065d0519d29865eaf44f9bb5094"
       },
       {
         "name": "sivapuraanam.json",
@@ -80,8 +80,8 @@
       },
       {
         "name": "thirumanathirku_mun.json",
-        "ver": 2,
-        "hash": "709e83383b44e9f98398576ed3a7d494"
+        "ver": 3,
+        "hash": "68b03eb8394c5494dab19ce3af1b7554"
       },
       {
         "name": "thirumanathirku_pin.json",
@@ -107,6 +107,63 @@
         "name": "vinayagar_akaval.json",
         "ver": 1,
         "hash": "f88fd51d16bb79c7e20ebdb6b2468c76"
+      }
+    ],
+    "pdfs": [
+      {
+        "name": "saamaankal/pira/andheratti.pdf",
+        "ver": 1,
+        "hash": "992a69ea564a81fe9e43391aedbeeb78"
+      },
+      {
+        "name": "saamaankal/pira/dhivasam.pdf",
+        "ver": 1,
+        "hash": "992a69ea564a81fe9e43391aedbeeb78"
+      },
+      {
+        "name": "saamaankal/pira/kaariyam.pdf",
+        "ver": 1,
+        "hash": "a4ef382292cf0f3818e2eff8ddaab91e"
+      },
+      {
+        "name": "saamaankal/pira/maasiyam.pdf",
+        "ver": 1,
+        "hash": "992a69ea564a81fe9e43391aedbeeb78"
+      },
+      {
+        "name": "saamaankal/pira/viradhaanam.pdf",
+        "ver": 1,
+        "hash": "85303f486e79dec8bbf51995f0755884"
+      },
+      {
+        "name": "saamaankal/thirumanam/manamagal.pdf",
+        "ver": 1,
+        "hash": "f943ca160b74f48308f2be387193f8e7"
+      },
+      {
+        "name": "saamaankal/thirumanam/manamagan.pdf",
+        "ver": 1,
+        "hash": "1dd0a6fbba4718b9b18f9bcab463d680"
+      },
+      {
+        "name": "saamaankal/thirumanam/nichaym.pdf",
+        "ver": 1,
+        "hash": "fa5f6e90b2c29fca5466b66ef3405660"
+      },
+      {
+        "name": "saamaankal/thirumanam/seerkal.pdf",
+        "ver": 1,
+        "hash": "9c5ea3c97feb7aea560bd66b97e4b3ca"
+      },
+      {
+        "name": "saamaankal/thirumanam/thirumanam.pdf",
+        "ver": 1,
+        "hash": "d0628043aa675ed1f6df180b919b24da"
+      },
+      {
+        "name": "saamaankal/thirumanam/thirumanamfull.pdf",
+        "ver": 1,
+        "hash": "d0628043aa675ed1f6df180b919b24da"
       }
     ],
     "PhoneDirectory": []
