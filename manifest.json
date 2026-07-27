@@ -1,6 +1,6 @@
 {
-  "overall_version": 15,
-  "updated_at": "2026-07-27 18:38:11",
+  "overall_version": 16,
+  "updated_at": "2026-07-27 22:14:08",
   "sections": {
     "screens": [
       {
@@ -65,8 +65,8 @@
       },
       {
         "name": "saamaankal_list.json",
-        "ver": 7,
-        "hash": "452a7065d0519d29865eaf44f9bb5094"
+        "ver": 8,
+        "hash": "4ec4045abafa9d7caa37192a94a74ad1"
       },
       {
         "name": "sivapuraanam.json",

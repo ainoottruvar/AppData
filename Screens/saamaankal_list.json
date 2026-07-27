@@ -38,7 +38,7 @@
       "next": "thirumana_saamaankal_list",
       "fab": "thirumana_saamaankal_buttons",
       "payload": {
-        "pdf": "pdfs/saamaankal/thirumanam/nichaym.pdf",
+        "pdf": "pdfs/saamaankal/thirumanam/nichayam.pdf",
         "groups": [
           {
             "title": "",
