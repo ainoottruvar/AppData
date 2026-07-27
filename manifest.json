@@ -1,6 +1,6 @@
 {
-  "overall_version": 14,
-  "updated_at": "2026-07-27 18:11:46",
+  "overall_version": 15,
+  "updated_at": "2026-07-27 18:38:11",
   "sections": {
     "screens": [
       {
@@ -65,8 +65,8 @@
       },
       {
         "name": "saamaankal_list.json",
-        "ver": 6,
-        "hash": "caafe58e005651bc74f43fb974bf01b0"
+        "ver": 7,
+        "hash": "452a7065d0519d29865eaf44f9bb5094"
       },
       {
         "name": "sivapuraanam.json",
@@ -112,58 +112,58 @@
     "pdfs": [
       {
         "name": "saamaankal/pira/andheratti.pdf",
-        "ver": 2,
-        "hash": "f4b67a3b4452d015519a2d85b87af8d5"
+        "ver": 3,
+        "hash": "2240af741ea7bd9854afb61b4910dbce"
       },
       {
         "name": "saamaankal/pira/dhivasam.pdf",
-        "ver": 2,
-        "hash": "c617acd0496c844cd6a735a8be6a79b2"
+        "ver": 3,
+        "hash": "fa7c6a1fddf49c8e692ed11c4f4b7cb7"
       },
       {
         "name": "saamaankal/pira/kaariyam.pdf",
-        "ver": 2,
-        "hash": "f20436dfe7e4aa18282bda150bcbe114"
+        "ver": 3,
+        "hash": "621838d1ce81a8987d472046b64fb2c0"
       },
       {
         "name": "saamaankal/pira/maasiyam.pdf",
-        "ver": 2,
-        "hash": "4523fd2ba1f6b9233dd626a44e7797dc"
+        "ver": 3,
+        "hash": "7c60807c9902fa73c8526529c7dc3f5d"
       },
       {
         "name": "saamaankal/pira/viradhaanam.pdf",
-        "ver": 2,
-        "hash": "f6ff61851121ec5bfb05b4af74383039"
+        "ver": 3,
+        "hash": "854962073d525f04169893b06ebf41fe"
       },
       {
         "name": "saamaankal/thirumanam/manamagal.pdf",
-        "ver": 2,
-        "hash": "97d8667d21ed3bf3b7ea67775631f8de"
+        "ver": 3,
+        "hash": "77500bc4278d15296713bde2d4bd363c"
       },
       {
         "name": "saamaankal/thirumanam/manamagan.pdf",
-        "ver": 2,
-        "hash": "235619fb3be1b6128eaf5a61e00cf333"
+        "ver": 3,
+        "hash": "39b638507b31371108b69547de8ecd03"
       },
       {
         "name": "saamaankal/thirumanam/nichaym.pdf",
-        "ver": 2,
-        "hash": "eeac6cddb5cf1bcb51c0e29052f567fc"
+        "ver": 3,
+        "hash": "5128b25fd1d1b1c14bbd4f54acc560bb"
       },
       {
         "name": "saamaankal/thirumanam/seerkal.pdf",
-        "ver": 2,
-        "hash": "21a5ae48528c303fc2c103bca7a35295"
+        "ver": 3,
+        "hash": "f4732ab2bfb7c62f736f266881acd24a"
       },
       {
         "name": "saamaankal/thirumanam/thirumanam.pdf",
-        "ver": 2,
-        "hash": "74bda9944506d8d587134a93ded8fbf1"
+        "ver": 3,
+        "hash": "8ab45e34dd6b2b0def8a6e280c3af876"
       },
       {
         "name": "saamaankal/thirumanam/thirumanamfull.pdf",
-        "ver": 2,
-        "hash": "a5a00e8ff26be944ba49a762a6cbbd03"
+        "ver": 3,
+        "hash": "a5c9fe895d0f4fec452a146141c8ae9a"
       }
     ],
     "PhoneDirectory": []
