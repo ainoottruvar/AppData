@@ -1,6 +1,6 @@
 {
-  "overall_version": 22,
-  "updated_at": "2026-07-28 21:51:29",
+  "overall_version": 23,
+  "updated_at": "2026-07-28 22:11:47",
   "sections": {
     "screens": [
       {
@@ -25,8 +25,8 @@
       },
       {
         "name": "Main_menu_buttons.json",
-        "ver": 6,
-        "hash": "1bfb41839006b9778ca12b37b3392ac0"
+        "ver": 7,
+        "hash": "da73f7ecd634ae7dc98ef91a37c88d35"
       },
       {
         "name": "muhurtham_varai.json",
