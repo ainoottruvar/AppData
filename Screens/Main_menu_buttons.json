@@ -140,6 +140,24 @@
       }
     },
 
+
+    {
+      "id": "kanakkukal",
+      "type": "BUTTONS",
+      "title": "வரவு செலவு கணக்குகள்",
+      "fab": "nirvaagam",
+      "payload": {
+        "buttons": [
+          {"label": "மகாசபை", "dest": "kanakkukal_mahasabhai"},
+          {"label": "ஸ்ரீ விற்றூணியார் கோவில் குழு", "dest": "kanakkukal_vittruniyar"},
+          {"label": "பார்வதி கல்யாண மண்டபம்", "dest": "kanakkukal_mandapam"},
+          {"label": "கெங்காதரஞ்செட்டியார் அறக்கட்டளை", "dest": "kanakkukal_kengatharar"},
+          {"label": "உமையஞ் செட்டியார் அறக்கட்டளை", "dest": "kanakkukal_umaiyam"},
+          {"label": "பழனி மடம் நிர்வாகக் குழு", "dest": "kanakkukal_palani"}
+        ]
+      }
+    },
+
     {
       "id": "mukkiya_enkal",
       "type": "CONTACTS",
