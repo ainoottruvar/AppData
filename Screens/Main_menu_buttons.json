@@ -2,8 +2,23 @@
   "group_id": "main_menus_group",
   "screens": [
 
+
     {
       "id": "nirvaagam",
+      "type": "BUTTONS",
+      "title": "நிர்வாக விபரங்கள்",
+      "fab": "home",
+      "payload": {
+        "buttons": [
+          {"label": "நிர்வாக அமைப்புகள்", "dest": "nirvaaka_amaippukal"},
+          {"label": "வரவு செலவு கணக்குகள்", "dest": "kanakkukal"},
+          {"label": "மகிமை அல்லது வருடாந்திர சந்தா", "dest": "mahimai"}
+        ]
+      }
+    },
+
+    {
+      "id": "nirvaaka_amaippukal",
       "type": "CONTACTS",
       "title": "நிர்வாகம்",
       "payload": {
