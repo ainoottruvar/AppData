@@ -11,7 +11,7 @@
       "payload": {
         "buttons": [
           {"label": "நிர்வாக அமைப்புகள்", "dest": "nirvaaka_amaippukal"},
-
+          {"label": "நிர்வாக உறுப்பினர்கள்", "dest": "nirvaaka_uruppinarkal"},
           {"label": "வரவு செலவு கணக்குகள்", "dest": "kanakkukal"},
           {"label": "மகிமை அல்லது வருடாந்திர சந்தா", "dest": "mahimai"}
         ]
