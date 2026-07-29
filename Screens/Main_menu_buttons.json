@@ -89,7 +89,7 @@
             "contacts": [
               {"n": "திரு. A.K.K. இராமாமிர்தம்", "p": ""},
               {"n": "திரு. P.K.A.அவிநாசிலிங்கம்", "p": ""},
-              {"n": "திரு. M.சோமசுந்தரம்", "p": ""},
+              {"n": "திரு. M.சோமsun்தரம்", "p": ""},
               {"n": "திரு. C.P.S.A. குமரேசன்", "p": ""}
             ]
           },
@@ -142,12 +142,12 @@
       "fab": "nirvaagam",
       "payload": {
         "buttons": [
-          {"label": "மகாசபை", "dest": "kanakkukal_mahasabhai"},
-          {"label": "ஸ்ரீ விற்றூணியார் கோவில் குழு", "dest": "kanakkukal_vittruniyar"},
-          {"label": "பார்வதி கல்யாண மண்டபம்", "dest": "kanakkukal_mandapam"},
-          {"label": "கெங்காதரஞ்செட்டியார் அறக்கட்டளை", "dest": "kanakkukal_kengatharar"},
-          {"label": "உமையஞ் செட்டியார் அறக்கட்டளை", "dest": "kanakkukal_umaiyam"},
-          {"label": "பழனி மடம் நிர்வாகக் குழு", "dest": "kanakkukal_palani"}
+          {"label": "மகாசபை", "dest": "mahasabai_kanakkukal"},
+          {"label": "ஸ்ரீ விற்றூணியார் கோவில் குழு", "dest": "vittruniyar_kovil_kanakkukal"},
+          {"label": "பார்வதி கல்யாண மண்டபம்", "dest": "mandapam_kanakkukal"},
+          {"label": "கெங்காதரஞ்செட்டியார் அறக்கட்டளை", "dest": "kengatharar_kanakkukal"},
+          {"label": "உமையஞ் செட்டியார் அறக்கட்டளை", "dest": "umaiyam_kanakkukal"},
+          {"label": "பழனி மடம் நிர்வாகக் குழு", "dest": "palani_kanakkukal"}
         ]
       }
     },
@@ -165,68 +165,68 @@
       }
     },
     {
-      "id": "kanakkukal_mahasabhai",
+      "id": "mahasabai_kanakkukal",
       "type": "BUTTONS",
       "title": "மகாசபை கணக்குகள்",
       "fab": "kanakkukal",
       "payload": {
         "buttons": [
-          { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_ms_" }
+          { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_mahasabai_" }
         ]
       }
     },
     {
-      "id": "kanakkukal_vittruniyar",
+      "id": "vittruniyar_kovil_kanakkukal",
       "type": "BUTTONS",
-      "title": "கோவில் கணக்குகள்",
+      "title": "விற்றுணியார் கோவில் கணக்குகள்",
       "fab": "kanakkukal",
       "payload": {
         "buttons": [
-          { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_vk_" }
+          { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_vittruniyar_" }
         ]
       }
     },
     {
-      "id": "kanakkukal_mandapam",
+      "id": "mandapam_kanakkukal",
       "type": "BUTTONS",
       "title": "மண்டப கணக்குகள்",
       "fab": "kanakkukal",
       "payload": {
         "buttons": [
-          { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_pk_" }
+          { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_mandapam_" }
         ]
       }
     },
     {
-      "id": "kanakkukal_kengatharar",
+      "id": "kengatharar_kanakkukal",
       "type": "BUTTONS",
       "title": "கெங்காதரஞ்செட்டியார் கணக்குகள்",
       "fab": "kanakkukal",
       "payload": {
         "buttons": [
-          { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_kg_" }
+          { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_kengatharar_" }
         ]
       }
     },
     {
-      "id": "kanakkukal_umaiyam",
+      "id": "umaiyam_kanakkukal",
       "type": "BUTTONS",
       "title": "உமையஞ் செட்டியார் கணக்குகள்",
       "fab": "kanakkukal",
       "payload": {
         "buttons": [
-          { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_us_" }
+          { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_umaiyam_" }
         ]
       }
     },
     {
-      "id": "kanakkukal_palani",
+      "id": "palani_kanakkukal",
       "type": "BUTTONS",
       "title": "பழனி மடம் கணக்குகள்",
       "fab": "kanakkukal",
       "payload": {
         "buttons": [
-          { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_pm_" }
+          { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_palani_" }
         ]
       }
     },
@@ -333,7 +333,7 @@
           "<hr/>",
           "<p><b>முன்பதிவு வழிமுறைகள்</b></p>",
           "<p>நீங்கள் விரும்பும் தேதி முந்தைய திரையில் உள்ள காலண்டரில் காலியாக இருக்கும் பட்சத்தில் மண்டபம் முன் பதிவு செய்ய மண்டபம் மேனேஜரை தொடர்பு கொள்ளவும்.</p>",
-          "<p>முன் பதிவு தொகையை மேல்கண்ட UPI QR CODE மூலமாகவோ அல்லது பார்வதி கல்யாண மண்டப வங்கி கணக்கில் செலுத்தியோ விபரங்களை மேனேஜருக்கு அனுப்பவும். அவர் வரவை சரி பார்த்தபின் பதிவை உறுதி செய்வார்.</p>"
+          "<p>முன்பதிவு தொகையை மேல்கண்ட UPI QR CODE மூலமாகவோ அல்லது பார்வதி கல்யாண மண்டப வங்கி கணக்கில் செலுத்தியோ விபரங்களை மேனேஜருக்கு அனுப்பவும். அவர் வரவை சரி பார்த்தபின் பதிவை உறுதி செய்வார்.</p>"
         ],
         "image_res": "mandapam_upi_qr",
         "buttons": [
