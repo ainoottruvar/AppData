@@ -1,8 +1,6 @@
 {
   "group_id": "main_menus_group",
   "screens": [
-
-
     {
       "id": "nirvaagam",
       "type": "BUTTONS",
@@ -17,7 +15,6 @@
         ]
       }
     },
-
     {
       "id": "nirvaaka_amaippukal",
       "type": "TEXT",
@@ -60,7 +57,6 @@
         ]
       }
     },
-
     {
       "id": "nirvaaka_uruppinarkal",
       "type": "CONTACTS",
@@ -139,8 +135,6 @@
         ]
       }
     },
-
-
     {
       "id": "kanakkukal",
       "type": "BUTTONS",
@@ -157,7 +151,6 @@
         ]
       }
     },
-
     {
       "id": "mahimai",
       "type": "TEXT",
@@ -171,7 +164,72 @@
         "image_res": "mandapam_upi_qr"
       }
     },
-
+    {
+      "id": "kanakkukal_mahasabhai",
+      "type": "BUTTONS",
+      "title": "மகாசபை கணக்குகள்",
+      "fab": "kanakkukal",
+      "payload": {
+        "buttons": [
+          { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_ms_" }
+        ]
+      }
+    },
+    {
+      "id": "kanakkukal_vittruniyar",
+      "type": "BUTTONS",
+      "title": "கோவில் கணக்குகள்",
+      "fab": "kanakkukal",
+      "payload": {
+        "buttons": [
+          { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_vk_" }
+        ]
+      }
+    },
+    {
+      "id": "kanakkukal_mandapam",
+      "type": "BUTTONS",
+      "title": "மண்டப கணக்குகள்",
+      "fab": "kanakkukal",
+      "payload": {
+        "buttons": [
+          { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_pk_" }
+        ]
+      }
+    },
+    {
+      "id": "kanakkukal_kengatharar",
+      "type": "BUTTONS",
+      "title": "கெங்காதரஞ்செட்டியார் கணக்குகள்",
+      "fab": "kanakkukal",
+      "payload": {
+        "buttons": [
+          { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_kg_" }
+        ]
+      }
+    },
+    {
+      "id": "kanakkukal_umaiyam",
+      "type": "BUTTONS",
+      "title": "உமையஞ் செட்டியார் கணக்குகள்",
+      "fab": "kanakkukal",
+      "payload": {
+        "buttons": [
+          { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_us_" }
+        ]
+      }
+    },
+    {
+      "id": "kanakkukal_palani",
+      "type": "BUTTONS",
+      "title": "பழனி மடம் கணக்குகள்",
+      "fab": "kanakkukal",
+      "payload": {
+        "buttons": [
+          { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_pm_" }
+        ]
+      }
+    },
     {
       "id": "mukkiya_enkal",
       "type": "CONTACTS",
@@ -213,14 +271,14 @@
             ]
           },
           {
-            "name": "இதர எண்கள் 1",
+            "label": "இதர எண்கள் 1",
             "contacts": [
               {"n": "தாலுகா அலுவலகம்", "p": "98765 43217"},
               {"n": "காவல் நிலையம்", "p": "98765 43218"}
             ]
           },
           {
-            "name": "இதர எண்கள் 2",
+            "label": "இதர எண்கள் 2",
             "contacts": [
               {"n": "மருத்துவமனை", "p": "98765 43219"},
               {"n": "மின்சார வாரியம்", "p": "98765 43220"}
@@ -229,7 +287,6 @@
         ]
       }
     },
-
     {
       "id": "namathu_samayal",
       "type": "TEXT",
@@ -242,7 +299,6 @@
         ]
       }
     },
-
     {
       "id": "mandapam",
       "type": "MANDAPAM",
@@ -250,7 +306,6 @@
       "fab": "home",
       "payload": {}
     },
-
     {
       "id": "mandapam_menu",
       "type": "BUTTONS",
@@ -263,7 +318,6 @@
         ]
       }
     },
-
     {
       "id": "mandapam_booking_instructions",
       "type": "TEXT",
@@ -282,12 +336,11 @@
           "<p>முன் பதிவு தொகையை மேல்கண்ட UPI QR CODE மூலமாகவோ அல்லது பார்வதி கல்யாண மண்டப வங்கி கணக்கில் செலுத்தியோ விபரங்களை மேனேஜருக்கு அனுப்பவும். அவர் வரவை சரி பார்த்தபின் பதிவை உறுதி செய்வார்.</p>"
         ],
         "image_res": "mandapam_upi_qr",
-        "btn_label": "மேலாளரை அழைக்க",
-        "phone": "9876510016"
+        "buttons": [
+          { "label": "மேலாளரை அழைக்க", "dest": "tel:9876510016", "icon": "call" }
+        ]
       }
     },
-
-
     {
       "id": "paadalkal",
       "type": "BUTTONS",
@@ -305,9 +358,5 @@
         ]
       }
     }
-
-
-
-
   ]
 }
