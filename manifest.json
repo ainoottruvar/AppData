@@ -1,12 +1,12 @@
 {
-  "overall_version": 34,
-  "updated_at": "2026-07-30 21:55:49",
+  "overall_version": 35,
+  "updated_at": "2026-07-30 22:08:45",
   "sections": {
     "screens": [
       {
         "name": "home_buttons.json",
-        "ver": 6,
-        "hash": "1c350bca5ccd877b6b355a933288355c"
+        "ver": 7,
+        "hash": "9e41073fe8e7e8ca34203fbc8d443ff1"
       },
       {
         "name": "kanda_sashti_kavasam.json",
