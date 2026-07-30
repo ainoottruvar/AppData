@@ -96,7 +96,7 @@
           {
             "name": "பார்வதி கல்யாண மண்டப நிர்வாகக் குழு",
             "contacts": [
-              {"n": "திரு. K.தங்கவேல்", "p": ""},
+              {"n": "திரு. K.தنگவேல்", "p": ""},
               {"n": "திரு, A.K.K.ஜெகதீசன்", "p": ""},
               {"n": "திரு. K.ஜெயபிரகாஷ்", "p": ""},
               {"n": "திரு. A.விவேகானந்தன்", "p": ""},
@@ -221,6 +221,19 @@
       "payload": {
         "buttons": [
           { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_palani_" }
+        ]
+      }
+    },
+    {
+      "id": "thodarpukal",
+      "type": "BUTTONS",
+      "title": "தொடர்புகள்",
+      "fab": "home",
+      "payload": {
+        "buttons": [
+          {"label": "முக்கிய எண்கள்", "dest": "mukkiya_enkal"},
+          {"label": "தொலைபேசி கையேடு", "dest": "tholaipesi_kaiyedu"},
+          {"label": "சென்சஸ்", "dest": "census"}
         ]
       }
     },
