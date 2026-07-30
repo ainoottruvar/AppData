@@ -1,8 +1,13 @@
 {
-  "overall_version": 28,
-  "updated_at": "2026-07-30 17:16:42",
+  "overall_version": 29,
+  "updated_at": "2026-07-30 18:50:50",
   "sections": {
     "screens": [
+      {
+        "name": "home_buttons.json",
+        "ver": 1,
+        "hash": "9e41073fe8e7e8ca34203fbc8d443ff1"
+      },
       {
         "name": "kanda_sashti_kavasam.json",
         "ver": 2,
@@ -25,8 +30,8 @@
       },
       {
         "name": "Main_menu_buttons.json",
-        "ver": 12,
-        "hash": "156c448277c8657c7a23b7047baa7c8e"
+        "ver": 13,
+        "hash": "0641460e4357d00d9c997eee13f5ab32"
       },
       {
         "name": "muhurtham_varai.json",

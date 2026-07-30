@@ -1,8 +1,8 @@
 {
-  "group_id": "main_menus_group",
+  "group_id": "menu_buttons_group",
   "screens": [
     {
-      "id": "nirvaagam",
+      "id": "nirvaakam",
       "type": "BUTTONS",
       "title": "நிர்வாகம்",
       "fab": "home",
@@ -19,7 +19,7 @@
       "id": "nirvaaka_amaippukal",
       "type": "TEXT",
       "title": "நிர்வாக அமைப்புகள்",
-      "fab": "nirvaagam",
+      "fab": "nirvaakam",
       "payload": {
         "html": [
           "<p><b>1) மகாசபை:</b></p>",
@@ -133,7 +133,7 @@
       "id": "kanakkukal",
       "type": "BUTTONS",
       "title": "வரவு செலவு கணக்குகள்",
-      "fab": "nirvaagam",
+      "fab": "nirvaakam",
       "payload": {
         "buttons": [
           {"label": "மகாசபை", "dest": "mahasabai_kanakkukal"},
@@ -149,7 +149,7 @@
       "id": "mahimai",
       "type": "TEXT",
       "title": "மகிமை / சந்தா",
-      "fab": "nirvaagam",
+      "fab": "nirvaakam",
       "payload": {
         "html": [
           "<p>நமது சமூகத்தை சேர்ந்த 18 வயதுக்கு மேற்பட்ட ஆண், பெண் அனைவரும் நமது மகாசபையின் உறுப்பினர் ஆவர். ஆண்டுக்கு ஒரு முறை நமது சமூகத்தின் ஒவ்வொரு குடும்பமும் (ஒரு மாங்கல்யம் - ஒரு குடும்பம்) மகிமை தொகை ரூ 1௦௦ செலுத்த வேண்டும்.</p>",

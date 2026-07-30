@@ -1,0 +1,20 @@
+{
+  "group_id": "home_frag_buttons_config",
+  "screens": [
+    {
+      "id": "home_frag_buttons",
+      "type": "CONFIG",
+      "title": "Home Navigation Configuration",
+      "payload": {
+        "button_nirvaakam": "nirvaakam",
+        "button_mandapam": "mandapam",
+        "button_thodarpukal": "mukkiya_enkal",
+        "button_vazhimuraikal": "vazhimuraikal",
+        "button_saamankal_list": "saamankal_list",
+        "button_namathu_samayal": "namathu_samayal",
+        "button_kovilkal": "kovilkal",
+        "button_paadalkal": "paadalkal"
+      }
+    }
+  ]
+}
