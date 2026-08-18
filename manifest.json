@@ -1,6 +1,6 @@
 {
-  "overall_version": 37,
-  "updated_at": "2026-08-18 10:31:38",
+  "overall_version": 38,
+  "updated_at": "2026-08-18 11:54:24",
   "sections": {
     "screens": [
       {
@@ -20,8 +20,8 @@
       },
       {
         "name": "kovilkal.json",
-        "ver": 3,
-        "hash": "9f76ce0e99ac73befbb12d5906106487"
+        "ver": 4,
+        "hash": "416295780c6042edd1ef9d80d91cb68e"
       },
       {
         "name": "mahishasura_mardhini.json",
@@ -45,8 +45,8 @@
       },
       {
         "name": "nichaya_thamboolam.json",
-        "ver": 2,
-        "hash": "c77fa6b621b5c4706b4be18fe1fa45e7"
+        "ver": 3,
+        "hash": "3670b487af0427c4c8d30c654143eba0"
       },
       {
         "name": "oonjal_thirupor.json",
