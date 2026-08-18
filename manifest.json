@@ -1,6 +1,6 @@
 {
-  "overall_version": 40,
-  "updated_at": "2026-08-18 12:08:23",
+  "overall_version": 41,
+  "updated_at": "2026-08-18 19:23:22",
   "sections": {
     "screens": [
       {
@@ -45,8 +45,8 @@
       },
       {
         "name": "nichaya_thamboolam.json",
-        "ver": 5,
-        "hash": "ff3f311a66bbc005581fe21eff284130"
+        "ver": 6,
+        "hash": "fa87c1cb36f76b2795a824555661250e"
       },
       {
         "name": "oonjal_thirupor.json",
