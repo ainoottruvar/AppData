@@ -1,0 +1,12 @@
+{
+  "maintenance": {
+    "isUnderMaintenance": true,
+    "message": "Updating our song library. Please check back in a few minutes."
+  },
+  "app_update": {
+    "latestVersionCode": 1,
+    "minRequiredVersion": 1,
+    "updateUrl": "https://play.google.com/store/apps/details?id\u003dcom.pimu.Ainnurruvar_500",
+    "forceUpdate": false
+  }
+}
