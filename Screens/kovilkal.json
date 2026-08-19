@@ -94,12 +94,12 @@
         "buttons": [
           {
             "label": "Temple Frontside & Parking",
-            "dest": "https://www.google.com/maps/search/?api=1&query=10.770025,76.646662+(Vittruniyar+Temple+Frontside)",
+            "dest": "https://www.google.com/maps/search/?api=1&query=10.770025,76.646662",
             "icon": "map"
           },
           {
             "label": "Temple Backside (Vithunni Road side)",
-            "dest": "https://www.google.com/maps/search/?api=1&query=10.770044,76.645943+(Vittruniyar+Temple+Backside)",
+            "dest": "https://www.google.com/maps/search/?api=1&query=10.770044,76.645943",
             "icon": "map"
           }
         ]
