@@ -1,8 +1,13 @@
 {
-  "overall_version": 48,
-  "updated_at": "2026-08-19 21:24:02",
+  "overall_version": 51,
+  "updated_at": "2026-08-20 19:18:50",
   "sections": {
     "screens": [
+      {
+        "name": "global_config.json",
+        "ver": 1,
+        "hash": "c99f1343ac01b2d1395deb4a8f730e47"
+      },
       {
         "name": "home_buttons.json",
         "ver": 8,
@@ -20,8 +25,8 @@
       },
       {
         "name": "kovilkal.json",
-        "ver": 10,
-        "hash": "1d32ce8120ed37bc6973cca58093d803"
+        "ver": 11,
+        "hash": "4a12421ae3d29b9adef56b12ea080a02"
       },
       {
         "name": "mahishasura_mardhini.json",
@@ -72,6 +77,11 @@
         "name": "saamaankal_list.json",
         "ver": 8,
         "hash": "4ec4045abafa9d7caa37192a94a74ad1"
+      },
+      {
+        "name": "search_index.json",
+        "ver": 1,
+        "hash": "86a3c49cc88a34f1b2b5a9f02c8bcd98"
       },
       {
         "name": "sivapuraanam.json",
