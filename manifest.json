@@ -1,13 +1,8 @@
 {
-  "overall_version": 51,
-  "updated_at": "2026-08-20 19:18:50",
+  "overall_version": 52,
+  "updated_at": "2026-08-20 22:01:07",
   "sections": {
     "screens": [
-      {
-        "name": "global_config.json",
-        "ver": 1,
-        "hash": "c99f1343ac01b2d1395deb4a8f730e47"
-      },
       {
         "name": "home_buttons.json",
         "ver": 8,
@@ -79,11 +74,6 @@
         "hash": "4ec4045abafa9d7caa37192a94a74ad1"
       },
       {
-        "name": "search_index.json",
-        "ver": 1,
-        "hash": "86a3c49cc88a34f1b2b5a9f02c8bcd98"
-      },
-      {
         "name": "sivapuraanam.json",
         "ver": 1,
         "hash": "d65a78abb816e6f93f0af72001e2d4b1"
@@ -122,6 +112,18 @@
         "name": "vinayagar_akaval.json",
         "ver": 1,
         "hash": "f88fd51d16bb79c7e20ebdb6b2468c76"
+      }
+    ],
+    "utilities": [
+      {
+        "name": "search_index.json",
+        "ver": 1,
+        "hash": "86a3c49cc88a34f1b2b5a9f02c8bcd98"
+      },
+      {
+        "name": "global_config.json",
+        "ver": 1,
+        "hash": "c99f1343ac01b2d1395deb4a8f730e47"
       }
     ],
     "pdfs": [
