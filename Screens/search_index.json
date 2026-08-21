@@ -5,7 +5,7 @@
     "category": "Paadalkal",
     "target": "TEXT_FRAGMENT",
     "params": "kanda_sashti_kavasam.json",
-    "keywords": "கந்தசஷ்டி கவசம் kntsti kvsm",
+    "keywords": "கந்தசஷ்டி கவசம் knTsT kvsm",
     "snippet": "கந்தசஷ்டி கவசம் காப்பு-நேரிசை வெண்பா துதிப்போர்க்கு வல்வினைபோம் துன்பம்போம் நெஞ்சில் பதிப்போர்க்க..."
   },
   {
@@ -14,7 +14,7 @@
     "category": "Paadalkal",
     "target": "TEXT_FRAGMENT",
     "params": "kolaru_pathikam.json",
-    "keywords": "கோளறு பதிகம் kolru vtikm",
+    "keywords": "கோளறு பதிகம் kLR pTkm",
     "snippet": "கோளறு பதிகம் \"வேய் உறு தோளிபங்கன் விடமுண்ட கண்டன் மிக நல்ல வீணை தடவி மாசறு திங்கள் கங்கை முடிமேல்..."
   },
   {
@@ -23,7 +23,7 @@
     "category": "Kovilkal",
     "target": "TEXT_FRAGMENT",
     "params": "kovilkal.json",
-    "keywords": "விற்றூணியார் கோவில் viruniyar kovil",
+    "keywords": "விற்றூணியார் கோவில் vRNyr kvl",
     "snippet": "பாலக்காடு விற்றூணியார் கோவில் FIRST TEST AGAIN நமது ஐந்நூற்றுவர் சமூகத்தை சேர்ந்த ஒவ்வொரு குடும்ப..."
   },
   {
@@ -32,7 +32,7 @@
     "category": "Kovilkal",
     "target": "TEXT_FRAGMENT",
     "params": "kovilkal.json",
-    "keywords": "குலதெய்வக் கோவில்கள் kulteyvk kovilkl",
+    "keywords": "குலதெய்வக் கோவில்கள் klTyvk kvlkL",
     "snippet": "நமது கோவில்கள் பாலக்காடு: அருள்மிகு ஸ்ரீ விற்றூணியார் தேவஸ்தானம் விற்றுண்ணி ரோடு, நூரணி அஞ்சல், ப..."
   },
   {
@@ -41,7 +41,7 @@
     "category": "Paadalkal",
     "target": "TEXT_FRAGMENT",
     "params": "mahishasura_mardhini.json",
-    "keywords": "மகிஷாசுர மர்தினி mkisasur mrtini",
+    "keywords": "மகிஷாசுர மர்தினி mksr mrTn",
     "snippet": "மகிஷாசுரமர்தினி 1. அயிகிரி நந்தினி நந்தித மேதினி விச்வ வினோதினி நந்தநுதே கிரிவர விந்த்ய சிரோதி நி..."
   },
   {
@@ -50,7 +50,7 @@
     "category": "Menu buttons",
     "target": "TEXT_FRAGMENT",
     "params": "Main_menu_buttons.json",
-    "keywords": "நிர்வாக அமைப்புகள் nirvak amaivukl",
+    "keywords": "நிர்வாக அமைப்புகள் nrvk mpkL",
     "snippet": "1) மகாசபை: எம்மாம்பூண்டி ஐநூற்று செட்டிமார் மகா சபை 21/11/1941 அன்று துவங்கப்பட்டது. நமது சமூகத்த..."
   },
   {
@@ -59,7 +59,7 @@
     "category": "Menu buttons",
     "target": "TEXT_FRAGMENT",
     "params": "Main_menu_buttons.json",
-    "keywords": "மகிமை / சந்தா mkimai snta",
+    "keywords": "மகிமை / சந்தா mkm snT",
     "snippet": "நமது சமூகத்தை சேர்ந்த 18 வயதுக்கு மேற்பட்ட ஆண், பெண் அனைவரும் நமது மகாசபையின் உறுப்பினர் ஆவர். ஆண..."
   },
   {
@@ -68,7 +68,7 @@
     "category": "Menu buttons",
     "target": "TEXT_FRAGMENT",
     "params": "Main_menu_buttons.json",
-    "keywords": "நமது சமையல் nmtu smaiyl",
+    "keywords": "நமது சமையல் nmT smyl",
     "snippet": "நமது ஐநூற்றுவர் சமூகத்திற்கற்கே உரிய உணவு வகைகளான கரு வடகம், இலை வடகம், சேம்பு குழம்பு, அரிசி பரு..."
   },
   {
@@ -77,7 +77,7 @@
     "category": "Menu buttons",
     "target": "TEXT_FRAGMENT",
     "params": "Main_menu_buttons.json",
-    "keywords": "மண்டபம் முன்பதிவு mntvm munvtivu",
+    "keywords": "மண்டபம் முன்பதிவு mNTpm mnpTv",
     "snippet": "வங்கி விபரங்கள் NAME : PARVATHI KALYANA MANDAPAM AVINASHI AC NO : 6696923217 BANK : INDIAN BANK, ..."
   },
   {
@@ -86,7 +86,7 @@
     "category": "Muhurtham varai",
     "target": "TEXT_FRAGMENT",
     "params": "muhurtham_varai.json",
-    "keywords": "கல்யாண விளக்கு klyan vilku",
+    "keywords": "கல்யாண விளக்கு klyN vLk",
     "snippet": "கல்யாண விளக்கு திருமணக் கூடத்தில் உள்ள மாடத்தில் பெரிய மாக்கல் விளக்கில் நிரம்ப எண்ணெய் விட்டு கன..."
   },
   {
@@ -95,7 +95,7 @@
     "category": "Muhurtham varai",
     "target": "TEXT_FRAGMENT",
     "params": "muhurtham_varai.json",
-    "keywords": "மணவறை அலங்காரம் mnvrai alnkarm",
+    "keywords": "மணவறை அலங்காரம் mNvR lnkrm",
     "snippet": "மணவறை அலங்காரம் \u0026bull; ஐந்து அடிக்குக் குறையாமலும், ஏழு அடிக்கு மேலே போகாமலும், சம சதுரமாக மணவறை ..."
   },
   {
@@ -104,7 +104,7 @@
     "category": "Muhurtham varai",
     "target": "TEXT_FRAGMENT",
     "params": "muhurtham_varai.json",
-    "keywords": "குத்துவிளக்கு ஏற்றி, கரகம் வைத்தல் kutuvilku eri krkm vaitl",
+    "keywords": "குத்துவிளக்கு ஏற்றி, கரகம் வைத்தல் kTvLk R krkm vTl",
     "snippet": "குத்துவிளக்கு ஏற்றி, கரகம் வைத்தல் மணவறை க்கு முன் பக்கத்தில் இரண்டு பெரிய குத்துவிளக்கு ஏற்றி வை..."
   },
   {
@@ -113,7 +113,7 @@
     "category": "Muhurtham varai",
     "target": "TEXT_FRAGMENT",
     "params": "muhurtham_varai.json",
-    "keywords": "மணமகனுக்கு முகவேலை mnmknuku mukvelai",
+    "keywords": "மணமகனுக்கு முகவேலை mNmknk mkvl",
     "snippet": "மணமகனுக்கு முகவேலை \u0026bull; அருமைக்காரி, 2 இடங்களில் செம்மண்ணில் வழித்துவிடுவார். ஒன்றில் பிள்ளையார..."
   },
   {
@@ -122,7 +122,7 @@
     "category": "Muhurtham varai",
     "target": "TEXT_FRAGMENT",
     "params": "muhurtham_varai.json",
-    "keywords": "மணமகன் மங்கள நீராடல் mnmkn mnkl niratl",
+    "keywords": "மணமகன் மங்கள நீராடல் mNmkn mnkL nrTl",
     "snippet": "மணமகன் மங்கள நீராடல் மணமகனுக்கு, சிகப்பு பட்டு வேஷ்டி கட்டி, சிகப்பு அங்கவஸ்திரம் போட்டு, சிகப்பு..."
   },
   {
@@ -131,7 +131,7 @@
     "category": "Muhurtham varai",
     "target": "TEXT_FRAGMENT",
     "params": "muhurtham_varai.json",
-    "keywords": "மணமகள் மங்கள நீராடல் mnmkl mnkl niratl",
+    "keywords": "மணமகள் மங்கள நீராடல் mNmkL mnkL nrTl",
     "snippet": "மணமகள் மங்கள நீராடல் மணமகள் வீட்டு அருமைக்காரியால் மேலே குறிப்பிட்ட முறையில், மணமகளுக்கும் மங்கல ..."
   },
   {
@@ -140,7 +140,7 @@
     "category": "Muhurtham varai",
     "target": "TEXT_FRAGMENT",
     "params": "muhurtham_varai.json",
-    "keywords": "மணமகன் அலங்காரம் - மாலை அணிவித்தல் mnmkn alnkarm malai anivitl",
+    "keywords": "மணமகன் அலங்காரம் - மாலை அணிவித்தல் mNmkn lnkrm ml NvTl",
     "snippet": "மணமகன் அலங்காரம் - மாலை அணிவித்தல் மணமகனுக்கு சிகப்பு பட்டு வேஷ்டியில் பஞ்சகச்சம் வைத்து கட்டிய ப..."
   },
   {
@@ -149,7 +149,7 @@
     "category": "Muhurtham varai",
     "target": "TEXT_FRAGMENT",
     "params": "muhurtham_varai.json",
-    "keywords": "மணமகனுக்கு காப்புக்கட்டுதல் mnmknuku kavuktutl",
+    "keywords": "மணமகனுக்கு காப்புக்கட்டுதல் mNmknk kpkTl",
     "snippet": "மணமகனுக்கு காப்புக்கட்டுதல் புரோகிதருக்கு, புண்ணியாச்சனைக்கு அரிசி - 1 படி, நவக்கிரஹத்துக்கு அரிச..."
   },
   {
@@ -158,7 +158,7 @@
     "category": "Muhurtham varai",
     "target": "TEXT_FRAGMENT",
     "params": "muhurtham_varai.json",
-    "keywords": "மணமகனை திருமண இல்லத்திற்குஅனுப்புதல் mnmknai tirumn iltirkuanuvutl",
+    "keywords": "மணமகனை திருமண இல்லத்திற்குஅனுப்புதல் mNmkn TrmN LTRknpTl",
     "snippet": "மணமகனை திருமண இல்லத்திற்குஅனுப்புதல் மணமகனுக்குத் தாயார் நுனி இலையில் தயிர்சாதம் போட்டு மணமகனுக்க..."
   },
   {
@@ -167,7 +167,7 @@
     "category": "Muhurtham varai",
     "target": "TEXT_FRAGMENT",
     "params": "muhurtham_varai.json",
-    "keywords": "மணமகன் வினாயகர் வழிபாடு mnmkn vinaykr vlivatu",
+    "keywords": "மணமகன் வினாயகர் வழிபாடு mNmkn vnykr vzpT",
     "snippet": "மணமகன் வினாயகர் வழிபாடு மணமகன் பங்காளிகள் உற்றார் உறவினருடன் நாதசுரவாத்தியம் முழுங்க கோவிலுக்குச்..."
   },
   {
@@ -176,7 +176,7 @@
     "category": "Muhurtham varai",
     "target": "TEXT_FRAGMENT",
     "params": "muhurtham_varai.json",
-    "keywords": "மாப்பிள்ளை அழைப்பு mavilai alaivu",
+    "keywords": "மாப்பிள்ளை அழைப்பு mpL zp",
     "snippet": "மாப்பிள்ளை அழைப்பு மணமகன் தன் பங்காளிகள், உள்ளுர் உறவினர் தமக்கை, தங்கை மற்றும் பெண்கள் புடைசூழ த..."
   },
   {
@@ -185,7 +185,7 @@
     "category": "Muhurtham varai",
     "target": "TEXT_FRAGMENT",
     "params": "muhurtham_varai.json",
-    "keywords": "புதுக்கல சாப்பாடு vutukl savatu",
+    "keywords": "புதுக்கல சாப்பாடு pTkl spT",
     "snippet": "புதுக்கல சாப்பாடு மணமகன் அறைக்கு, (முன்பு விடுதி வீட்டுக்கு) மணமகன் வந்து சேர்ந்த பின், நங்கையார்..."
   },
   {
@@ -194,7 +194,7 @@
     "category": "Muhurtham varai",
     "target": "TEXT_FRAGMENT",
     "params": "muhurtham_varai.json",
-    "keywords": "மணமகளுக்குப் பட்டம் கட்டுதல், மாலை அணிவித்தல் mnmklukuv vtm ktutl malai anivitl",
+    "keywords": "மணமகளுக்குப் பட்டம் கட்டுதல், மாலை அணிவித்தல் mNmkLkp pTm kTl ml NvTl",
     "snippet": "மணமகளுக்குப் பட்டம் கட்டுதல், மாலை அணிவித்தல் மணமகளை சிறப்பாக அலங்கரித்து பேழை மூடியில் கிழக்குநோ..."
   },
   {
@@ -203,7 +203,7 @@
     "category": "Muhurtham varai",
     "target": "TEXT_FRAGMENT",
     "params": "muhurtham_varai.json",
-    "keywords": "மணமகளுக்கு காப்புக் கட்டுதல் mnmkluku kavuk ktutl",
+    "keywords": "மணமகளுக்கு காப்புக் கட்டுதல் mNmkLk kpk kTl",
     "snippet": "மணமகளுக்கு காப்புக் கட்டுதல் மணமகளின் காப்புக்கு, புரோகிதர் தேங்காய் உடைத்து பழ, வெற்றிலைபாக்கு வ..."
   },
   {
@@ -212,7 +212,7 @@
     "category": "Muhurtham varai",
     "target": "TEXT_FRAGMENT",
     "params": "muhurtham_varai.json",
-    "keywords": "மணமகன் மணவரைக்கு வருதல்: மணமகளுக்கு பொன்பூட்டுதல் mnmkn mnvraiku vrutl mnmkluku vonvututl",
+    "keywords": "மணமகன் மணவரைக்கு வருதல்: மணமகளுக்கு பொன்பூட்டுதல் mNmkn mNvrk vrTl mNmkLk pnpTl",
     "snippet": "மணமகன் மணவரைக்கு வருதல்: மணமகளுக்கு பொன்பூட்டுதல் மணமகன் அறையிலிருந்து தோழன், மணமகனை சிறப்பாக அலங..."
   },
   {
@@ -221,7 +221,7 @@
     "category": "Muhurtham varai",
     "target": "TEXT_FRAGMENT",
     "params": "muhurtham_varai.json",
-    "keywords": "வெற்றிலைபாக்கு பிடித்தல் verilaivaku vititl",
+    "keywords": "வெற்றிலைபாக்கு பிடித்தல் vRlpk pTl",
     "snippet": "வெற்றிலைபாக்கு பிடித்தல் மணவறைக்கு முன்பு வடகிழக்கில் செம்மண்ணில் வழித்துவிட்டு, பேழை மூடியில், 9..."
   },
   {
@@ -230,7 +230,7 @@
     "category": "Muhurtham varai",
     "target": "TEXT_FRAGMENT",
     "params": "muhurtham_varai.json",
-    "keywords": "மாலைமாற்றுதல் – மாங்கல்யதாரணம் malaimarutl manklytarnm",
+    "keywords": "மாலைமாற்றுதல் – மாங்கல்யதாரணம் mlmRTl mnklyTrNm",
     "snippet": "மாலைமாற்றுதல் – மாங்கல்யதாரணம் மாங்கல்ய தாரணத்துக்கு சற்று முன் ஓர் தட்டில் அட்சதை வைத்து மண்டபத்..."
   },
   {
@@ -239,7 +239,7 @@
     "category": "Muhurthathirku pin",
     "target": "TEXT_FRAGMENT",
     "params": "muhurthathirku_pin.json",
-    "keywords": "இணைக்காரி சீர் inaikari sir",
+    "keywords": "இணைக்காரி சீர் Nkr sr",
     "snippet": "இணைக்காரி சீர் மணமகனின் தமக்கையோ அல்லது தங்கையோ சிறப்பாக அலங்காரம் செய்து பூ நிறைய வைத்துக் கொண்ட..."
   },
   {
@@ -248,7 +248,7 @@
     "category": "Muhurthathirku pin",
     "target": "TEXT_FRAGMENT",
     "params": "muhurthathirku_pin.json",
-    "keywords": "கைவீசுக்காரன் – சீர் kaivisukarn sir",
+    "keywords": "கைவீசுக்காரன் – சீர் kvskrn sr",
     "snippet": "கைவீசுக்காரன் – சீர் மணமகளின் தம்பிக்கு (அப்படி இல்லாவிடில் பங்காளி அல்லது தாயாதிகளில் சகோதரத்துவ..."
   },
   {
@@ -257,7 +257,7 @@
     "category": "Muhurthathirku pin",
     "target": "TEXT_FRAGMENT",
     "params": "muhurthathirku_pin.json",
-    "keywords": "பாதபூஜை vatvusai",
+    "keywords": "பாதபூஜை pTpj",
     "snippet": "பாதபூஜை மணமகளின் தந்தை, தாயார் ஒரு கெண்டியில் தண்ணீருடன், மணவறைக்குள் வந்து வடக்குப்பார்த்து ஒன்ற..."
   },
   {
@@ -266,7 +266,7 @@
     "category": "Muhurthathirku pin",
     "target": "TEXT_FRAGMENT",
     "params": "muhurthathirku_pin.json",
-    "keywords": "அருகுமணம் எடுத்தல் arukumnm etutl",
+    "keywords": "அருகுமணம் எடுத்தல் rkmNm Tl",
     "snippet": "அருகுமணம் எடுத்தல் புரோகிதர் முதலில் பிள்ளையாருக்கு அருகுமணம் எடுத்துப்பின்னர், புதுமணத் தம்பதியர..."
   },
   {
@@ -275,7 +275,7 @@
     "category": "Muhurthathirku pin",
     "target": "TEXT_FRAGMENT",
     "params": "muhurthathirku_pin.json",
-    "keywords": "ஆசீர்வாதம் asirvatm",
+    "keywords": "ஆசீர்வாதம் srvTm",
     "snippet": "ஆசீர்வாதம் புதுமணத்தம்பதி, திருமணத்திற்கு வந்திருக்கும் பெரியவர்களின் கால்களைத் தொட்டு நமஸ்காரம் ..."
   },
   {
@@ -284,7 +284,7 @@
     "category": "Muhurthathirku pin",
     "target": "TEXT_FRAGMENT",
     "params": "muhurthathirku_pin.json",
-    "keywords": "கிளைப்பணம் வைத்தல் kilaivnm vaitl",
+    "keywords": "கிளைப்பணம் வைத்தல் kLpNm vTl",
     "snippet": "கிளைப்பணம் வைத்தல் மணப்பெண் வீட்டார், தங்கள் குடும்பத்தின் (பழைய) முந்தய மாப்பிள்ளைக்கும், புது ம..."
   },
   {
@@ -293,7 +293,7 @@
     "category": "Muhurthathirku pin",
     "target": "TEXT_FRAGMENT",
     "params": "muhurthathirku_pin.json",
-    "keywords": "சிறுசீர் வைத்தல் sirusir vaitl",
+    "keywords": "சிறுசீர் வைத்தல் sRsr vTl",
     "snippet": "சிறுசீர் வைத்தல் மணமகன் வீட்டார் தாங்கள் கொண்டுவந்திருக்கும் சிறுசீர் சாமான்களான பழம், தேங்காய்கள..."
   },
   {
@@ -302,7 +302,7 @@
     "category": "Muhurthathirku pin",
     "target": "TEXT_FRAGMENT",
     "params": "muhurthathirku_pin.json",
-    "keywords": "நாகவல்லி (நாளாணைத் தண்ணிவார்த்தல்) nakvli nalanait tnivartl",
+    "keywords": "நாகவல்லி (நாளாணைத் தண்ணிவார்த்தல்) nkvL nLNT TNvrTl",
     "snippet": "நாகவல்லி (நாளாணைத் தண்ணிவார்த்தல்) திருமணத்துக்கு முன்பு, மணமகன், மணமகள் இருவருக்கும் தனித்தனியே ..."
   },
   {
@@ -311,7 +311,7 @@
     "category": "Muhurthathirku pin",
     "target": "TEXT_FRAGMENT",
     "params": "muhurthathirku_pin.json",
-    "keywords": "மணமகள் மணமகனுக்கு சட்டுவச்சாதம் போடுதல் mnmkl mnmknuku stuvsatm votutl",
+    "keywords": "மணமகள் மணமகனுக்கு சட்டுவச்சாதம் போடுதல் mNmkL mNmknk sTvsTm pTl",
     "snippet": "மணமகள் மணமகனுக்கு சட்டுவச்சாதம் போடுதல் இதுவும் திருமணச் சடங்குகளில் குறிப்பிடத்தக்கது. மாப்பிள்ள..."
   },
   {
@@ -320,7 +320,7 @@
     "category": "Muhurthathirku pin",
     "target": "TEXT_FRAGMENT",
     "params": "muhurthathirku_pin.json",
-    "keywords": "கரகம் நகர்த்தி – பரியம் செலுத்துவது krkm nkrti vriym selutuvtu",
+    "keywords": "கரகம் நகர்த்தி – பரியம் செலுத்துவது krkm nkrT prym slTvT",
     "snippet": "கரகம் நகர்த்தி – பரியம் செலுத்துவது 1 1/2 அடி சமசதுரமான வெள்ளைத் துணியை நன்றாக மஞ்சள் நீரில் நனைத..."
   },
   {
@@ -329,7 +329,7 @@
     "category": "Muhurthathirku pin",
     "target": "TEXT_FRAGMENT",
     "params": "muhurthathirku_pin.json",
-    "keywords": "ஊஞ்சல் unsl",
+    "keywords": "ஊஞ்சல் nsl",
     "snippet": "ஊஞ்சல் மணமகனையும், மணமகளையும் நன்றாக அலங்காரம் செய்து சிறந்த மலர்மாலை அணிவித்து, கைகளில் மலர்செண்..."
   },
   {
@@ -338,7 +338,7 @@
     "category": "Muhurthathirku pin",
     "target": "TEXT_FRAGMENT",
     "params": "muhurthathirku_pin.json",
-    "keywords": "கல்யாண \"மொய்” எழுதுதல் klyan moy elututl",
+    "keywords": "கல்யாண \"மொய்” எழுதுதல் klyN my zTl",
     "snippet": "கல்யாண \"மொய்” எழுதுதல் பந்து ஜனங்களுக்கும் திருமணத்திற்கு வந்திருந்த அனைவருக்கும் காலையில் இனிப்ப..."
   },
   {
@@ -347,7 +347,7 @@
     "category": "Muhurthathirku pin",
     "target": "TEXT_FRAGMENT",
     "params": "muhurthathirku_pin.json",
-    "keywords": "பெண் காணுதல் ven kanutl",
+    "keywords": "பெண் காணுதல் pN kNTl",
     "snippet": "பெண் காணுதல் முன்பெல்லாம் மணமகனின் தாயார் திருமண முகூர்த்தம் நடக்கும் போது மணமகள் இல்லத்துக்கோ மண..."
   },
   {
@@ -356,7 +356,7 @@
     "category": "Muhurthathirku pin",
     "target": "TEXT_FRAGMENT",
     "params": "muhurthathirku_pin.json",
-    "keywords": "மஞ்சள் நீர் mnsl nir",
+    "keywords": "மஞ்சள் நீர் mnsL nr",
     "snippet": "மஞ்சள் நீர் மணமகன் வீட்டார், பங்காளிகள் மற்றும் அவர்களின் உறவினர் கல்யாண மண்டபத்திலிருந்து, மணமகள..."
   },
   {
@@ -365,7 +365,7 @@
     "category": "Muhurthathirku pin",
     "target": "TEXT_FRAGMENT",
     "params": "muhurthathirku_pin.json",
-    "keywords": "மாமியார் காசு வழங்கல் mamiyar kasu vlnkl",
+    "keywords": "மாமியார் காசு வழங்கல் myr ks vznkl",
     "snippet": "மாமியார் காசு வழங்கல் மணமகனுக்கு மாமியார் சர்க்கரையும் பழமும் இலையில் வைப்பார்கள். மணமகனும் உண்பத..."
   },
   {
@@ -374,7 +374,7 @@
     "category": "Muhurthathirku pin",
     "target": "TEXT_FRAGMENT",
     "params": "muhurthathirku_pin.json",
-    "keywords": "மணமகளுக்கு தாயார் அன்னமிடல் mnmkluku tayar anmitl",
+    "keywords": "மணமகளுக்கு தாயார் அன்னமிடல் mNmkLk Tyr NmTl",
     "snippet": "மணமகளுக்கு தாயார் அன்னமிடல் மணமகளுக்கு தாயார் நுனி இலை போட்டு அதில் சாதம் வைத்து தயிர் விடுவார். ..."
   },
   {
@@ -383,7 +383,7 @@
     "category": "Nichaya thamboolam",
     "target": "TEXT_FRAGMENT",
     "params": "nichaya_thamboolam.json",
-    "keywords": "நிச்சய தாம்பூலம் nisy tamvulm",
+    "keywords": "நிச்சய தாம்பூலம் nsy Tmplm",
     "snippet": "நிச்சய தாம்பூலம் \u0026bull; மணமகன் வீட்டார், - மணமகள் இல்லத்தை, - தற்காலத்தில் திருமணமண்டபத்தை அடைந்த..."
   },
   {
@@ -392,7 +392,7 @@
     "category": "Nichaya thamboolam",
     "target": "TEXT_FRAGMENT",
     "params": "nichaya_thamboolam.json",
-    "keywords": "காப்பு நூல்,திருமாங்கல்ய நாண் தயாரித்தல் kavu nultirumankly nan tyaritl",
+    "keywords": "காப்பு நூல்,திருமாங்கல்ய நாண் தயாரித்தல் kp nlTrmnkly nN TyrTl",
     "snippet": "காப்பு நூல்,திருமாங்கல்ய நாண் தயாரித்தல் இரண்டு அருமைக்காரர்கள் தலைக்கு உருமாலை கட்டிக்கொண்டு தேங..."
   },
   {
@@ -401,7 +401,7 @@
     "category": "Nichaya thamboolam",
     "target": "TEXT_FRAGMENT",
     "params": "nichaya_thamboolam.json",
-    "keywords": "சுப மாங்கல்யப் பிரார்த்தனை - முன்னோர் வழிபாடு (கூறைக்குப் போடுதல்) suv manklyv virartnai munor vlivatu kuraikuv votutl",
+    "keywords": "சுப மாங்கல்யப் பிரார்த்தனை - முன்னோர் வழிபாடு (கூறைக்குப் போடுதல்) sp mnklyp prTn mNr vzpT kRkp pTl",
     "snippet": "சுப மாங்கல்யப் பிரார்த்தனை - முன்னோர் வழிபாடு (கூறைக்குப் போடுதல்) மணமகன் வீட்டில்: கூறைக்குப் போ..."
   },
   {
@@ -410,7 +410,7 @@
     "category": "Nichaya thamboolam",
     "target": "TEXT_FRAGMENT",
     "params": "nichaya_thamboolam.json",
-    "keywords": "முகூர்த்தக்கால் mukurtkal",
+    "keywords": "முகூர்த்தக்கால் mkrTkl",
     "snippet": "முகூர்த்தக்கால் மணவறை போடும் இடத்தில் ஒரு மரத்தூணில், நான்கு அடிநீளம், 3 விரல் கனத்தில் மூன்று கவ..."
   },
   {
@@ -419,7 +419,7 @@
     "category": "Nichaya thamboolam",
     "target": "TEXT_FRAGMENT",
     "params": "nichaya_thamboolam.json",
-    "keywords": "பட்டை வார்த்தல் - மேல்கட்டி கட்டுதல் vtai vartl melkti ktutl",
+    "keywords": "பட்டை வார்த்தல் - மேல்கட்டி கட்டுதல் pT vrTl mlkT kTl",
     "snippet": "பட்டை வார்த்தல் - மேல்கட்டி கட்டுதல் அருமைக்காரிகள் 5 பேர் சுண்ணாம்பும் செம்மண்ணும், தனித்தனி பாத..."
   },
   {
@@ -428,7 +428,7 @@
     "category": "Nichaya thamboolam",
     "target": "TEXT_FRAGMENT",
     "params": "nichaya_thamboolam.json",
-    "keywords": "சிரப்பு வைத்தல் sirvu vaitl",
+    "keywords": "சிரப்பு வைத்தல் srp vTl",
     "snippet": "சிரப்பு வைத்தல் கல்யாண மண்டபம் வாசலில் ஒரு இடத்தில் இரண்டு அருமைக்காரிகள் செம்மண்ணில் வழிக்க வேண்..."
   },
   {
@@ -437,7 +437,7 @@
     "category": "Nichaya thamboolam",
     "target": "TEXT_FRAGMENT",
     "params": "nichaya_thamboolam.json",
-    "keywords": "சீர்த்தண்ணீர்  எடுத்து வருதல் sirtnir etutu vrutl",
+    "keywords": "சீர்த்தண்ணீர்  எடுத்து வருதல் srTNr T vrTl",
     "snippet": "சீர்த்தண்ணீர்  எடுத்து வருதல் வாத்தியம் முன் செல்ல அருமைக்காரிகள் 5 அல்லது 7 பேர் சீர் தண்ணிக்கு ..."
   },
   {
@@ -446,7 +446,7 @@
     "category": "Nichaya thamboolam",
     "target": "TEXT_FRAGMENT",
     "params": "nichaya_thamboolam.json",
-    "keywords": "புற்றுமண் எடுத்தல் vurumn etutl",
+    "keywords": "புற்றுமண் எடுத்தல் pRmN Tl",
     "snippet": "புற்றுமண் எடுத்தல் அருமைச்சீர்க் காரர்கள், பெரமண்ணுக்கு (புற்று மண்) 3 சிறிய கூடை எடுத்துக்கெண்டு..."
   },
   {
@@ -455,7 +455,7 @@
     "category": "Oonjal thirupor",
     "target": "TEXT_FRAGMENT",
     "params": "oonjal_thirupor.json",
-    "keywords": "ஊஞ்சல் பாட்டு unsl vatu",
+    "keywords": "ஊஞ்சல் பாட்டு nsl pT",
     "snippet": "ஊஞ்சல் பாட்டு திருமருவும் வச்சிரத்தின் தூண்கள் நாட்டி செம்பவள விட்டமது மீது சேர்த்து குருமருவும் ..."
   },
   {
@@ -464,7 +464,7 @@
     "category": "Oonjal thirupor",
     "target": "TEXT_FRAGMENT",
     "params": "oonjal_thirupor.json",
-    "keywords": "திருப்பொற்ச்சுண்ணம் tiruvorsunm",
+    "keywords": "திருப்பொற்ச்சுண்ணம் TrpRsNm",
     "snippet": "திருப்பொற்ச்சுண்ணம் நம் சமூகத்தில் ஒருவர் சிவபதம் அடைந்தால், காட்டிற்க்கு எடுத்து செல்லும் முன் எ..."
   },
   {
@@ -473,7 +473,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "தமிழ் வருடப் பிறப்பு tmil vrutv virvu",
+    "keywords": "தமிழ் வருடப் பிறப்பு Tmz vrTp pRp",
     "snippet": "தமிழ் வருடப் பிறப்பு சூரியன் மேஷ ராசியில் புகும் சித்திரை முதல் நாளில் புது வருடம் பிறக்கிறது. இன..."
   },
   {
@@ -482,7 +482,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "சித்ரா பௌர்ணமி sitra vaurnmi",
+    "keywords": "சித்ரா பௌர்ணமி sTr prNm",
     "snippet": "சித்ரா பௌர்ணமி சித்ர குப்தன் யம தர்மனுக்கு உதவியாக, மனிதர்களின் பாவ புண்ணியங்களை குறித்து வைக்கும..."
   },
   {
@@ -491,7 +491,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "ஆடி நோன்பு ati nonvu",
+    "keywords": "ஆடி நோன்பு T np",
     "snippet": "ஆடி நோன்பு பொங்கல் பண்டிகை, உள்ளவர்கள் மட்டும் ஆடி நோன்பு கும்பிட வேண்டும்.ஆடி மாதம்18ம் தேதிக்கு..."
   },
   {
@@ -500,7 +500,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "ஓலைக்கா நோன்பு olaika nonvu",
+    "keywords": "ஓலைக்கா நோன்பு lk np",
     "snippet": "ஓலைக்கா நோன்பு ஆடி நோன்புக்கு\"ஓலைக்கா நோன்பு\" என்றும் பெயர் உண்டு. சில வீடுகளில் பனை ஓலையினால் பத..."
   },
   {
@@ -509,7 +509,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "ஆடி வெள்ளி ati veli",
+    "keywords": "ஆடி வெள்ளி T vL",
     "snippet": "ஆடி வெள்ளி ஆடிமாத வெள்ளிக்கிழமைகளில் பச்சை மாவு இடித்து, மாவிளக்கு ஏற்றி அம்பாளை வழிபடவேண்டும். ம..."
   },
   {
@@ -518,7 +518,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "ஆடிப் பதினெட்டு ativ vtinetu",
+    "keywords": "ஆடிப் பதினெட்டு Tp pTnT",
     "snippet": "ஆடிப் பதினெட்டு இன்று பெண்கள் எண்ணெய் தேய்த்து குளிக்க வேண்டும்.மதியம் ஒப்பிட்டு செய்து சுவாமிக்க..."
   },
   {
@@ -527,7 +527,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "ஆவணி ஞாயிறு avni nsayiru",
+    "keywords": "ஆவணி ஞாயிறு vN nyR",
     "snippet": "ஆவணி ஞாயிறு பொங்கல் இருப்பவர்கள் ஆவணி மாதத்தில் வருகிற ஞாயிற்றுக்கிழமைகளில் காலையில் பொங்கல் வைத்..."
   },
   {
@@ -536,7 +536,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "விநாயகர் சதுர்த்தி vinaykr sturti",
+    "keywords": "விநாயகர் சதுர்த்தி vnykr sTrT",
     "snippet": "விநாயகர் சதுர்த்தி ஆவணி மாதம் சுக்கில பட்ச சதுர்த்தி தினத்தன்று (அமாவாசை கழிந்த 4ம் நாள்), விநாயக..."
   },
   {
@@ -545,7 +545,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "நவராத்திரி nvratiri",
+    "keywords": "நவராத்திரி nvrTr",
     "snippet": "நவராத்திரி புனிதம் மிகுந்த புரட்டாசி மாதத்தில் அமாவாசைக்கு பிறகு வரும் ஒன்பது நாட்களும் நவராத்திர..."
   },
   {
@@ -554,7 +554,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "சரஸ்வதி பூஜை srsvti vusai",
+    "keywords": "சரஸ்வதி பூஜை srsvT pj",
     "snippet": "சரஸ்வதி பூஜை இன்று வீடு முழுவதும் சுத்தம் செய்து கதவு , பீரோ, பாடப்புத்தகங்கள், சங்கீத கருவிகள் ப..."
   },
   {
@@ -563,7 +563,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "ஆயுத பூஜை ayut vusai",
+    "keywords": "ஆயுத பூஜை yT pj",
     "snippet": "ஆயுத பூஜை வீட்டில் கடையில் உள்ள தராசு, இரு சக்கர, நான்கு சக்கர வாகனங்கள் ஆகியவற்றையும் சுத்தப்படு..."
   },
   {
@@ -572,7 +572,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "விஜயதசமி visytsmi",
+    "keywords": "விஜயதசமி vjyTsm",
     "snippet": "விஜயதசமி அடுத்த நாள் மூன்று தேவியர்க்கும் வடை பாயசம் நைவேத்தியத்துடன் மறு பூஜை செய்ய வேண்டும். கு..."
   },
   {
@@ -581,7 +581,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "தீபாவளி tivavli",
+    "keywords": "தீபாவளி TpvL",
     "snippet": "தீபாவளி வீட்டில் அனைவரும் அதிகாலை எழுந்து எண்ணெய் தேய்த்து நீராடி பின்பு புத்தாடை உடுத்திப் பூஜைய..."
   },
   {
@@ -590,7 +590,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "கார்த்திகை தீபம் kartikai tivm",
+    "keywords": "கார்த்திகை தீபம் krTk Tpm",
     "snippet": "கார்த்திகை தீபம் கார்த்திகை இம்மாதம் முழுவதும் முன்வாசலில் இருபுறமும் இரண்டு அகல் விளக்குகளை மாலை..."
   },
   {
@@ -599,7 +599,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "கன்னிமார் பூஜை knimar vusai",
+    "keywords": "கன்னிமார் பூஜை kNmr pj",
     "snippet": "கன்னிமார் பூஜை 5 சிறிய கூழாங்கற்கள் எடுத்து வைக்கவும் \u0026bull; அவைகளுக்குக் காலை எண்ணெய், மஞ்சள்துள..."
   },
   {
@@ -608,7 +608,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "பிள்ளையார் நோன்பு vilaiyar nonvu",
+    "keywords": "பிள்ளையார் நோன்பு pLyr np",
     "snippet": "பிள்ளையார் நோன்பு மார்கழி \u0026bull; இம்மாதம் முழுவதும் அதிகாலை வாசல் தெளித்துக் கோலம் போட்டு பசுவின்..."
   },
   {
@@ -617,7 +617,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "திருவாதிரை tiruvatirai",
+    "keywords": "திருவாதிரை TrvTr",
     "snippet": "திருவாதிரை நம்மவர்கள் பண்டிகைகளில் முக்கியமானது இதுவாகும். பெண்கள் தீர்க்க சுமங்கலிகளாய் இருக்க வ..."
   },
   {
@@ -626,7 +626,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "வைகுண்ட ஏகாதசி vaikunt ekatsi",
+    "keywords": "வைகுண்ட ஏகாதசி vkNT kTs",
     "snippet": "வைகுண்ட ஏகாதசி \u0026bull; மார்கழி மாதம் வரும் ஏகாதசிக்கு \"வைகுண்ட ஏகாதசி\" என்பர். இன்று நெல்லியும் மி..."
   },
   {
@@ -635,7 +635,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "போகி voki",
+    "keywords": "போகி pk",
     "snippet": "போகி தை: உத்ராயண புண்ய காலத்தில் சூரிய பகவானைப் போற்றிக் கொண்டாடும் பண்டிகை பொங்கல் ஆகும். 1) போக..."
   },
   {
@@ -644,7 +644,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "பொங்கல் vonkl",
+    "keywords": "பொங்கல் pnkl",
     "snippet": "பொங்கல் \u0026bull; பொங்கல் உள்ளவர்கள் இரு நாள் முன்பே இரு மண் அடுப்புகள் (2 அளவினதாக ஒன்று பெரியது - ..."
   },
   {
@@ -653,7 +653,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "பூப்பொங்கல் vuvonkl",
+    "keywords": "பூப்பொங்கல் pnkl",
     "snippet": "பூப்பொங்கல் \u0026bull; முதல்நாள் பொங்கல் பொங்கியவுடன் களைந்த அரிசியைக் கன்னிப்பெண்கள் பானைக்குள் போடு..."
   },
   {
@@ -662,7 +662,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "ரதசப்தமி rtsvtmi",
+    "keywords": "ரதசப்தமி rTspTm",
     "snippet": "ரதசப்தமி தை அமாவாசையில் இருந்து 7ஆம் நாள் ரதசப்தமி வரும். \u0026bull; இந்நாளில் கதிரவனை வழிபட்டால் சகல..."
   },
   {
@@ -671,7 +671,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "தைப்பூசம் taivusm",
+    "keywords": "தைப்பூசம் Tpsm",
     "snippet": "தைப்பூசம் \u0026bull; தைமாதம் பெளர்ணமி பூசநட்சத்திரத்து அன்று \"தைப்பூசம்\" கொண்டாடப்படும். \u0026bull; மதியம..."
   },
   {
@@ -680,7 +680,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "சிவராத்திரி sivratiri",
+    "keywords": "சிவராத்திரி svrTr",
     "snippet": "சிவராத்திரி \u0026bull; மாசிமாத தேய்பிறை சதுர்த்தியில் வருவது மகா சிவராத்திரி. \u0026bull; இன்று மதியம் இட்..."
   },
   {
@@ -689,7 +689,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pandikaikal.json",
-    "keywords": "யுகாதி yukati",
+    "keywords": "யுகாதி ykT",
     "snippet": "யுகாதி \u0026bull; பெண்கள் எண்ணெய் தேய்த்துக் குளித்து மதியம் நாட்டுச் சர்க்கரை வேப்பம்பூ கலந்து பூஜைக..."
   },
   {
@@ -698,7 +698,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pira_kaariyankal.json",
-    "keywords": "இறுதி சடங்கு iruti stnku",
+    "keywords": "இறுதி சடங்கு RT sTnk",
     "snippet": "இறுதி சடங்கு நம்மவர் ஒருவர் சிவபதம் அடைந்தவுடன், முதலில் அவரைக் குளிப்பாட்ட வேண்டும். குளித்து வி..."
   },
   {
@@ -707,7 +707,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pira_kaariyankal.json",
-    "keywords": "காட்டுக்கு செல்லும் முன்பு katuku selum munvu",
+    "keywords": "காட்டுக்கு செல்லும் முன்பு kTk sLm mnp",
     "snippet": "காட்டுக்கு செல்லும் முன்பு சமையல் செய்தல்: மோட்ச விளக்கு எடுத்து வந்த பெண்கள் குளித்து விட்டு 200..."
   },
   {
@@ -716,7 +716,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pira_kaariyankal.json",
-    "keywords": "காட்டில் செய்வது katil seyvtu",
+    "keywords": "காட்டில் செய்வது kTl syvT",
     "snippet": "காட்டில் செய்வது காட்டில் சடலத்தை இறக்கி வைத்து மோட்ச விளக்கைத் தலைமாட்டில் வைக்கவும். மண்பானையில..."
   },
   {
@@ -725,7 +725,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pira_kaariyankal.json",
-    "keywords": "சாத்திரம் satirm",
+    "keywords": "சாத்திரம் sTrm",
     "snippet": "சாத்திரம் ஒரு பித்தளைத் தட்டு, அரை லிட்டர் பால், கொஞ்சம் நவதானியம், அகல்விளக்கு, 1 ஆணி, எத்தனை இட..."
   },
   {
@@ -734,7 +734,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pira_kaariyankal.json",
-    "keywords": "அந்தெரட்டி anterti",
+    "keywords": "அந்தெரட்டி nTrT",
     "snippet": "அந்தெரட்டி காரியம் செய்த மருமகளும், உடன் செய்தவரும்முந்தினநாளே அரை இனிப்புப் போட்டு அரிசிமாவில் 2..."
   },
   {
@@ -743,7 +743,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "pira_kaariyankal.json",
-    "keywords": "மசக்கம் etc mskm etc",
+    "keywords": "மசக்கம் etc mskm Tc",
     "snippet": "மசக்கம் etc சிவ பதம் அடைந்தவர் ஆணாய் இருந்தால், அவரது மனைவிக்கு தாய் வீட்டிலிருந்து செய்ய வேண்டிய..."
   },
   {
@@ -752,7 +752,7 @@
     "category": "Paadalkal",
     "target": "TEXT_FRAGMENT",
     "params": "potri_thiruthaandakam.json",
-    "keywords": "போற்றித் திருத்தாண்டகம் vorit tirutantkm",
+    "keywords": "போற்றித் திருத்தாண்டகம் pRT TrTNTkm",
     "snippet": "போற்றித் திருத்தாண்டகம் வேற்றாகி விண்ணாகி நின்றாய் போற்றி மீளாமே ஆளென்னைக் கொண்டாய் போற்றி ஊற்றாக..."
   },
   {
@@ -761,7 +761,7 @@
     "category": "Paadalkal",
     "target": "TEXT_FRAGMENT",
     "params": "sivapuraanam.json",
-    "keywords": "சிவபுராணம் sivuranm",
+    "keywords": "சிவபுராணம் svprNm",
     "snippet": "சிவபுராணம் நமச்சிவாய வாழ்க நாதன் தாள் வாழ்க இமைப்பொழுதும் என் நெஞ்சில் நீங்காதான் தாள் வாழ்க கோகழ..."
   },
   {
@@ -770,7 +770,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "subha_kaariyankal.json",
-    "keywords": "திருவாதிரை சீர் tiruvatirai sir",
+    "keywords": "திருவாதிரை சீர் TrvTr sr",
     "snippet": "திருவாதிரை சீர் இது மார்கழி மாதத்தில் திருவாதிரையன்று ஒரு பெண்ணுக்கு அவளின் தாய் தந்தையரால் கொடுக..."
   },
   {
@@ -779,7 +779,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "subha_kaariyankal.json",
-    "keywords": "பொங்கல் சீர் vonkl sir",
+    "keywords": "பொங்கல் சீர் pnkl sr",
     "snippet": "பொங்கல் சீர் பெண்ணின் பெற்றோர் தங்கள் பெண்ணுக்கு பெண்பிறந்து 4 அல்லது 5 வயது ஆன பிறகு, எந்த வருடத..."
   },
   {
@@ -788,7 +788,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "subha_kaariyankal.json",
-    "keywords": "கொள்ளு பயறு சீர் kolu vyru sir",
+    "keywords": "கொள்ளு பயறு சீர் kL pyR sr",
     "snippet": "கொள்ளு பயறு சீர் பெண் கற்பமான ஐந்தாம் மாதம், பெண்ணின் பெற்றோர், \"கொள்ளுப்பயறு\" மற்றும் இனிப்புப் ..."
   },
   {
@@ -797,7 +797,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "subha_kaariyankal.json",
-    "keywords": "வளைகாப்பு vlaikavu",
+    "keywords": "வளைகாப்பு vLkp",
     "snippet": "வளைகாப்பு பெண் கர்ப்பமாகி 7 மாதம் ஆனபிறகு பெண்ணுக்கு வளைகாப்பு-சீமந்தம் செய்வார்கள். \u0026bull; அதாவத..."
   },
   {
@@ -806,7 +806,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "subha_kaariyankal.json",
-    "keywords": "குழந்தை நாமகரணம் kulntai namkrnm",
+    "keywords": "குழந்தை நாமகரணம் kznT nmkrNm",
     "snippet": "குழந்தை நாமகரணம் குழந்தை பிறந்தவுடன் பெண்ணின் பெற்றோருக்கும் மற்றும் உற்றார் உறவினருக்கும் தெரிவி..."
   },
   {
@@ -815,7 +815,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "subha_kaariyankal.json",
-    "keywords": "அன்னப்பிராசனம் anvirasnm",
+    "keywords": "அன்னப்பிராசனம் Nprsnm",
     "snippet": "அன்னப்பிராசனம் பின்னர் குழந்தைக்கு, ஒன்பதாம் மாதம் ஆன பிறகு ஒரு நல்ல நாளில் அன்னப்பிராசனம் செய்வி..."
   },
   {
@@ -824,7 +824,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "subha_kaariyankal.json",
-    "keywords": "குழந்தை முடி காணிக்கை kulntai muti kanikai",
+    "keywords": "குழந்தை முடி காணிக்கை kznT mT kNk",
     "snippet": "குழந்தை முடி காணிக்கை குழந்தை யாதொருவிதமான தீங்கும் கெடுதலுமில்லாமல் \" வளர்ந்ததற்காகவும், பின்பு ..."
   },
   {
@@ -833,7 +833,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "subha_kaariyankal.json",
-    "keywords": "காதணி விழா katni vila",
+    "keywords": "காதணி விழா kTN vz",
     "snippet": "காதணி விழா முன்பு ஆடிமாதம் பதினெட்டாம் பெருக்கன்று குழந்தைக்கு காதணி விழா நடத்துவார்கள். தற்சமயம்..."
   },
   {
@@ -842,7 +842,7 @@
     "category": "Vazhimuraikal",
     "target": "TEXT_FRAGMENT",
     "params": "subha_kaariyankal.json",
-    "keywords": "ருது மங்கள ஸ்நானம் rutu mnkl snanm",
+    "keywords": "ருது மங்கள ஸ்நானம் rT mnkL snm",
     "snippet": "ருது மங்கள ஸ்நானம் பெண் \"பருவம்\" அடைந்ததும், தாத்தா பாட்டிக்கு சொல்லி அனுப்புவார்கள். இதைத்தான் \"..."
   },
   {
@@ -851,7 +851,7 @@
     "category": "Thirumanathirku mun",
     "target": "TEXT_FRAGMENT",
     "params": "thirumanathirku_mun.json",
-    "keywords": "பெண் கேட்பது ven ketvtu",
+    "keywords": "பெண் கேட்பது pN kTpT",
     "snippet": "பெண் கேட்பது கல்யாண வயது வந்த பையன், வீட்டுப்பெரியவர்கள், உரிமை பந்துக்கள் வீட்டில் பெண் இருந்தால..."
   },
   {
@@ -860,7 +860,7 @@
     "category": "Thirumanathirku mun",
     "target": "TEXT_FRAGMENT",
     "params": "thirumanathirku_mun.json",
-    "keywords": "திருமணம் உறுதி செய்தல் tirumnm uruti seytl",
+    "keywords": "திருமணம் உறுதி செய்தல் TrmNm RT syTl",
     "snippet": "திருமணம் உறுதி செய்தல் திருமணம் நிச்சயம் ஆனவுடன் ஒரு நல்ல நாள் பார்த்து மாப்பிள்ளை வீட்டிற்குப் ப..."
   },
   {
@@ -869,7 +869,7 @@
     "category": "Thirumanathirku mun",
     "target": "TEXT_FRAGMENT",
     "params": "thirumanathirku_mun.json",
-    "keywords": "பத்திரிகை எழுதுதல் vtirikai elututl",
+    "keywords": "பத்திரிகை எழுதுதல் pTrk zTl",
     "snippet": "பத்திரிகை எழுதுதல் திருமண நாள் சுப முகூர்த்த நேரம் இவைகளை இரு வீட்டாரும் கலந்து பேசி முடிவு செய்த..."
   },
   {
@@ -878,7 +878,7 @@
     "category": "Thirumanathirku mun",
     "target": "TEXT_FRAGMENT",
     "params": "thirumanathirku_mun.json",
-    "keywords": "மணமகன் வீட்டில் பட்டை வார்த்தல் mnmkn vitil vtai vartl",
+    "keywords": "மணமகன் வீட்டில் பட்டை வார்த்தல் mNmkn vTl pT vrTl",
     "snippet": "மணமகன் வீட்டில் பட்டை வார்த்தல் மணமகன் வீட்டில் நிச்சயதார்த்த கூறைக்குப் போடுவதற்கு 3 அல்லது 5 நா..."
   },
   {
@@ -887,7 +887,7 @@
     "category": "Thirumanathirku mun",
     "target": "TEXT_FRAGMENT",
     "params": "thirumanathirku_mun.json",
-    "keywords": "மணமகள் வீட்டில் பயறு வறுத்துப் பட்டை வார்த்தல் mnmkl vitil vyru vrutuv vtai vartl",
+    "keywords": "மணமகள் வீட்டில் பயறு வறுத்துப் பட்டை வார்த்தல் mNmkL vTl pyR vRTp pT vrTl",
     "snippet": "மணமகள் வீட்டில் பயறு வறுத்துப் பட்டை வார்த்தல் பெண் வீட்டில் நிச்சயதார்த்த கூறைக்கு போடுவதற்கு 3 ..."
   },
   {
@@ -896,7 +896,7 @@
     "category": "Thirumanathirku mun",
     "target": "TEXT_FRAGMENT",
     "params": "thirumanathirku_mun.json",
-    "keywords": "குலதெய்வப் பிரார்த்தனை/காணிக்கை முடிதல் kulteyv virartnaikanikai mutitl",
+    "keywords": "குலதெய்வப் பிரார்த்தனை/காணிக்கை முடிதல் klTyvp prTnkNk mTl",
     "snippet": "குலதெய்வப் பிரார்த்தனை/காணிக்கை முடிதல் மணமகன் இல்லத்தில், நடுவீட்டில், சிறியதாக செம்மண்ணில் வழித..."
   },
   {
@@ -905,7 +905,7 @@
     "category": "Thirumanathirku pin",
     "target": "TEXT_FRAGMENT",
     "params": "thirumanathirku_pin.json",
-    "keywords": "மணமகளை மணமகன் வீட்டுக்கு அழைத்துச் செல்லுதல் mnmklai mnmkn vituku alaitus selutl",
+    "keywords": "மணமகளை மணமகன் வீட்டுக்கு அழைத்துச் செல்லுதல் mNmkL mNmkn vTk zTs sLTl",
     "snippet": "மணமகளை மணமகன் வீட்டுக்கு அழைத்துச் செல்லுதல் மணமகனும், மணமகளும் பெரியவர்களிடம் ஆசீர்வாதம் பெற்றபி..."
   },
   {
@@ -914,7 +914,7 @@
     "category": "Thirumanathirku pin",
     "target": "TEXT_FRAGMENT",
     "params": "thirumanathirku_pin.json",
-    "keywords": "மணமகன் வீட்டில் நடக்கும் சீர்கள் mnmkn vitil ntkum sirkl",
+    "keywords": "மணமகன் வீட்டில் நடக்கும் சீர்கள் mNmkn vTl nTkm srkL",
     "snippet": "மணமகன் வீட்டில் நடக்கும் சீர்கள் மணமக்கள், மணமகன் வீட்டை அடைந்ததும் அவர்களுக்கு இரு பெண்கள் ஆலாத்..."
   },
   {
@@ -923,7 +923,7 @@
     "category": "Thirumanathirku pin",
     "target": "TEXT_FRAGMENT",
     "params": "thirumanathirku_pin.json",
-    "keywords": "தண்ணீர் சுத்துதல் tnir sututl",
+    "keywords": "தண்ணீர் சுத்துதல் TNr sTl",
     "snippet": "தண்ணீர் சுத்துதல் வியாழன் அல்லது ஞாயிற்றுக் கிழமை, தம்பதிகளுக்கு அருமைக்காரரியைக் கொண்டு \"தண்ணி ச..."
   },
   {
@@ -932,7 +932,7 @@
     "category": "Thirumanathirku pin",
     "target": "TEXT_FRAGMENT",
     "params": "thirumanathirku_pin.json",
-    "keywords": "சம்மந்தம் கலக்கல் smntm klkl",
+    "keywords": "சம்மந்தம் கலக்கல் smnTm klkl",
     "snippet": "சம்மந்தம் கலக்கல் மூன்றாவது மாதத்தில் மணமகளின் தாய், தந்தையர் பங்காளிகளுடன் மிகவும் நெருங்கிய பந்..."
   },
   {
@@ -941,7 +941,7 @@
     "category": "Thirumanathirku pin",
     "target": "TEXT_FRAGMENT",
     "params": "thirumanathirku_pin.json",
-    "keywords": "பண்டிகை அழைப்பு vntikai alaivu",
+    "keywords": "பண்டிகை அழைப்பு pNTk zp",
     "snippet": "பண்டிகை அழைப்பு திருமணம் ஆன மாதத்திலிருந்து ஒருவருடத்தில் வரும் பண்டிகைகளுக்கு மாப்பிள்ளை பெண்ணை,..."
   },
   {
@@ -950,7 +950,7 @@
     "category": "Thirumanathirku pin",
     "target": "TEXT_FRAGMENT",
     "params": "thirumanathirku_pin.json",
-    "keywords": "தலை தீபாவளி/ இரண்டாவது தீபாவளி tlai tivavli irntavtu tivavli",
+    "keywords": "தலை தீபாவளி/ இரண்டாவது தீபாவளி Tl TpvL rNTvT TpvL",
     "snippet": "தலை தீபாவளி/ இரண்டாவது தீபாவளி முதல் தீபாவளிக்கு பட்டுவேஷ்டி, பட்டு அங்கவஸ்திரம், தங்க மோதிரம் அல..."
   },
   {
@@ -959,7 +959,7 @@
     "category": "Thirumana naal seerkal",
     "target": "TEXT_FRAGMENT",
     "params": "thirumana_naal_seerkal.json",
-    "keywords": "எழுதிங்கள்சீர் elutinklsir",
+    "keywords": "எழுதிங்கள்சீர் zTnkLsr",
     "snippet": "எழுதிங்கள்சீர் ஒரு பெண்ணுக்கு திருமணம் ஆகி 4 அல்லது 5 வருடங்கள் ஆனபின்பு, அந்தப்பெண்ணின் தாய் வீட..."
   },
   {
@@ -968,7 +968,7 @@
     "category": "Thirumana naal seerkal",
     "target": "TEXT_FRAGMENT",
     "params": "thirumana_naal_seerkal.json",
-    "keywords": "அருமைச்சீர் arumaisir",
+    "keywords": "அருமைச்சீர் rmsr",
     "snippet": "அருமைச்சீர் இது ஒரு முக்கியமான சீர். திருமணங்களில் செய்யும் எல்லாச் சீர்களையும் அருமைக்காரர் - அர..."
   },
   {
@@ -977,7 +977,7 @@
     "category": "Paadalkal",
     "target": "TEXT_FRAGMENT",
     "params": "thiruvempaavai.json",
-    "keywords": "திருவெம்பாவை tiruvemvavai",
+    "keywords": "திருவெம்பாவை Trvmpv",
     "snippet": "திருவெம்பாவை ஆதியும் அந்தமும் இல்லா அரும்பெருஞ் சோதியை யாம்பாடக் கேட்டேயும் வாள்  தடங்கண் மாதே வள..."
   },
   {
@@ -986,7 +986,7 @@
     "category": "Paadalkal",
     "target": "TEXT_FRAGMENT",
     "params": "vinayagar_akaval.json",
-    "keywords": "விநாயகர் அகவல் vinaykr akvl",
+    "keywords": "விநாயகர் அகவல் vnykr kvl",
     "snippet": "விநாயகர் அகவல் சீதக் களபச் செந்தா மரைப்பூம் பாதச் சிலம்பு பலஇசை பாட பொன்னரை ஞாணும் பூந்துகில் ஆட..."
   }
 ]
