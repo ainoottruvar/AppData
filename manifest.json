@@ -1,6 +1,6 @@
 {
-  "overall_version": 54,
-  "updated_at": "2026-08-21 09:47:45",
+  "overall_version": 55,
+  "updated_at": "2026-08-21 10:00:00",
   "sections": {
     "screens": [
       {
@@ -117,8 +117,8 @@
     "utilities": [
       {
         "name": "search_index.json",
-        "ver": 2,
-        "hash": "d4bf94ca9fd1a72299147f0578861044"
+        "ver": 3,
+        "hash": "cc504ea8b134acc26db688c309ec36bc"
       },
       {
         "name": "global_config.json",
