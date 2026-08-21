@@ -1,56 +1,51 @@
 {
-  "overall_version": 1,
-  "updated_at": "2026-08-21 16:53:46",
+  "overall_version": 47,
+  "updated_at": "2026-08-19 17:32:09",
   "sections": {
     "screens": [
       {
         "name": "home_buttons.json",
-        "ver": 1,
+        "ver": 8,
         "hash": "1c350bca5ccd877b6b355a933288355c"
       },
       {
         "name": "kanda_sashti_kavasam.json",
-        "ver": 1,
+        "ver": 2,
         "hash": "614d4de5dc0463f942415e2bdf67d70c"
       },
       {
         "name": "kolaru_pathikam.json",
-        "ver": 1,
+        "ver": 2,
         "hash": "9ad39f4fb6bebc3df97d3ffe3326141a"
       },
       {
         "name": "kovilkal.json",
-        "ver": 1,
+        "ver": 9,
         "hash": "2f1e5517ec1576523eedbc5234918938"
       },
       {
         "name": "mahishasura_mardhini.json",
-        "ver": 1,
+        "ver": 2,
         "hash": "0d7d6b818f3bf4368ce2efa5cc7c4bdc"
       },
       {
         "name": "Main_menu_buttons.json",
-        "ver": 1,
+        "ver": 14,
         "hash": "17cb2924c0c914887003decb4c46577d"
       },
       {
-        "name": "manifest.json",
-        "ver": 1,
-        "hash": "fef2645844206a1600e6e2a1f078137d"
-      },
-      {
         "name": "muhurtham_varai.json",
-        "ver": 1,
+        "ver": 2,
         "hash": "8bc1319e8150eeb33e99ceb5950616b0"
       },
       {
         "name": "muhurthathirku_pin.json",
-        "ver": 1,
+        "ver": 3,
         "hash": "68aea70e460b3a324ad8c57289bc5489"
       },
       {
         "name": "nichaya_thamboolam.json",
-        "ver": 1,
+        "ver": 8,
         "hash": "1f729c2b759b82580af1b910e81a5399"
       },
       {
@@ -75,7 +70,7 @@
       },
       {
         "name": "saamaankal_list.json",
-        "ver": 1,
+        "ver": 8,
         "hash": "4ec4045abafa9d7caa37192a94a74ad1"
       },
       {
@@ -85,12 +80,12 @@
       },
       {
         "name": "subha_kaariyankal.json",
-        "ver": 1,
+        "ver": 3,
         "hash": "a2db514dab3c5a1b36380d606cd4f1a4"
       },
       {
         "name": "thirumanathirku_mun.json",
-        "ver": 1,
+        "ver": 3,
         "hash": "68b03eb8394c5494dab19ce3af1b7554"
       },
       {
@@ -105,7 +100,7 @@
       },
       {
         "name": "thiruvempaavai.json",
-        "ver": 1,
+        "ver": 2,
         "hash": "1c25f2d3866895e337c6cf2867c3d6f7"
       },
       {
@@ -222,37 +217,37 @@
       },
       {
         "name": "saamaankal/pira/andheratti.pdf",
-        "ver": 1,
+        "ver": 4,
         "hash": "e5c75ac8f0b769d78516de7297d9a778"
       },
       {
         "name": "saamaankal/pira/dhivasam.pdf",
-        "ver": 1,
+        "ver": 4,
         "hash": "fef8596501b74a5176ad97b8127e3200"
       },
       {
         "name": "saamaankal/pira/kaariyam.pdf",
-        "ver": 1,
+        "ver": 4,
         "hash": "56133078b22319e573e39125a13f7f87"
       },
       {
         "name": "saamaankal/pira/maasiyam.pdf",
-        "ver": 1,
+        "ver": 4,
         "hash": "b42d4b3447842ac9fd2bc5ee55cac8ad"
       },
       {
         "name": "saamaankal/pira/viradhaanam.pdf",
-        "ver": 1,
+        "ver": 4,
         "hash": "efea48347fafecdbacadb71e3971a4da"
       },
       {
         "name": "saamaankal/thirumanam/manamagal.pdf",
-        "ver": 1,
+        "ver": 4,
         "hash": "d18baa923b51e737abcbed0c391dd40a"
       },
       {
         "name": "saamaankal/thirumanam/manamagan.pdf",
-        "ver": 1,
+        "ver": 4,
         "hash": "a6aeea54929ee5814cb2c1d5d3d0aed4"
       },
       {
@@ -262,30 +257,23 @@
       },
       {
         "name": "saamaankal/thirumanam/nichaym.pdf",
-        "ver": 1,
+        "ver": 3,
         "hash": "5128b25fd1d1b1c14bbd4f54acc560bb"
       },
       {
         "name": "saamaankal/thirumanam/seerkal.pdf",
-        "ver": 1,
+        "ver": 4,
         "hash": "7450a196b566e505354330ca74ce9606"
       },
       {
         "name": "saamaankal/thirumanam/thirumanam.pdf",
-        "ver": 1,
+        "ver": 4,
         "hash": "f44a7867c47b5c980c19560c61b83529"
       },
       {
         "name": "saamaankal/thirumanam/thirumanamfull.pdf",
-        "ver": 1,
+        "ver": 4,
         "hash": "a810c6d4d1a547d8aab10eb2eb7c3c76"
-      }
-    ],
-    "utilities": [
-      {
-        "name": "index.json",
-        "ver": 1,
-        "hash": "9dfae8237a9dbb120d6375490507ffbe"
       }
     ],
     "PhoneDirectory": []
