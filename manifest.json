@@ -1,37 +1,37 @@
 {
-  "overall_version": 2,
-  "updated_at": "2026-08-21 18:08:55",
+  "overall_version": 3,
+  "updated_at": "2026-08-22 22:01:10",
   "sections": {
     "screens": [
       {
         "name": "home_buttons.json",
-        "ver": 1,
-        "hash": "1c350bca5ccd877b6b355a933288355c"
+        "ver": 2,
+        "hash": "28cba4a426bf8a70a96b7239357d665d"
       },
       {
         "name": "kanda_sashti_kavasam.json",
-        "ver": 1,
-        "hash": "614d4de5dc0463f942415e2bdf67d70c"
+        "ver": 2,
+        "hash": "c1fcd98592eb2512be67ba0e6c8d62e2"
       },
       {
         "name": "kolaru_pathikam.json",
-        "ver": 1,
-        "hash": "9ad39f4fb6bebc3df97d3ffe3326141a"
+        "ver": 2,
+        "hash": "eba5591f9b6140deca60f20dc5a36886"
       },
       {
         "name": "kovilkal.json",
-        "ver": 1,
-        "hash": "2f1e5517ec1576523eedbc5234918938"
+        "ver": 2,
+        "hash": "3981f667bd7e49d2262dddedeb25dad7"
       },
       {
         "name": "mahishasura_mardhini.json",
-        "ver": 1,
-        "hash": "0d7d6b818f3bf4368ce2efa5cc7c4bdc"
+        "ver": 2,
+        "hash": "3ab30aedb31974523356803e767125f1"
       },
       {
         "name": "Main_menu_buttons.json",
-        "ver": 1,
-        "hash": "17cb2924c0c914887003decb4c46577d"
+        "ver": 2,
+        "hash": "d2f362cc1482734996106b1eab16664b"
       },
       {
         "name": "manifest.json",
@@ -40,83 +40,83 @@
       },
       {
         "name": "muhurtham_varai.json",
-        "ver": 1,
-        "hash": "8bc1319e8150eeb33e99ceb5950616b0"
+        "ver": 2,
+        "hash": "c5cc174b24418da7feb56fb876b02943"
       },
       {
         "name": "muhurthathirku_pin.json",
-        "ver": 1,
-        "hash": "68aea70e460b3a324ad8c57289bc5489"
+        "ver": 2,
+        "hash": "835f0edf47ac8e04c8098fb7d200750e"
       },
       {
         "name": "nichaya_thamboolam.json",
-        "ver": 1,
-        "hash": "1f729c2b759b82580af1b910e81a5399"
+        "ver": 2,
+        "hash": "3792ce2790d6178751614eac914c4a32"
       },
       {
         "name": "oonjal_thirupor.json",
-        "ver": 1,
-        "hash": "257b6bd2f8780958ae74f1506e3ee699"
+        "ver": 2,
+        "hash": "690525943c706c57b7cd91ebfcb90cce"
       },
       {
         "name": "pandikaikal.json",
-        "ver": 1,
-        "hash": "99954a97a944ad77ba4fbfd762a7c58d"
+        "ver": 2,
+        "hash": "0e13e92de99055b207d49a8dfba2b12e"
       },
       {
         "name": "pira_kaariyankal.json",
-        "ver": 1,
-        "hash": "2f576f62ad78cb917f4af939ac43a5a2"
+        "ver": 2,
+        "hash": "c95c64c240712097e7ad970e0b7f7fa6"
       },
       {
         "name": "potri_thiruthaandakam.json",
-        "ver": 1,
-        "hash": "dfcd80c8bff805a2b9fdecb19a6a10c3"
+        "ver": 2,
+        "hash": "bfdb37d63c16d732783108283e9ba97d"
       },
       {
         "name": "saamaankal_list.json",
-        "ver": 1,
-        "hash": "4ec4045abafa9d7caa37192a94a74ad1"
+        "ver": 2,
+        "hash": "90af5980cc4a75a9a34a3d5663aa0e3e"
       },
       {
         "name": "sivapuraanam.json",
-        "ver": 1,
-        "hash": "d65a78abb816e6f93f0af72001e2d4b1"
+        "ver": 2,
+        "hash": "b16703d0be384d55ba7822443d5ceaf1"
       },
       {
         "name": "subha_kaariyankal.json",
-        "ver": 1,
-        "hash": "a2db514dab3c5a1b36380d606cd4f1a4"
+        "ver": 2,
+        "hash": "c48044b5358711cc17cee876e27a5f86"
       },
       {
         "name": "thirumanathirku_mun.json",
-        "ver": 1,
-        "hash": "68b03eb8394c5494dab19ce3af1b7554"
+        "ver": 2,
+        "hash": "3151d2b0386d65989626cd60244bedea"
       },
       {
         "name": "thirumanathirku_pin.json",
-        "ver": 1,
-        "hash": "7023779b43e85371743ee037d741c800"
+        "ver": 2,
+        "hash": "63b868870803e33785df47c8ca54ce4f"
       },
       {
         "name": "thirumana_naal_seerkal.json",
-        "ver": 1,
-        "hash": "72d1b46fe70adf4c130f96aa46951d39"
+        "ver": 2,
+        "hash": "8022324a88ce5510ae3e5b2d308dcda4"
       },
       {
         "name": "thiruvempaavai.json",
-        "ver": 1,
-        "hash": "1c25f2d3866895e337c6cf2867c3d6f7"
+        "ver": 2,
+        "hash": "42aa8aa84a0724422cce036277f1dd57"
       },
       {
         "name": "vazhimuraikal.json",
-        "ver": 1,
-        "hash": "b5f77b253230828b75510f405e76a83f"
+        "ver": 2,
+        "hash": "796e737ae0d273365dc7628aec5f84d3"
       },
       {
         "name": "vinayagar_akaval.json",
-        "ver": 1,
-        "hash": "f88fd51d16bb79c7e20ebdb6b2468c76"
+        "ver": 2,
+        "hash": "45624b3dec43504796c8ff92ada6a811"
       }
     ],
     "pdfs": [

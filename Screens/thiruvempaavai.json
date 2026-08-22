@@ -9,6 +9,8 @@
       "next": "kanda_sashti_kavasam",
       "fab": "paadalkal",
       "payload": {
+        "shareable": true,
+        "transliteration": "<p><i>Translation/Transliteration coming soon...</i></p>",
         "html": [
           "<p><b>திருவெம்பாவை</b></p>",
           "<p>ஆதியும் அந்தமும் இல்லா அரும்பெருஞ்</p>",

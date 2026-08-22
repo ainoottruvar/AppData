@@ -7,6 +7,7 @@
       "title": "நிர்வாகம்",
       "fab": "home",
       "payload": {
+        "shareable": false,
         "buttons": [
           {"label": "நிர்வாக அமைப்புகள்", "dest": "nirvaaka_amaippukal"},
           {"label": "நிர்வாக உறுப்பினர்கள்", "dest": "nirvaaka_uruppinarkal"},
@@ -21,6 +22,7 @@
       "title": "நிர்வாக அமைப்புகள்",
       "fab": "nirvaakam",
       "payload": {
+        "shareable": true,
         "html": [
           "<p><b>1) மகாசபை:</b></p>",
           "<p>எம்மாம்பூண்டி ஐநூற்று செட்டிமார் மகா சபை 21/11/1941 அன்று துவங்கப்பட்டது. நமது சமூகத்தை சார்ந்த 18 வயதுக்கு மேற்பட்ட ஆண், பெண் அனைவரும் இதில் உறுப்பினர் ஆவர்.</p>",
@@ -62,6 +64,7 @@
       "type": "CONTACTS",
       "title": "நிர்வாக உறுப்பினர்கள்",
       "payload": {
+        "shareable": false,
         "groups": [
           {
             "name": "மகாசபை பொறுப்பு அலுவலர்கள்",
@@ -135,6 +138,7 @@
       "title": "வரவு செலவு கணக்குகள்",
       "fab": "nirvaakam",
       "payload": {
+        "shareable": false,
         "buttons": [
           {"label": "மகாசபை", "dest": "mahasabai_kanakkukal"},
           {"label": "ஸ்ரீ விற்றூணியார் கோவில் குழு", "dest": "vittruniyar_kovil_kanakkukal"},
@@ -151,6 +155,7 @@
       "title": "மகிமை / சந்தா",
       "fab": "nirvaakam",
       "payload": {
+        "shareable": true,
         "html": [
           "<p>நமது சமூகத்தை சேர்ந்த 18 வயதுக்கு மேற்பட்ட ஆண், பெண் அனைவரும் நமது மகாசபையின் உறுப்பினர் ஆவர். ஆண்டுக்கு ஒரு முறை நமது சமூகத்தின் ஒவ்வொரு குடும்பமும் (ஒரு மாங்கல்யம் - ஒரு குடும்பம்) மகிமை தொகை ரூ 1௦௦ செலுத்த வேண்டும்.</p>",
           "<p>மகிமை தொகையை கீழ்க்கண்ட UPI QR Code மூலமாகவோ அல்லது மகாசபை வங்கி கணக்கில் செலுத்தலாம்.</p>"
@@ -164,6 +169,7 @@
       "title": "மகாசபை கணக்குகள்",
       "fab": "kanakkukal",
       "payload": {
+        "shareable": false,
         "buttons": [
           { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_mahasabai_" }
         ]
@@ -175,6 +181,7 @@
       "title": "விற்றுணியார் கோவில் கணக்குகள்",
       "fab": "kanakkukal",
       "payload": {
+        "shareable": false,
         "buttons": [
           { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_vittruniyar_" }
         ]
@@ -186,6 +193,7 @@
       "title": "மண்டப கணக்குகள்",
       "fab": "kanakkukal",
       "payload": {
+        "shareable": false,
         "buttons": [
           { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_mandapam_" }
         ]
@@ -197,6 +205,7 @@
       "title": "கெங்காதரஞ்செட்டியார் கணக்குகள்",
       "fab": "kanakkukal",
       "payload": {
+        "shareable": false,
         "buttons": [
           { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_kengatharam_" }
         ]
@@ -208,6 +217,7 @@
       "title": "உமையஞ் செட்டியார் கணக்குகள்",
       "fab": "kanakkukal",
       "payload": {
+        "shareable": false,
         "buttons": [
           { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_umaiyam_" }
         ]
@@ -219,6 +229,7 @@
       "title": "பழனி மடம் கணக்குகள்",
       "fab": "kanakkukal",
       "payload": {
+        "shareable": false,
         "buttons": [
           { "label": "{AUTO_FY_LIST}", "count": 5, "dest_prefix": "pdf_palani_" }
         ]
@@ -231,6 +242,7 @@
       "title": "தொடர்புகள்",
       "fab": "home",
       "payload": {
+        "shareable": false,
         "buttons": [
           {"label": "முக்கிய எண்கள்", "dest": "mukkiya_enkal"},
           {"label": "தொலைபேசி கையேடு / Telephone Directory", "dest": "tholaipesi_kaiyedu"},
@@ -244,6 +256,7 @@
       "type": "CONTACTS",
       "title": "முக்கிய எண்கள்",
       "payload": {
+        "shareable": true,
         "groups": [
           {
             "name": "சிவாச்சாரியார்கள்",
@@ -301,6 +314,7 @@
       "type": "TEXT",
       "title": "நமது சமையல்",
       "payload": {
+        "shareable": true,
         "html": [
           "<p>நமது ஐநூற்றுவர் சமூகத்திற்கற்கே உரிய உணவு வகைகளான கரு வடகம், இலை வடகம், சேம்பு குழம்பு, அரிசி பருப்பு வடை, அகத்தி பூ குழம்பு, அரிசி உப்புமா, புட்டு மாவு ,காயெல்லாம் போட்ட குழம்பு போன்ற பல வகையான உணவுகளின் செய்முறை வீடியோக்களை காண கீழே உள்ள பொத்தானை கிளிக் செய்யவும்.</p>"
         ],
@@ -318,7 +332,9 @@
       "type": "MANDAPAM",
       "title": "மண்டபம்",
       "fab": "home",
-      "payload": {}
+      "payload": {
+        "shareable": true
+      }
     },
     {
       "id": "mandapam_menu",
@@ -326,6 +342,7 @@
       "title": "மண்டபம் தகவல்கள்",
       "fab": "home",
       "payload": {
+        "shareable": false,
         "buttons": [
           {"label": "மண்டபம் காலண்டர்", "dest": "mandapam"},
           {"label": "முன்பதிவு விபரங்கள்", "dest": "mandapam_booking_instructions"}
@@ -337,6 +354,7 @@
       "type": "TEXT",
       "title": "மண்டபம் முன்பதிவு",
       "payload": {
+        "shareable": true,
         "html": [
           "<p><b>வங்கி விபரங்கள்</b></p>",
           "<p><b>NAME :</b> PARVATHI KALYANA MANDAPAM AVINASHI</p>",
@@ -361,6 +379,7 @@
       "title": "பாடல்கள்",
       "fab": "home",
       "payload": {
+        "shareable": false,
         "buttons": [
           {"label": "விநாயகர் அகவல்", "dest": "vinayagar_akaval"},
           {"label": "சிவபுராணம்", "dest": "sivapuraanam"},

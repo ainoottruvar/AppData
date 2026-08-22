@@ -7,6 +7,8 @@
       "title": "ஊஞ்சல் பாட்டு",
       "fab": "paadalkal",
       "payload": {
+        "shareable": true,
+        "transliteration": "<p><i>Translation/Transliteration coming soon...</i></p>",
         "html": [
           "<p><b>ஊஞ்சல் பாட்டு</b></p>",
           "<p><span style=\"color: blue;\">திருமருவும் வச்சிரத்தின் தூண்கள் நாட்டி </span></p>",
@@ -108,6 +110,8 @@
       "title": "திருப்பொற்ச்சுண்ணம்",
       "fab": "paadalkal",
       "payload": {
+        "shareable": true,
+        "transliteration": "<p><i>Translation/Transliteration coming soon...</i></p>",
         "html": [
           "<p><b>திருப்பொற்ச்சுண்ணம்</b></p>",
           "<p>நம் சமூகத்தில் ஒருவர் சிவபதம் அடைந்தால், காட்டிற்க்கு எடுத்து செல்லும் முன் எண்ணை அரப்பு வைத்து, அபிஷேகம் முடிந்தபின், பூப்பந்தல் அமைத்து, பங்காளிகள் மூவர் பொற்சுண்ணம் இடிக்கும்போது பாட வேண்டிய பாடல் இது</p>",

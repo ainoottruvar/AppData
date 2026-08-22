@@ -9,6 +9,8 @@
       "next": "thiruvempaavai",
       "fab": "paadalkal",
       "payload": {
+        "shareable": true,
+        "transliteration": "<p><i>Translation/Transliteration coming soon...</i></p>",
         "html": [
           "<p><b>கோளறு பதிகம்</b></p>",
           "<p>\"வேய் உறு தோளிபங்கன் விடமுண்ட கண்டன்</p>",

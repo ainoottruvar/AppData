@@ -6,6 +6,7 @@
       "type": "CONFIG",
       "title": "Home Navigation Configuration",
       "payload": {
+        "shareable": false,
         "button_nirvaakam": "nirvaakam",
         "button_mandapam": "mandapam",
         "button_thodarpukal": "thodarpukal",

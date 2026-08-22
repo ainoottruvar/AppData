@@ -1,13 +1,13 @@
 {
   "group_id": "saamaankal_list_group",
   "screens": [
-
     {
       "id": "saamankal_list",
       "type": "BUTTONS",
       "title": "சாமான்கள் லிஸ்ட்",
       "fab": "home",
       "payload": {
+        "shareable": false,
         "buttons": [
           {"label": "திருமண சாமான்கள்", "dest": "thirumana_saamaankal_buttons"},
           {"label": "பிற காரிய சாமான்கள்", "dest": "pira_saamaankal_buttons"}
@@ -20,6 +20,7 @@
       "title": "திருமண சாமான்கள்",
       "fab": "saamankal_list",
       "payload": {
+        "shareable": false,
         "buttons": [
           {"label": "நிச்சய தாம்பூல சாமான்கள்", "dest": "nichaya_thamboola_saamaankal"},
           {"label": "திருமண சாமான்கள்", "dest": "thirumana_saamaankal_list"},
@@ -30,7 +31,6 @@
         ]
       }
     },
-
     {
       "id": "nichaya_thamboola_saamaankal",
       "type": "LIST",
@@ -38,6 +38,7 @@
       "next": "thirumana_saamaankal_list",
       "fab": "thirumana_saamaankal_buttons",
       "payload": {
+        "shareable": false,
         "pdf": "pdfs/saamaankal/thirumanam/nichayam.pdf",
         "groups": [
           {
@@ -64,6 +65,7 @@
       "next": "manamagan_veetu_saamaankal",
       "fab": "thirumana_saamaankal_buttons",
       "payload": {
+        "shareable": false,
         "pdf": "pdfs/saamaankal/thirumanam/thirumanam.pdf",
         "groups": [
           {
@@ -170,6 +172,7 @@
       "next": "naazhiyarisi_seer_saamaankal",
       "fab": "thirumana_saamaankal_buttons",
       "payload": {
+        "shareable": false,
         "pdf": "pdfs/saamaankal/thirumanam/manamagan.pdf",
         "groups": [
           {
@@ -198,6 +201,7 @@
       "next": "manamagal_veetu_saamaankal",
       "fab": "thirumana_saamaankal_buttons",
       "payload": {
+        "shareable": false,
         "pdf": "pdfs/saamaankal/thirumanam/seerkal.pdf",
         "groups": [
           {
@@ -254,6 +258,7 @@
       "next": "thirumana_all_saamaankal",
       "fab": "thirumana_saamaankal_buttons",
       "payload": {
+        "shareable": false,
         "pdf": "pdfs/saamaankal/thirumanam/manamagal.pdf",
         "groups": [
           {
@@ -268,7 +273,6 @@
         ]
       }
     },
-
     {
       "id": "thirumana_all_saamaankal",
       "type": "LIST",
@@ -276,6 +280,7 @@
       "prev": "manamagal_veetu_saamaankal",
       "fab": "thirumana_saamaankal_buttons",
       "payload": {
+        "shareable": false,
         "pdf": "pdfs/saamaankal/thirumanam/thirumanamfull.pdf",
         "groups": [
           {
@@ -287,13 +292,13 @@
         ]
       }
     },
-
     {
       "id": "pira_saamaankal_buttons",
       "type": "BUTTONS",
       "title": "பிற காரிய சாமான்கள்",
       "fab": "saamankal_list",
       "payload": {
+        "shareable": false,
         "buttons": [
           {"label": "விரதான சாமான்கள்", "dest": "viradhaana_saamaankal"},
           {"label": "காரியம் செய்ய சாமான்கள்", "dest": "kaariyam_saamaankal"},
@@ -310,6 +315,7 @@
       "next": "kaariyam_saamaankal",
       "fab": "pira_saamaankal_buttons",
       "payload": {
+        "shareable": false,
         "pdf": "pdfs/saamaankal/pira/viradhaanam.pdf",
         "groups": [
           {
@@ -355,6 +361,7 @@
       "next": "andheratti_saamaankal",
       "fab": "pira_saamaankal_buttons",
       "payload": {
+        "shareable": false,
         "pdf": "pdfs/saamaankal/pira/kaariyam.pdf",
         "groups": [
           {
@@ -390,6 +397,7 @@
       "next": "maasiyam_saamaankal",
       "fab": "pira_saamaankal_buttons",
       "payload": {
+        "shareable": false,
         "pdf": "pdfs/saamaankal/pira/andheratti.pdf",
         "groups": [
           {
@@ -479,6 +487,7 @@
       "next": "dhivasa_saamaankal",
       "fab": "pira_saamaankal_buttons",
       "payload": {
+        "shareable": false,
         "pdf": "pdfs/saamaankal/pira/maasiyam.pdf",
         "groups": [
           {
@@ -606,6 +615,7 @@
       "prev": "maasiyam_saamaankal",
       "fab": "pira_saamaankal_buttons",
       "payload": {
+        "shareable": false,
         "pdf": "pdfs/saamaankal/pira/dhivasam.pdf",
         "groups": [
           {

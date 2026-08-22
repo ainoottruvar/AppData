@@ -8,6 +8,8 @@
       "next": "sivapuraanam",
       "fab": "paadalkal",
       "payload": {
+        "shareable": true,
+        "transliteration": "<p><i>Translation/Transliteration coming soon...</i></p>",
         "html": [
           "<p><b>விநாயகர் அகவல்</b></p>",
           "<p>சீதக் களபச் செந்தா மரைப்பூம்</p>",
