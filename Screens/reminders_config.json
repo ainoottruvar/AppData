@@ -1,0 +1,22 @@
+[
+  {
+    "id": "mahimai",
+    "title": "Pay Mahimai or Annual subscription to Mahasabai",
+    "default_dates": [{"m": 4, "d": 14}, {"m": 10, "d": 2}]
+  },
+  {
+    "id": "vittruniyar",
+    "title": "Annual contribution to Vittruniyar Temple",
+    "default_dates": [{"m": 9, "d": 20}, {"m": 3, "d": 1}]
+  },
+  {
+    "id": "kula_deivam",
+    "title": "Annual contribution to Kula Deivam Temple",
+    "default_dates": [{"m": 7, "d": 15}, {"m": 8, "d": 15}]
+  },
+  {
+    "id": "social_cause",
+    "title": "Contribute for a social cause",
+    "default_dates": [{"m": 1, "d": 26}]
+  }
+]
