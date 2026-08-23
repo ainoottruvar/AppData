@@ -1,6 +1,8 @@
 {
-  "is_active": false,
+  "is_active": true,
   "title": "Community Poll",
   "prompt_message": "Participate in our latest community poll! Tap here to share your opinion.",
-  "url": "https://forms.google.com"
+  "url": "https://docs.google.com/forms/d/e/1FAIpQLSe2hD-bhbww1ATlpT8LdN2YhzUsNDv3BKY6XpguDa-fVkuRcw/viewform?usp=pp_url&entry.592191060=&entry.1403732449=",
+  "start_date": "2026-08-01",
+  "end_date": "2026-08-31"
 }
