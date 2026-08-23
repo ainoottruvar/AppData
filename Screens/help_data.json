@@ -1,0 +1,103 @@
+[
+  {
+    "groupTitle_ta": "எழுத்து மற்றும் வாசிப்பு",
+    "groupTitle_en": "READING ASSISTANCE",
+    "groupIcon": "baseline_language_24",
+    "items": [
+      {
+        "name_ta": "எழுத்து அளவு (+ / -)",
+        "name_en": "Font Size Control (+ / -)",
+        "desc_ta": "திரையின் கீழே உள்ள + / - பொத்தான்கள் மூலம் வாசிக்கும் போதே எழுத்தின் அளவை உடனடியாக மாற்றலாம்.",
+        "desc_en": "Use the + / - buttons at the bottom to quickly increase or decrease font size while reading."
+      },
+      {
+        "name_ta": "A/அ மாற்றி (Transliteration)",
+        "name_en": "A/அ Toggle (Translation)",
+        "desc_ta": "பாடல்களை தமிழ் அல்லது ஆங்கிலத்தில் (Transliteration) படிக்க மேல் பட்டையில் உள்ள இந்த குறியீட்டைப் பயன்படுத்தவும்.",
+        "desc_en": "Use this icon in the top bar to toggle between Tamil script and English transliteration for songs."
+      }
+    ]
+  },
+  {
+    "groupTitle_ta": "விரைவான வழிசெலுத்தல்",
+    "groupTitle_en": "QUICK NAVIGATION",
+    "groupIcon": "baseline_list_alt_24",
+    "items": [
+      {
+        "name_ta": "உள்ளூர் வழிசெலுத்தல் பட்டியை",
+        "name_en": "Local Navigation Bar",
+        "desc_ta": "திரையின் கீழே உள்ள 'முந்தைய', 'அடுத்தது' மற்றும் 'மெனு' பொத்தான்கள் பக்கங்களுக்கு இடையே எளிதாக செல்ல உதவும்.",
+        "desc_en": "Use the 'Prev', 'Next', and 'Menu' buttons at the bottom to move easily between pages."
+      },
+      {
+        "name_ta": "அகரவரிசை குறியீடு (Index)",
+        "name_en": "Alphabetical Index",
+        "desc_ta": "அனைத்துத் தலைப்புகளையும் அகரவரிசைப்படி எளிதாகத் தேட மேல் பட்டையில் உள்ள 'Index' குறியீட்டைப் பயன்படுத்தவும்.",
+        "desc_en": "Use the 'Index' icon in the top bar to quickly find any topic alphabetically."
+      }
+    ]
+  },
+  {
+    "groupTitle_ta": "அமைப்புகள் மற்றும் உதவி",
+    "groupTitle_en": "SETTINGS & APP TOOLS",
+    "groupIcon": "baseline_settings_24",
+    "items": [
+      {
+        "name_ta": "அமைப்புகள் (Settings)",
+        "name_en": "Settings",
+        "desc_ta": "எழுத்து அளவு மற்றும் தீம் (ஒளி/இருள்) ஆகியவற்றை நிரந்தரமாக மாற்றி அமைத்துக்கொள்ளலாம்.",
+        "desc_en": "Adjust the default font size and app theme (light/dark mode) permanently."
+      },
+      {
+        "name_ta": "மண்டப முன்பதிவு அனுமதி",
+        "name_en": "Mandapam Booking Rights",
+        "desc_ta": "மெனுவில் உள்ள தலைப்புப் பகுதியை (Header) அழுத்திப் பிடிப்பதன் மூலம் முன்பதிவு உரிமை கோரலாம்.",
+        "desc_en": "Long-press the header in the side menu to request access for Mandapam booking rights."
+      }
+    ]
+  },
+  {
+    "groupTitle_ta": "முகப்பு பக்க வசதிகள்",
+    "groupTitle_en": "HOME PAGE FEATURES",
+    "groupIcon": "baseline_dashboard_24",
+    "items": [
+      {
+        "name_ta": "நிர்வாகம் & மண்டபம்",
+        "name_en": "Admin & Mandapam",
+        "desc_ta": "சமூக நிர்வாகம், கணக்குகள் மற்றும் திருமண மண்டப விபரங்களை இங்கே காணலாம்.",
+        "desc_en": "View community administration, accounts, and marriage hall details."
+      },
+      {
+        "name_ta": "சடங்குகள் & பாடல்கள்",
+        "name_en": "Rituals & Songs",
+        "desc_ta": "பல்வேறு சடங்கு முறைகள், ஊஞ்சல் பாடல்கள் மற்றும் இறைத் துதிப் பாடல்களை இங்கே படிக்கலாம்.",
+        "desc_en": "Read detailed ritual procedures, traditional songs, and hymns."
+      },
+      {
+        "name_ta": "பொருட்கள் பட்டியல் (Saamaankal)",
+        "name_en": "Items List (Saamaankal)",
+        "desc_ta": "விசேஷங்களுக்குத் தேவையான பொருட்களின் பட்டியலை PDF வடிவில் பதிவிறக்கம் அல்லது பகிரலாம்.",
+        "desc_en": "View, download, or share the list of items required for ceremonies as a PDF."
+      }
+    ]
+  },
+  {
+    "groupTitle_ta": "தகவல்கள் மற்றும் புதுப்பிப்பு",
+    "groupTitle_en": "COMMUNITY & DATA",
+    "groupIcon": "baseline_sync_24",
+    "items": [
+      {
+        "name_ta": "பகிர்வு மற்றும் கருத்து",
+        "name_en": "Share & Feedback",
+        "desc_ta": "மெனுவில் உள்ள Share, Rate மற்றும் Suggestions மூலம் எங்களை தொடர்பு கொள்ளலாம்.",
+        "desc_en": "Use Share, Rate, or Suggestions in the menu to stay connected with us."
+      },
+      {
+        "name_ta": "தரவு ஒத்திசைவு (Sync)",
+        "name_en": "Data Sync",
+        "desc_ta": "மெனுவின் கீழே உள்ள ↻ குறியீட்டை அழுத்தி புதிய தகவல்களை உடனுக்குடன் பதிவிறக்கம் செய்யலாம்.",
+        "desc_en": "Tap the ↻ icon at the bottom of the side menu to download latest updates."
+      }
+    ]
+  }
+]

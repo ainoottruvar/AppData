@@ -1,6 +1,6 @@
 {
-  "overall_version": 5,
-  "updated_at": "2026-08-23 15:37:15",
+  "overall_version": 6,
+  "updated_at": "2026-08-23 17:07:11",
   "sections": {
     "screens": [
       {
@@ -282,6 +282,11 @@
       }
     ],
     "utilities": [
+      {
+        "name": "help_data.json",
+        "ver": 1,
+        "hash": "c739ea4e8e1cd05b7b1f890a237977cf"
+      },
       {
         "name": "index.json",
         "ver": 1,
