@@ -1,17 +1,17 @@
 {
-  "max_personal_reminders": 4,
+  "max_personal_reminders": 14,
   "reminders": [
     {
       "id": 0,
       "label": "விற்றுணியார் கோவில் நன்கொடை",
       "longLabel": "REMINDER - விற்றூணியார் கோவில் வருடாந்திர நன்கொடை",
-      "defaultDate": "24 Aug"
+      "defaultDate": "29 Aug"
     },
     {
       "id": 1,
       "label": "குலதெய்வ வழிபாடு நன்கொடை",
       "longLabel": "REMINDER - குலதெய்வ வருடாந்திர வழிபாடு நன்கொடை",
-      "defaultDate": "26 Aug"
+      "defaultDate": "24 Aug"
     },
     {
       "id": 2,
