@@ -1,6 +1,6 @@
 {
-  "overall_version": 9,
-  "updated_at": "2026-08-23 21:26:34",
+  "overall_version": 10,
+  "updated_at": "2026-08-25 15:55:39",
   "sections": {
     "screens": [
       {
@@ -293,14 +293,9 @@
         "hash": "9dfae8237a9dbb120d6375490507ffbe"
       },
       {
-        "name": "poll_config.json",
-        "ver": 2,
-        "hash": "322a8d71a27aa246249d230524dc26bc"
-      },
-      {
-        "name": "reminders_config.json",
+        "name": "reminders.json",
         "ver": 1,
-        "hash": "b689049411339f0c23ce7b43ab3fedb0"
+        "hash": "6e8de87bf6312447b4f2654d005601ad"
       },
       {
         "name": "share-msg.json",

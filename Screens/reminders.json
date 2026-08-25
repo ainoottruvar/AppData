@@ -1,0 +1,29 @@
+{
+  "max_personal_reminders": 4,
+  "reminders": [
+    {
+      "id": 0,
+      "label": "விற்றுணியார் கோவில் நன்கொடை",
+      "longLabel": "REMINDER - விற்றூணியார் கோவில் வருடாந்திர நன்கொடை",
+      "defaultDate": "24 Aug"
+    },
+    {
+      "id": 1,
+      "label": "குலதெய்வ வழிபாடு நன்கொடை",
+      "longLabel": "REMINDER - குலதெய்வ வருடாந்திர வழிபாடு நன்கொடை",
+      "defaultDate": "26 Aug"
+    },
+    {
+      "id": 2,
+      "label": "மகாசபை ஆண்டு சந்தா",
+      "longLabel": "REMINDER - மகாசபை ஆண்டு சந்தா -மகிமை",
+      "defaultDate": "27 Aug"
+    },
+    {
+      "id": 3,
+      "label": "நற்பணி நன்கொடை",
+      "longLabel": "REMINDER - உங்கள் மனதுக்கு பிடித்த ஒரு நற்பணிக்கு நன்கொடை",
+      "defaultDate": "28 Aug"
+    }
+  ]
+}
