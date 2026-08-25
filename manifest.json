@@ -1,6 +1,6 @@
 {
-  "overall_version": 12,
-  "updated_at": "2026-08-25 16:04:12",
+  "overall_version": 13,
+  "updated_at": "2026-08-25 16:07:58",
   "sections": {
     "screens": [
       {
@@ -294,8 +294,8 @@
       },
       {
         "name": "reminders.json",
-        "ver": 2,
-        "hash": "546293df1bf0104e63cbf21598f8f459"
+        "ver": 3,
+        "hash": "b1a2896e81e556ed1ba01a88284f89f8"
       },
       {
         "name": "share-msg.json",
