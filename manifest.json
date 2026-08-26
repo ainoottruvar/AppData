@@ -1,6 +1,6 @@
 {
-  "overall_version": 19,
-  "updated_at": "2026-08-26 18:55:11",
+  "overall_version": 20,
+  "updated_at": "2026-08-26 22:41:56",
   "sections": {
     "screens": [
       {
@@ -291,6 +291,11 @@
         "name": "index.json",
         "ver": 1,
         "hash": "9dfae8237a9dbb120d6375490507ffbe"
+      },
+      {
+        "name": "poll.json",
+        "ver": 1,
+        "hash": "8e8ed8122aa0d0b1a4511912cb0baa46"
       },
       {
         "name": "reminders.json",
