@@ -1,8 +1,8 @@
 {
-  "poll_id": "2026_poll_02",
+  "poll_id": "2026_poll_03",
   "title": "புதிய வாக்கெடுப்பு",
-  "question": "நமது சங்கத்தின் அடுத்த முன்னெடுப்பு எதுவாக இருக்க வேண்டும்?",
+  "question": "எதுவாக இருக்க வேண்டும்?",
   "link": "https://forms.gle/dummy_poll_link",
-  "expiry_date": "31 12 2027",
+  "expiry_date": "31 10 2027",
   "is_active": true
 }
