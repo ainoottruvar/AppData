@@ -40,8 +40,8 @@
       "title": "விற்றூணியார் கோவில்",
       "payload": {
         "buttons": [
-          { "label": "கோவில் விபரங்கள்", "dest": "info_palakkad" },
-          { "label": "கோவில் பற்றி", "dest": "about_palakkad" }
+          { "label": "கோவில் விபரங்கள் Temple Info", "dest": "info_palakkad" },
+          { "label": "கோவில் பற்றி About Temple", "dest": "about_palakkad" }
         ]
       }
     },
@@ -54,20 +54,20 @@
       "payload": {
         "shareable": true,
         "html": [
-          "<h3>ADDRESS</h3>",
+          "<h3>முகவரி</h3>",
           "<p>அருள்மிகு ஸ்ரீ விற்றூணியார் தேவஸ்தானம்,<br>விற்றுண்ணி ரோடு,<br>நூரணி அஞ்சல்,<br>பாலக்காடு - 678 004, கேரளா.</p>",
-          "<hr><h3>TEMPLE TIMINGS</h3>",
+          "<hr><h3>கோவில் திறக்கும் நேரம்</h3>",
           "<p>சனிக்கிழமை தவிர:<br>",
           "காலை - 06:00 AM to 11:00 AM<br>",
           "மாலை - 05:00 PM to 07:00 PM</p>",
           "<p>சனிக்கிழமை:<br>",
           "காலை - 06:00 AM to 11:30 AM<br>",
           "மாலை - 05:00 PM to 08:00 PM</p>",
-          "<hr><h3>POOJA TIMINGS</h3>",
+          "<hr><h3>பூஜை நேரங்கள்</h3>",
           "<p>விபரங்கள் விரைவில்...</p>",
-          "<hr><h3>CONTACT</h3>",
+          "<hr><h3>تொடர்பு கொள்ள</h3>",
           "<p>தொலைபேசி: 9447076106</p>",
-          "<hr><h3>HOW TO REACH</h3>",
+          "<hr><h3>எப்படி செல்வது?</h3>",
           "<p>📍 <b>நூரணி பேருந்து நிலையம் - 600 மீ</b><br>",
           "&nbsp;&nbsp;&nbsp;🚶 நடைபயணம்: 10 நிமிடம்<br>",
           "&nbsp;&nbsp;&nbsp;🛺 ஆட்டோ / கார்: 3 நிமிடம்<br><br>",
@@ -90,7 +90,7 @@
           "<p>Details coming soon...</p>",
           "<hr><h3>CONTACT</h3>",
           "<p>Phone: 9447076106</p>",
-          "<hr><h3>HOW TO REACH</h3>",
+          "<hr><h3>HOW TO REACH?</h3>",
           "<p>📍 <b>Nurani Bus Stand - 600 m</b><br>",
           "&nbsp;&nbsp;&nbsp;🚶 By Walk: 10 minutes<br>",
           "&nbsp;&nbsp;&nbsp;🛺 By Auto / Car: 3 minutes<br><br>",
@@ -100,10 +100,10 @@
           "&nbsp;&nbsp;&nbsp;🚗 By Car: 2 hours approx</p>"
         ],
         "buttons": [
-          { "label": "இணையதளம் (Website)", "dest": "https://vithunnidevasthanam.org/", "icon": "web" },
-          { "label": "அழைக்க (Call)", "dest": "tel:9447076106", "icon": "call" },
-          { "label": "கோவில் முன்புறம் (பார்க்கிங்)", "dest": "geo:10.769933,76.646698", "icon": "map" },
-          { "label": "கோவில் பின்புறம் - விற்றுண்ணி ரோடு", "dest": "geo:10.770050,76.645956", "icon": "map" }
+          { "label": "மேப் முன்புறம் (பாரக்கிங்) Google Map Front Side (Parking)", "dest": "geo:0,0?q=10.769933,76.646698(மேப் முன்புறம்)", "icon": "map" },
+          { "label": "மேப் பின்புறம் Google Map Back side", "dest": "geo:0,0?q=10.770050,76.645956(மேப் பின்புறம்)", "icon": "map" },
+          { "label": "அழைக்க Call", "dest": "tel:9447076106", "icon": "call" },
+          { "label": "இணையதளம் Website", "dest": "https://vithunnidevasthanam.org/", "icon": "web" }
         ]
       }
     },
@@ -125,7 +125,7 @@
           "<p>ஐநூற்று செட்டியார்களுக்கு பாலக்காட்டில் உள்ள விற்றுாணி விநாயகர் குலதெய்வம் போன்று போற்றப் படுவதாகத் தெரிகிறது. இப்பெயரே ஆராய்ச்சிக்கு உரியதாகும்.</p>",
           "<p>பொருளை விற்று வாணிபம் செய்யும் செட்டிமார்களுக்கு தெய்வமாக இருப்பவர் பெயர்,</p>",
           "<p><b>விற்ற + உணி விநாயகர்</b></p>",
-          "<p>என்று இருப்பது பொருந்தும். பொருளை விற்று அந்த ஊதியம் கொண்டு வாழ்பவர்கள் விற்று உணியார் என்று பெயர் பெறுவது பொருத்தம். உணியார் என்பதற்கு உண்பவர்கள் என்பது பொருளாகும். சொல் வழக்கில் விற்றுாணியார் எனப்படுவது விநாயகப் பெருமானையே குறிக்கும்.</p>",
+          "<p>என்று இருப்பது பொருந்தும். உணியார் என்பதற்கு உண்பவர்கள் என்பது பொருளாகும். சொல் வழக்கில் விற்றுாணியார் எனப்படுவது விநாயகப் பெருமானையே குறிக்கும்.</p>",
           "<p>(1999-ம் ஆண்டு சென்னை கே.ஏ.சீனிவாசன் அவர்கள் வெளியிட்ட பாலக்காடு அருள்மிகு விற்றுாணியார் திருக்கோயில் வரலாறும் வழிபாடும் என்ற நூலுக்கு சென்னை பேராசிரியர் அ.ச.ஞானசம்பந்தன் அவர்கள் எழுதிய வாழ்த்துரையிலிருந்து)</p>",
           "<p>நன்றி - விற்றூணியார் கோவில் கும்பாபிஷேக மலர் - 01-11-2009</p>",
           "<hr/>",
@@ -162,16 +162,16 @@
         ]
       }
     },
-    { "id": "menu_temple_1", "type": "BUTTONS", "title": "கொங்களம்மன் கோவில்", "payload": { "buttons": [{ "label": "கோவில் விபரங்கள்", "dest": "info_temple_1" }, { "label": "கோவில் பற்றி", "dest": "about_temple_1" }] } },
-    { "id": "menu_temple_2", "type": "BUTTONS", "title": "கரிய காளியம்மன் கோவில்", "payload": { "buttons": [{ "label": "கோவில் விபரங்கள்", "dest": "info_temple_2" }, { "label": "கோவில் பற்றி", "dest": "about_temple_2" }] } },
-    { "id": "menu_temple_3", "type": "BUTTONS", "title": "கரிய காளியம்மன் கோவில்", "payload": { "buttons": [{ "label": "கோவில் விபரங்கள்", "dest": "info_temple_3" }, { "label": "கோவில் பற்றி", "dest": "about_temple_3" }] } },
-    { "id": "menu_temple_4", "type": "BUTTONS", "title": "கொண்டத்து காளியம்மன் கோவில்", "payload": { "buttons": [{ "label": "கோவில் விபரங்கள்", "dest": "info_temple_4" }, { "label": "கோவில் பற்றி", "dest": "about_temple_4" }] } },
-    { "id": "menu_temple_5", "type": "BUTTONS", "title": "கொண்டத்துக்காளியம்மன் கோவில்", "payload": { "buttons": [{ "label": "கோவில் விபரங்கள்", "dest": "info_temple_5" }, { "label": "கோவில் பற்றி", "dest": "about_temple_5" }] } },
-    { "id": "menu_temple_6", "type": "BUTTONS", "title": "திருப்பிராட்டியம்மன் கோவில்", "payload": { "buttons": [{ "label": "கோவில் விபரங்கள்", "dest": "info_temple_6" }, { "label": "கோவில் பற்றி", "dest": "about_temple_6" }] } },
-    { "id": "menu_temple_7", "type": "BUTTONS", "title": "சிவளயபுரி அம்மன் கோவில்", "payload": { "buttons": [{ "label": "கோவில் விபரங்கள்", "dest": "info_temple_7" }, { "label": "கோவில் பற்றி", "dest": "about_temple_7" }] } },
-    { "id": "menu_temple_8", "type": "BUTTONS", "title": "திருமுருகநாதஸ்வாமி கோவில்", "payload": { "buttons": [{ "label": "கோவில் விபரங்கள்", "dest": "info_temple_8" }, { "label": "கோவில் பற்றி", "dest": "about_temple_8" }] } },
-    { "id": "menu_temple_9", "type": "BUTTONS", "title": "அங்காளம்மன் கோவில்", "payload": { "buttons": [{ "label": "கோவில் விபரங்கள்", "dest": "info_temple_9" }, { "label": "கோவில் பற்றி", "dest": "about_temple_9" }] } },
-    { "id": "menu_temple_10", "type": "BUTTONS", "title": "விஜயாபுரி அம்மன் கோவில்", "payload": { "buttons": [{ "label": "கோவில் விபரங்கள்", "dest": "info_temple_10" }, { "label": "கோவில் பற்றி", "dest": "about_temple_10" }] } },
+    { "id": "menu_temple_1", "type": "BUTTONS", "title": "கொங்களம்மன் கோவில்", "payload": { "buttons": [{ "label": "கோவில் விபரங்கள் Temple Info", "dest": "info_temple_1" }, { "label": "கோவில் பற்றி About Temple", "dest": "about_temple_1" }] } },
+    { "id": "menu_temple_2", "type": "BUTTONS", "title": "கரிய காளியம்மன் கோவில்", "payload": { "buttons": [{ "label": "கோவில் விபரங்கள் Temple Info", "dest": "info_temple_2" }, { "label": "கோவில் பற்றி About Temple", "dest": "about_temple_2" }] } },
+    { "id": "menu_temple_3", "type": "BUTTONS", "title": "கரிய காளியம்மன் கோவில்", "payload": { "buttons": [{ "label": "கோவில் விபரங்கள் Temple Info", "dest": "info_temple_3" }, { "label": "கோவில் பற்றி About Temple", "dest": "about_temple_3" }] } },
+    { "id": "menu_temple_4", "type": "BUTTONS", "title": "கொண்டத்து காளியம்மன் கோவில்", "payload": { "buttons": [{ "label": "கோவில் விபரங்கள் Temple Info", "dest": "info_temple_4" }, { "label": "கோவில் பற்றி About Temple", "dest": "about_temple_4" }] } },
+    { "id": "menu_temple_5", "type": "BUTTONS", "title": "கொண்டத்துக்காளியம்மன் கோவில்", "payload": { "buttons": [{ "label": "கோவில் விபரங்கள் Temple Info", "dest": "info_temple_5" }, { "label": "கோவில் பற்றி About Temple", "dest": "about_temple_5" }] } },
+    { "id": "menu_temple_6", "type": "BUTTONS", "title": "திருப்பிராட்டியம்மன் கோவில்", "payload": { "buttons": [{ "label": "கோவில் விபரங்கள் Temple Info", "dest": "info_temple_6" }, { "label": "கோவில் பற்றி About Temple", "dest": "about_temple_6" }] } },
+    { "id": "menu_temple_7", "type": "BUTTONS", "title": "சிவளயபுரி அம்மன் கோவில்", "payload": { "buttons": [{ "label": "கோவில் விபரங்கள் Temple Info", "dest": "info_temple_7" }, { "label": "கோவில் பற்றி About Temple", "dest": "about_temple_7" }] } },
+    { "id": "menu_temple_8", "type": "BUTTONS", "title": "திருமுருகநாதஸ்வாமி கோவில்", "payload": { "buttons": [{ "label": "கோவில் விபரங்கள் Temple Info", "dest": "info_temple_8" }, { "label": "கோவில் பற்றி About Temple", "dest": "about_temple_8" }] } },
+    { "id": "menu_temple_9", "type": "BUTTONS", "title": "அங்காளம்மன் கோவில்", "payload": { "buttons": [{ "label": "கோவில் விபரங்கள் Temple Info", "dest": "info_temple_9" }, { "label": "கோவில் பற்றி About Temple", "dest": "about_temple_9" }] } },
+    { "id": "menu_temple_10", "type": "BUTTONS", "title": "விஜயாபுரி அம்மன் கோவில்", "payload": { "buttons": [{ "label": "கோவில் விபரங்கள் Temple Info", "dest": "info_temple_10" }, { "label": "கோவில் பற்றி About Temple", "dest": "about_temple_10" }] } },
     { "id": "info_temple_1", "type": "TEXT", "title": "கோவில் விபரங்கள்", "payload": { "html": ["<p>விபரங்கள் விரைவில்...</p>"] } },
     { "id": "about_temple_1", "type": "TEXT", "title": "கோவில் பற்றி", "payload": { "html": ["<p>தகவல்கள் விரைவில்...</p>"] } },
     { "id": "info_temple_2", "type": "TEXT", "title": "கோவில் விபரங்கள்", "payload": { "html": ["<p>விபரங்கள் விரைவில்...</p>"] } },
