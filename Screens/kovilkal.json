@@ -106,9 +106,8 @@
           "<b>Palakkad Railway Station (Junction) - 4.4 KM</b><br>",
           "&nbsp;&nbsp;&nbsp;🛺 By Auto / Car: 13-15 minutes<br><br>",
           "<b>Coimbatore Airport - 64 KM</b><br>",
-          "&nbsp;&nbsp;&nbsp;🚗 By Car: 2 hours approx</p>",
-          "<p><font color='#616161'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font></p>",
-          "<p><b>To View on Google Map or Get Directions:</b></p>"
+          "&nbsp;&nbsp;&nbsp;🚗 By Car: 2 hours approx</p>"
+
         ],
         "buttons": [
           { "label": "முன்புறம் (பார்க்கிங்) Front side (Parking)", "dest": "geo:0,0?q=10.769933,76.646698(முன்புறம்)", "icon": "map" },
