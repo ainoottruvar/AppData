@@ -1,6 +1,6 @@
 {
-  "overall_version": 38,
-  "updated_at": "2026-08-31 22:04:39",
+  "overall_version": 39,
+  "updated_at": "2026-08-31 22:16:21",
   "sections": {
     "screens": [
       {
@@ -20,8 +20,8 @@
       },
       {
         "name": "kovilkal.json",
-        "ver": 18,
-        "hash": "ebf7c71d37aa0b4bd687508a196aecfd"
+        "ver": 19,
+        "hash": "27b0946810a42c30e983beef44c92432"
       },
       {
         "name": "mahishasura_mardhini.json",
