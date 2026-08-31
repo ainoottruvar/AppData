@@ -78,7 +78,8 @@
           "<b>பாலக்காடு ரயில் நிலையம் (Junction) - 4.4 கி.மீ</b><br>",
           "&nbsp;&nbsp;&nbsp;🛺 ஆட்டோ / கார்: 13-15 நிமிடம்<br><br>",
           "<b>கோயம்புத்தூர் விமான நிலையம் - 64 கி.மீ</b><br>",
-          "&nbsp;&nbsp;&nbsp;🚗 கார்: 2 மணி நேரம்</p>"
+          "&nbsp;&nbsp;&nbsp;🚗 கார்: 2 மணி நேரம்</p>",
+          "<p><font color='#616161'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font></p>"
         ],
         "transliteration": [
           "<h3><font color='#01579B'>📍 ADDRESS</font></h3>",
@@ -105,7 +106,8 @@
           "<b>Palakkad Railway Station (Junction) - 4.4 KM</b><br>",
           "&nbsp;&nbsp;&nbsp;🛺 By Auto / Car: 13-15 minutes<br><br>",
           "<b>Coimbatore Airport - 64 KM</b><br>",
-          "&nbsp;&nbsp;&nbsp;🚗 By Car: 2 hours approx</p>"
+          "&nbsp;&nbsp;&nbsp;🚗 By Car: 2 hours approx</p>",
+          "<p><font color='#616161'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font></p>"
         ],
         "buttons": [
           { "label": "மேப் முன்புறம் (பாரக்கிங்) Google Map Front Side (Parking)", "dest": "geo:0,0?q=10.769933,76.646698(மேப் முன்புறம்)", "icon": "map" },
