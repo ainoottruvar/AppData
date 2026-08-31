@@ -79,8 +79,8 @@
           "&nbsp;&nbsp;&nbsp;🛺 ஆட்டோ / கார்: 13-15 நிமிடம்<br><br>",
           "<b>கோயம்புத்தூர் விமான நிலையம் - 64 கி.மீ</b><br>",
           "&nbsp;&nbsp;&nbsp;🚗 கார்: 2 மணி நேரம்</p>",
-          "<br><font color='#616161'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font>",
-          "<br><b>கூகுள் மேப்பில் பார்க்க அல்லது வழித்தடம் அறிய:<br>To View on Google Map or Get Directions:</b>"
+          "<br><font color='#616161'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font>"
+
         ],
         "transliteration": [
           "<h3><font color='#01579B'>📍 ADDRESS</font></h3>",
@@ -108,9 +108,8 @@
           "&nbsp;&nbsp;&nbsp;🛺 By Auto / Car: 13-15 minutes<br><br>",
           "<b>Coimbatore Airport - 64 KM</b><br>",
           "&nbsp;&nbsp;&nbsp;🚗 By Car: 2 hours approx",
-          "<br><font color='#616161'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font>",
-          "<br><b>To View on Google Map or Get Directions:</b>"
-        ],
+          "<br><font color='#616161'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font>"
+                ],
         "buttons": [
           { "label": "மேப் முன்புறம் (பார்க்கிங்) Front side (Parking)", "dest": "geo:0,0?q=10.769933,76.646698(மேப் முன்புறம்)", "icon": "map" },
           { "label": "மேப் பின்புறம் Google Map Back side", "dest": "geo:0,0?q=10.770050,76.645956(மேப் பின்புறம்)", "icon": "map" },
@@ -207,9 +206,8 @@
           "&nbsp;&nbsp;&nbsp;🚗 கார் - 45 நிமிடம்<br><br>",
           "<b>கோயம்புத்தூர் விமான நிலையம் - 80 KM</b><br>",
           "&nbsp;&nbsp;&nbsp;🚗 கார் - 2 மணி நேரம்",
-          "<br><font color='#616161'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font>",
-          "<br><b>கூகுள் மேப்பில் பார்க்க அல்லது வழித்தடம் அறிய:<br>To View on Google Map or Get Directions:</b>"
-        ],
+          "<br><font color='#616161'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font>"
+                ],
         "transliteration": [
           "<h3><font color='#01579B'>📍 ADDRESS</font></h3>",
           "<br>&nbsp;&nbsp;&nbsp;Arulmigu Thiru Pirattiamman Devasthaanam,<br>&nbsp;&nbsp;&nbsp;Pidariyur,<br>&nbsp;&nbsp;&nbsp;Mukasi Pidariyur (Post) - 638 051.",
@@ -238,9 +236,8 @@
           "&nbsp;&nbsp;&nbsp;🚗 Car - 45 Minutes<br><br>",
           "<b>Coimbatore Airport - 80 KM</b><br>",
           "&nbsp;&nbsp;&nbsp;🚗 Car - 2 hours",
-          "<br><font color='#616161'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font>",
-          "<br><b>To View on Google Map or Get Directions:</b>"
-        ],
+          "<br><font color='#616161'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font>"
+          ],
         "buttons": [
           { "label": "முன்புறம் (பார்க்கிங்) Front side (Parking)", "dest": "geo:0,0?q=11.197046,77.601168(முன்புறம்)", "icon": "map" },
           { "label": "கோவில் Temple", "dest": "tel:6379222323", "icon": "call" },
