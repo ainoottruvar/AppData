@@ -79,7 +79,7 @@
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
           "<b><font color='#01579B'>📞 தொடர்பு கொள்ள</font></b><br>",
           "<b>அழைக்க எண்ணை கிளிக் செய்யவும்</b><br>",
-          "&nbsp;&nbsp;&nbsp;தொலைபேசி Phone: &nbsp;&nbsp;&nbsp; <a href='tel:9447076106'><font size='5'><u>9447076106</u></font></a>",
+          "&nbsp;&nbsp;&nbsp;தொலைபேசி Phone: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9447076106'><font size='6'><u>9447076106</u></font></a>",
           "<br><br><font color='#616161'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
           "<b>கூகுள் மேப்பில் பார்க்க அல்லது வழித்தடம் அறிய:<br>To View on Google Map or Get Directions:</b>"
         ],
@@ -109,7 +109,7 @@
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
           "<b><font color='#01579B'>📞 CONTACT</font></b><br>",
           "<b>Click the number to give a call</b><br>",
-          "&nbsp;&nbsp;&nbsp;Phone: &nbsp;&nbsp;&nbsp; <a href='tel:9447076106'><font size='5'><u>9447076106</u></font></a>",
+          "&nbsp;&nbsp;&nbsp;Phone: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9447076106'><font size='6'><u>9447076106</u></font></a>",
           "<br><br><font color='#616161'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
           "<b>To View on Google Map or Get Directions:</b>"
         ],
@@ -117,6 +117,17 @@
           { "label": "முன்புறம் (பார்க்கிங்) Front side (Parking)", "dest": "geo:0,0?q=10.769933,76.646698(முன்புறம்)", "icon": "map" },
           { "label": "பின் புறம் Back side", "dest": "geo:0,0?q=10.770050,76.645956(பின் புறம்)", "icon": "map" },
           { "label": "இணையதளம் Website", "dest": "https://vithunnidevasthanam.org/", "icon": "web" }
+        ]
+      }
+    },
+    {
+      "id": "menu_pidariyur",
+      "type": "BUTTONS",
+      "title": "திருப்பிராட்டியம்மன் கோவில்",
+      "payload": {
+        "buttons": [
+          { "label": "கோவில் விபரங்கள் Temple Info", "dest": "info_pidariyur" },
+          { "label": "கோவில் பற்றி About Temple", "dest": "about_pidariyur" }
         ]
       }
     },
@@ -153,10 +164,10 @@
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
           "<b><font color='#01579B'>📞 தொடர்பு கொள்ள</font></b><br>",
           "<b>அழைக்க எண்ணை கிளிக் செய்யவும்</b><br>",
-          "&nbsp;&nbsp;&nbsp;கோவில் Temple: &nbsp;&nbsp;&nbsp; <a href='tel:6379222323'><font size='5'><u>6379222323</u></font></a><br>",
-          "&nbsp;&nbsp;&nbsp;முடி எடுக்க Barber 1: &nbsp;&nbsp;&nbsp; <a href='tel:9788090681'><font size='5'><u>9788090681</u></font></a><br>",
-          "&nbsp;&nbsp;&nbsp;முடி எடுக்க Barber 2: &nbsp;&nbsp;&nbsp; <a href='tel:9788466871'><font size='5'><u>9788466871</u></font></a><br>",
-          "&nbsp;&nbsp;&nbsp;காது குத்த ear piercing: &nbsp;&nbsp;&nbsp; <a href='tel:9865263677'><font size='5'><u>9865263677</u></font></a>",
+          "&nbsp;&nbsp;&nbsp;கோவில் Temple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:6379222323'><font size='6'><u>6379222323</u></font></a><br>",
+          "&nbsp;&nbsp;&nbsp;முடி எடுக்க Barber 1: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9788090681'><font size='6'><u>9788090681</u></font></a><br>",
+          "&nbsp;&nbsp;&nbsp;முடி எடுக்க Barber 2: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9788466871'><font size='6'><u>9788466871</u></font></a><br>",
+          "&nbsp;&nbsp;&nbsp;காது குத்த ear piercing: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9865263677'><font size='6'><u>9865263677</u></font></a>",
           "<br><br><font color='#616161'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
           "<b>கூகுள் மேப்பில் பார்க்க அல்லது வழித்தடம் அறிய:<br>To View on Google Map or Get Directions:</b>"
         ],
@@ -185,10 +196,10 @@
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
           "<b><font color='#01579B'>📞 CONTACT</font></b><br>",
           "<b>Click the number to give a call</b><br>",
-          "&nbsp;&nbsp;&nbsp;Temple: &nbsp;&nbsp;&nbsp; <a href='tel:6379222323'><font size='5'><u>6379222323</u></font></a><br>",
-          "&nbsp;&nbsp;&nbsp;Barber 1: &nbsp;&nbsp;&nbsp; <a href='tel:9788090681'><font size='5'><u>9788090681</u></font></a><br>",
-          "&nbsp;&nbsp;&nbsp;Barber 2: &nbsp;&nbsp;&nbsp; <a href='tel:9788466871'><font size='5'><u>9788466871</u></font></a><br>",
-          "&nbsp;&nbsp;&nbsp;Ear Piercing: &nbsp;&nbsp;&nbsp; <a href='tel:9865263677'><font size='5'><u>9865263677</u></font></a>",
+          "&nbsp;&nbsp;&nbsp;Temple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:6379222323'><font size='6'><u>6379222323</u></font></a><br>",
+          "&nbsp;&nbsp;&nbsp;Barber 1: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9788090681'><font size='6'><u>9788090681</u></font></a><br>",
+          "&nbsp;&nbsp;&nbsp;Barber 2: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9788466871'><font size='6'><u>9788466871</u></font></a><br>",
+          "&nbsp;&nbsp;&nbsp;Ear Piercing: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9865263677'><font size='6'><u>9865263677</u></font></a>",
           "<br><br><font color='#616161'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
           "<b>To View on Google Map or Get Directions:</b>"
         ],
@@ -235,22 +246,6 @@
           "<p><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font></p>",
           "<br><b>Friendship with the Mysore King:</b>",
           "<br>Tipu Sultan met Kulandaivel Chettiar and received resources for the war. In return, the King granted lands for the temple's daily pujas."
-        ]
-      }
-    },
-    {
-      "id": "about_pidariyur",
-      "type": "TEXT",
-      "title": "திருப்பிராட்டியம்மன் கோவில் பற்றி About Temple",
-      "prev": "info_pidariyur",
-      "fab": "menu_pidariyur",
-      "payload": {
-        "shareable": true,
-        "html": [
-          "<p>தகவல்கள் விரைவில்...</p>"
-        ],
-        "transliteration": [
-          "<p>Details coming soon...</p>"
         ]
       }
     },
