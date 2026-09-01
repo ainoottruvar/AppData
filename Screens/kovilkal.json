@@ -79,7 +79,7 @@
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
           "<b><font color='#01579B'>📞 தொடர்பு கொள்ள</font></b><br><br>",
           "<b>அழைக்க எண்ணை கிளிக் செய்யவும்</b><br>",
-          "&nbsp;&nbsp;&nbsp;தொலைபேசி Phone: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9447076106'><font size='6'><u>9447076106</u></font></a>"
+          "&nbsp;&nbsp;&nbsp;தொலைபேசி Phone: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9447076106'><font size='6'><u>9447076106</u></font></a>"
         ],
         "transliteration": [
           "<b><font color='#01579B'>📍 ADDRESS</font></b><br><br>",
@@ -107,12 +107,23 @@
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
           "<b><font color='#01579B'>📞 CONTACT</font></b><br><br>",
           "<b>Click the number to give a call</b><br>",
-          "&nbsp;&nbsp;&nbsp;Phone: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9447076106'><font size='6'><u>9447076106</u></font></a>"
+          "&nbsp;&nbsp;&nbsp;Phone: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9447076106'><font size='6'><u>9447076106</u></font></a>"
         ],
         "buttons": [
           { "label": "முன்புறம் (பார்க்கிங்) Front side (Parking)", "dest": "geo:0,0?q=10.769933,76.646698(முன்புறம்)", "icon": "map" },
           { "label": "பின் புறம் Back side", "dest": "geo:0,0?q=10.770050,76.645956(பின் புறம்)", "icon": "map" },
           { "label": "இணையதளம் Website", "dest": "https://vithunnidevasthanam.org/", "icon": "web" }
+        ]
+      }
+    },
+    {
+      "id": "menu_pidariyur",
+      "type": "BUTTONS",
+      "title": "திருப்பிராட்டியம்மன் கோவில்",
+      "payload": {
+        "buttons": [
+          { "label": "கோவில் விபரங்கள் Temple Info", "dest": "info_pidariyur" },
+          { "label": "கோவில் பற்றி About Temple", "dest": "about_pidariyur" }
         ]
       }
     },
@@ -185,7 +196,7 @@
           "&nbsp;&nbsp;&nbsp;Ear Piercing: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9865263677'><font size='6'><u>9865263677</u></font></a>"
         ],
         "buttons": [
-          { "label": "ముன்புறம் (பார்க்கிங்) Front side (Parking)", "dest": "geo:0,0?q=11.197046,77.601168(முன்புறம்)", "icon": "map" }
+          { "label": "முன்புறம் (பார்க்கிங்) Front side (Parking)", "dest": "geo:0,0?q=11.197046,77.601168(முன்புறம்)", "icon": "map" }
         ]
       }
     },
@@ -212,7 +223,7 @@
           "<br>ஒருநாள் குழந்தைவேல் செட்டியார் அவர்கள் பகலுணவு முடித்து அயர்ந்து உறங்கிய வேளையில், ஒரு சிறுவன் வந்து \"அப்பனே! நான் உன் அருகிலேயே குடியிருக்கிறேன். என்னை வந்து பார்க்கவில்லையே, ஏன்?\" என்று கேட்க, இப்பொழுது விற்றுாணி விநாயகர் எழுந்தருளியுள்ள இடத்தைக் காட்டினார்.",
           "<p><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font></p>",
           "<br><b>மைசூர் மன்னனின் நட்பு </b>",
-          "<br>திப்பு சுல்தான் மைசூரிலிருந்து பாலக்காடு வரும் வழியில் சேவூர் அருகே உள்ள தண்டுக்காரன் பாளையத்தில் குழந்தைவேல் செட்டியாரை சந்தித்தார். மன்னர் செட்டியாரிடம் \"எவ்வளவு பணம் தங்களிடத்தில் உள்ளது?\" என வினவினார். மன்னர் வேண்டிய பொருள் பெற்றுச் சென்று ஆங்கிலேயரோடு மீண்டும் போரிட்டு வெற்றியும் கண்டார். பிரதி உபகாரமாக பாலக்காடு விற்றுாணியாருக்கு நித்திய பூஜைகள் நடைபெற நன்செய் நிலங்களை பட்டா செய்து தந்தார்."
+          "<br>திப்பு சுல்தான் மைசூரிலிருந்து பாலக்காடு வரும் வழியில் சேவூர் அருகே உள்ள தண்டுக்காரன் பாளையத்தில் குழந்தைவேல் செட்டியாரை சந்தித்தார். மன்னர் செட்டியாரிடம் \"எவ்வளவு பணம் தங்களிடத்தில் உள்ளது?\" என வினவினார். மன்னர் வேண்டிய பொருள் பெற்றுச் சென்று ஆங்கிலேயரோடு மீண்டும் போரிட்டு வெற்றியும் கண்டார். பிரதி உபகாரமாக பாலக்காடு விற்றுாணியாரை நித்திய பூஜைகள் நடைபெற நன்செய் நிலங்களை பட்டா செய்து தந்தார்."
         ],
         "transliteration": [
           "<br><b>Palakkad Sree Vittruniyaar Temple</b>",
@@ -227,6 +238,22 @@
           "<p><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font></p>",
           "<br><b>Friendship with the Mysore King:</b>",
           "<br>Tipu Sultan met Kulandaivel Chettiar and received resources for the war. In return, the King granted lands for the temple's daily pujas."
+        ]
+      }
+    },
+    {
+      "id": "about_pidariyur",
+      "type": "TEXT",
+      "title": "திருப்பிராட்டியம்மன் கோவில் பற்றி About Temple",
+      "prev": "info_pidariyur",
+      "fab": "menu_pidariyur",
+      "payload": {
+        "shareable": true,
+        "html": [
+          "<p>தகவல்கள் விரைவில்...</p>"
+        ],
+        "transliteration": [
+          "<p>Details coming soon...</p>"
         ]
       }
     },
