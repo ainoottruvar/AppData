@@ -61,7 +61,6 @@
           "<b>அழைக்க எண்ணை கிளிக் செய்யவும்</b><br>",
           "&nbsp;&nbsp;&nbsp;தொலைபேசி Phone:<br>",
           "&nbsp;&nbsp;&nbsp;<a href='tel:9447076106'><font size='6'><u>9447076106</u></font></a>",
-
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
           "<b><font color='#01579B'>⏰ கோவில் திறக்கும் நேரம்</font></b><br><br>",
           "&nbsp;&nbsp;&nbsp;சனிக்கிழமை தவிர:<br>",
@@ -82,7 +81,6 @@
           "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛺 ஆட்டோ / கார்: 13-15 நிமிடம்<br><br>",
           "&nbsp;&nbsp;&nbsp;<b>கோயம்புத்தூர் விமான நிலையம் - 64 கி.மீ</b><br>",
           "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚗 கார்: 2 மணி நேரம்"
-
         ],
         "transliteration": [
           "<b><font color='#01579B'>📍 ADDRESS</font></b><br><br>",
@@ -92,8 +90,6 @@
           "<b>Click the number to give a call</b><br>",
           "&nbsp;&nbsp;&nbsp;Phone:<br>",
           "&nbsp;&nbsp;&nbsp;<a href='tel:9447076106'><font size='6'><u>9447076106</u></font></a>",
-
-
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
           "<b><font color='#01579B'>⏰ TEMPLE TIMINGS</font></b><br><br>",
           "&nbsp;&nbsp;&nbsp;Other than Saturdays:<br>",
@@ -113,14 +109,23 @@
           "&nbsp;&nbsp;&nbsp;<b>Palakkad Railway Station (Junction) - 4.4 KM</b><br>",
           "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛺 By Auto / Car: 13-15 minutes<br><br>",
           "&nbsp;&nbsp;&nbsp;<b>Coimbatore Airport - 64 KM</b><br>",
-          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚗 By Car: 2 hours approx",
-          "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>"
-
+          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚗 By Car: 2 hours approx"
         ],
         "buttons": [
           { "label": "முன்புறம் (பார்க்கிங்) Front side (Parking)", "dest": "geo:0,0?q=10.769933,76.646698(முன்புறம்)", "icon": "map" },
           { "label": "பின் புறம் Back side", "dest": "geo:0,0?q=10.770050,76.645956(பின் புறம்)", "icon": "map" },
           { "label": "இணையதளம் Website", "dest": "https://vithunnidevasthanam.org/", "icon": "web" }
+        ]
+      }
+    },
+    {
+      "id": "menu_pidariyur",
+      "type": "BUTTONS",
+      "title": "திருப்பிராட்டியம்மன் கோவில்",
+      "payload": {
+        "buttons": [
+          { "label": "கோவில் விபரங்கள் Temple Info", "dest": "info_pidariyur" },
+          { "label": "கோவில் பற்றி About Temple", "dest": "about_pidariyur" }
         ]
       }
     },
@@ -146,7 +151,6 @@
           "&nbsp;&nbsp;&nbsp;<a href='tel:9788466871'><font size='6'><u>9788466871</u></font></a><br><br>",
           "&nbsp;&nbsp;&nbsp;காது குத்த:<br>",
           "&nbsp;&nbsp;&nbsp;<a href='tel:9865263677'><font size='6'><u>9865263677</u></font></a>",
-
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
           "<b><font color='#01579B'>⏰ கோவில் திறக்கும் நேரம்</font></b><br><br>",
           "&nbsp;&nbsp;&nbsp;காலை - 07:00 AM to 07:00 PM",
@@ -166,26 +170,21 @@
           "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚗 கார் - 45 நிமிடம்<br><br>",
           "&nbsp;&nbsp;&nbsp;<b>கோயம்புத்தூர் விமான நிலையம் - 80 KM</b><br>",
           "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚗 கார் - 2 மணி நேரம்"
-
-
         ],
         "transliteration": [
           "<b><font color='#01579B'>📍 ADDRESS</font></b><br><br>",
-          "&nbsp;&nbsp;&nbsp;Arulmigu Piratti Amman Devasthanam,<br>&nbsp;&nbsp;&nbsp;Pidariyur,<br>&nbsp;&nbsp;&nbsp;Mukasi Pidariyur (Post) - 638 051.",
+          "&nbsp;&nbsp;&nbsp;Arulmigu Piratti Amman Devasthanam,<br>&nbsp;&nbsp;&nbsp;Pidariyur,<br>&nbsp;&nbsp;&nbsp;Mukasi Pirariyur (Post) - 638 051.",
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
-          "<b><font color='#01579B'>🚌 HOW TO REACH?</font></b><br><br>",
-          "&nbsp;&nbsp;&nbsp;<b>Perundurai - Chennimalai Road - 950 m</b><br>",
-          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚶 By Walk - 15 minutes<br>",
-          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛺 By Auto / Car - 3 minutes<br><br>",
-          "&nbsp;&nbsp;&nbsp;<b>Perundurai Bus Stand - 11 KM</b><br>",
-          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛺 By Auto / Car - 25 minutes<br><br>",
-          "&nbsp;&nbsp;&nbsp;<b>Chennimalai Bus Stand - 5 KM</b><br>",
-          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛺 By Auto / Car - 5 minutes<br><br>",
-          "&nbsp;&nbsp;&nbsp;<b>From Erode Railway Station - 25 KM</b><br>",
-          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚗 By Car - 45 minutes<br><br>",
-          "&nbsp;&nbsp;&nbsp;<b>Coimbatore Airport - 80 KM</b><br>",
-          "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚗 By Car - 2 hours approx",
-
+          "<b><font color='#01579B'>📞 CONTACT</font></b><br><br>",
+          "<b>Click the number to give a call</b><br>",
+          "&nbsp;&nbsp;&nbsp;Temple:<br>",
+          "&nbsp;&nbsp;&nbsp;<a href='tel:6379222323'><font size='6'><u>6379222323</u></font></a><br><br>",
+          "&nbsp;&nbsp;&nbsp;Barber 1:<br>",
+          "&nbsp;&nbsp;&nbsp;<a href='tel:9788090681'><font size='6'><u>9788090681</u></font></a><br><br>",
+          "&nbsp;&nbsp;&nbsp;Barber 2:<br>",
+          "&nbsp;&nbsp;&nbsp;<a href='tel:9788466871'><font size='6'><u>9788466871</u></font></a><br><br>",
+          "&nbsp;&nbsp;&nbsp;Ear Piercing:<br>",
+          "&nbsp;&nbsp;&nbsp;<a href='tel:9865263677'><font size='6'><u>9865263677</u></font></a>",
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
           "<b><font color='#01579B'>⏰ TEMPLE TIMINGS</font></b><br><br>",
           "&nbsp;&nbsp;&nbsp;Morning - 07:00 AM to 07:00 PM",
@@ -205,7 +204,6 @@
           "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚗 By Car - 45 minutes<br><br>",
           "&nbsp;&nbsp;&nbsp;<b>Coimbatore Airport - 80 KM</b><br>",
           "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚗 By Car - 2 hours approx"
-
         ],
         "buttons": [
           { "label": "முன்புறம் (பார்க்கிங்) Front side (Parking)", "dest": "geo:0,0?q=11.197046,77.601168(முன்புறம்)", "icon": "map" }
