@@ -54,10 +54,10 @@
       "payload": {
         "shareable": true,
         "html": [
-          "<b><font color='#01579B'>📍 முகவரி</font></b><br>",
+          "<b><font color='#01579B'>📍 முகவரி</font></b><br><br>",
           "&nbsp;&nbsp;&nbsp;அருள்மிகு ஸ்ரீ விற்றூணியார் தேவஸ்தானம்,<br>&nbsp;&nbsp;&nbsp;விற்றுண்ணி ரோடு,<br>&nbsp;&nbsp;&nbsp;நூரணி அஞ்சல்,<br>&nbsp;&nbsp;&nbsp;பாலக்காடு - 678 004, கேரளா.",
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
-          "<b><font color='#01579B'>⏰ கோவில் திறக்கும் நேரம்</font></b><br>",
+          "<b><font color='#01579B'>⏰ கோவில் திறக்கும் நேரம்</font></b><br><br>",
           "&nbsp;&nbsp;&nbsp;சனிக்கிழமை தவிர:<br>",
           "&nbsp;&nbsp;&nbsp;காலை - 06:00 AM to 11:00 AM<br>",
           "&nbsp;&nbsp;&nbsp;மாலை - 05:00 PM to 07:00 PM<br><br>",
@@ -65,10 +65,10 @@
           "&nbsp;&nbsp;&nbsp;காலை - 06:00 AM to 11:30 AM<br>",
           "&nbsp;&nbsp;&nbsp;மாலை - 05:00 PM to 08:00 PM",
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
-          "<b><font color='#01579B'>🙏 பூஜை நேரங்கள்</font></b><br>",
+          "<b><font color='#01579B'>🙏 பூஜை நேரங்கள்</font></b><br><br>",
           "&nbsp;&nbsp;&nbsp;விபரங்கள் விரைவில்...",
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
-          "<b><font color='#01579B'>🚌 எப்படி செல்வது?</font></b><br>",
+          "<b><font color='#01579B'>🚌 எப்படி செல்வது?</font></b><br><br>",
           "&nbsp;&nbsp;&nbsp;<b>நூரணி பேருந்து நிலையம் - 600 மீ</b><br>",
           "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚶 நடைபயணம்: 10 நிமிடம்<br>",
           "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛺 ஆட்டோ / கார்: 3 நிமிடம்<br><br>",
@@ -77,17 +77,15 @@
           "&nbsp;&nbsp;&nbsp;<b>கோயம்புத்தூர் விமான நிலையம் - 64 கி.மீ</b><br>",
           "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚗 கார்: 2 மணி நேரம்",
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
-          "<b><font color='#01579B'>📞 தொடர்பு கொள்ள</font></b><br>",
+          "<b><font color='#01579B'>📞 தொடர்பு கொள்ள</font></b><br><br>",
           "<b>அழைக்க எண்ணை கிளிக் செய்யவும்</b><br>",
-          "&nbsp;&nbsp;&nbsp;தொலைபேசி Phone: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9447076106'><font size='6'><u>9447076106</u></font></a>",
-          "<br><br><font color='#616161'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
-          "<b>கூகுள் மேப்பில் பார்க்க அல்லது வழித்தடம் அறிய:<br>To View on Google Map or Get Directions:</b>"
+          "&nbsp;&nbsp;&nbsp;தொலைபேசி Phone: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9447076106'><font size='6'><u>9447076106</u></font></a>"
         ],
         "transliteration": [
-          "<b><font color='#01579B'>📍 ADDRESS</font></b><br>",
+          "<b><font color='#01579B'>📍 ADDRESS</font></b><br><br>",
           "&nbsp;&nbsp;&nbsp;Arulmigu Sree Vittruniyar Temple,<br>&nbsp;&nbsp;&nbsp;Vithunni Road, Devi Nagar,<br>&nbsp;&nbsp;&nbsp;East-West Colony,<br>&nbsp;&nbsp;&nbsp;Palakaad - 678 004, Kerala.",
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
-          "<b><font color='#01579B'>⏰ TEMPLE TIMINGS</font></b><br>",
+          "<b><font color='#01579B'>⏰ TEMPLE TIMINGS</font></b><br><br>",
           "&nbsp;&nbsp;&nbsp;Other than Saturdays:<br>",
           "&nbsp;&nbsp;&nbsp;Morning - 06:00 AM to 11:00 AM<br>",
           "&nbsp;&nbsp;&nbsp;Evening - 05:00 PM to 07:00 PM<br><br>",
@@ -95,10 +93,10 @@
           "&nbsp;&nbsp;&nbsp;Morning - 06:00 AM to 11:30 AM<br>",
           "&nbsp;&nbsp;&nbsp;Evening - 05:00 PM to 08:00 PM",
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
-          "<b><font color='#01579B'>🙏 POOJA TIMINGS</font></b><br>",
+          "<b><font color='#01579B'>🙏 POOJA TIMINGS</font></b><br><br>",
           "&nbsp;&nbsp;&nbsp;Details coming soon...",
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
-          "<b><font color='#01579B'>🚌 HOW TO REACH?</font></b><br>",
+          "<b><font color='#01579B'>🚌 HOW TO REACH?</font></b><br><br>",
           "&nbsp;&nbsp;&nbsp;<b>Nurani Bus Stand - 600 m</b><br>",
           "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚶 By Walk: 10 minutes<br>",
           "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛺 By Auto / Car: 3 minutes<br><br>",
@@ -107,27 +105,14 @@
           "&nbsp;&nbsp;&nbsp;<b>Coimbatore Airport - 64 KM</b><br>",
           "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚗 By Car: 2 hours approx",
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
-          "<b><font color='#01579B'>📞 CONTACT</font></b><br>",
+          "<b><font color='#01579B'>📞 CONTACT</font></b><br><br>",
           "<b>Click the number to give a call</b><br>",
-          "&nbsp;&nbsp;&nbsp;Phone: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9447076106'><font size='6'><u>9447076106</u></font></a>",
-          "<br><br><font color='#616161'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
-          "<b>To View on Google Map or Get Directions:</b>"
+          "&nbsp;&nbsp;&nbsp;Phone: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9447076106'><font size='6'><u>9447076106</u></font></a>"
         ],
         "buttons": [
           { "label": "முன்புறம் (பார்க்கிங்) Front side (Parking)", "dest": "geo:0,0?q=10.769933,76.646698(முன்புறம்)", "icon": "map" },
           { "label": "பின் புறம் Back side", "dest": "geo:0,0?q=10.770050,76.645956(பின் புறம்)", "icon": "map" },
           { "label": "இணையதளம் Website", "dest": "https://vithunnidevasthanam.org/", "icon": "web" }
-        ]
-      }
-    },
-    {
-      "id": "menu_pidariyur",
-      "type": "BUTTONS",
-      "title": "திருப்பிராட்டியம்மன் கோவில்",
-      "payload": {
-        "buttons": [
-          { "label": "கோவில் விபரங்கள் Temple Info", "dest": "info_pidariyur" },
-          { "label": "கோவில் பற்றி About Temple", "dest": "about_pidariyur" }
         ]
       }
     },
@@ -140,16 +125,16 @@
       "payload": {
         "shareable": true,
         "html": [
-          "<b><font color='#01579B'>📍 முகவரி</font></b><br>",
+          "<b><font color='#01579B'>📍 முகவரி</font></b><br><br>",
           "&nbsp;&nbsp;&nbsp;அருள்மிகு பிராட்டி அம்மன் தேவஸ்தானம்,<br>&nbsp;&nbsp;&nbsp;பிடாரியூர்,<br>&nbsp;&nbsp;&nbsp;முகாசிப்பிடாரியூர் (அஞ்சல்) - 638 051.",
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
-          "<b><font color='#01579B'>⏰ கோவில் திறக்கும் நேரம்</font></b><br>",
+          "<b><font color='#01579B'>⏰ கோவில் திறக்கும் நேரம்</font></b><br><br>",
           "&nbsp;&nbsp;&nbsp;காலை - 07:00 AM to 07:00 PM",
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
-          "<b><font color='#01579B'>🙏 பூஜை நேரங்கள்</font></b><br>",
+          "<b><font color='#01579B'>🙏 பூஜை நேரங்கள்</font></b><br><br>",
           "&nbsp;&nbsp;&nbsp;விபரங்கள் விரைவில்...",
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
-          "<b><font color='#01579B'>🚌 எப்படி செல்வது?</font></b><br>",
+          "<b><font color='#01579B'>🚌 எப்படி செல்வது?</font></b><br><br>",
           "&nbsp;&nbsp;&nbsp;<b>பெருந்துறை-சென்னிமலை சாலை - 950 மீ</b><br>",
           "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚶 நடைபயணம் - 15 நிமிடம்<br>",
           "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛺 ஆட்டோ / கார் - 3 நிமிடம்<br><br>",
@@ -162,26 +147,24 @@
           "&nbsp;&nbsp;&nbsp;<b>கோயம்புத்தூர் விமான நிலையம் - 80 KM</b><br>",
           "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚗 கார் - 2 மணி நேரம்",
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
-          "<b><font color='#01579B'>📞 தொடர்பு கொள்ள</font></b><br>",
+          "<b><font color='#01579B'>📞 தொடர்பு கொள்ள</font></b><br><br>",
           "<b>அழைக்க எண்ணை கிளிக் செய்யவும்</b><br>",
-          "&nbsp;&nbsp;&nbsp;கோவில் Temple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:6379222323'><font size='6'><u>6379222323</u></font></a><br>",
-          "&nbsp;&nbsp;&nbsp;முடி எடுக்க Barber 1: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9788090681'><font size='6'><u>9788090681</u></font></a><br>",
-          "&nbsp;&nbsp;&nbsp;முடி எடுக்க Barber 2: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9788466871'><font size='6'><u>9788466871</u></font></a><br>",
-          "&nbsp;&nbsp;&nbsp;காது குத்த ear piercing: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9865263677'><font size='6'><u>9865263677</u></font></a>",
-          "<br><br><font color='#616161'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
-          "<b>கூகுள் மேப்பில் பார்க்க அல்லது வழித்தடம் அறிய:<br>To View on Google Map or Get Directions:</b>"
+          "&nbsp;&nbsp;&nbsp;கோவில் Temple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:6379222323'><font size='6'><u>6379222323</u></font></a><br>",
+          "&nbsp;&nbsp;&nbsp;முடி எடுக்க Barber 1: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9788090681'><font size='6'><u>9788090681</u></font></a><br>",
+          "&nbsp;&nbsp;&nbsp;முடி எடுக்க Barber 2: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9788466871'><font size='6'><u>9788466871</u></font></a><br>",
+          "&nbsp;&nbsp;&nbsp;காது குத்த ear piercing: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9865263677'><font size='6'><u>9865263677</u></font></a>"
         ],
         "transliteration": [
-          "<b><font color='#01579B'>📍 ADDRESS</font></b><br>",
+          "<b><font color='#01579B'>📍 ADDRESS</font></b><br><br>",
           "&nbsp;&nbsp;&nbsp;Arulmigu Piratti Amman Devasthanam,<br>&nbsp;&nbsp;&nbsp;Pidariyur,<br>&nbsp;&nbsp;&nbsp;Mukasi Pidariyur (Post) - 638 051.",
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
-          "<b><font color='#01579B'>⏰ TEMPLE TIMINGS</font></b><br>",
+          "<b><font color='#01579B'>⏰ TEMPLE TIMINGS</font></b><br><br>",
           "&nbsp;&nbsp;&nbsp;Morning - 07:00 AM to 07:00 PM",
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
-          "<b><font color='#01579B'>🙏 POOJA TIMINGS</font></b><br>",
+          "<b><font color='#01579B'>🙏 POOJA TIMINGS</font></b><br><br>",
           "&nbsp;&nbsp;&nbsp;Details coming soon...",
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
-          "<b><font color='#01579B'>🚌 HOW TO REACH?</font></b><br>",
+          "<b><font color='#01579B'>🚌 HOW TO REACH?</font></b><br><br>",
           "&nbsp;&nbsp;&nbsp;<b>Perundurai - Chennimalai Road - 950 m</b><br>",
           "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚶 By Walk - 15 minutes<br>",
           "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛺 By Auto / Car - 3 minutes<br><br>",
@@ -194,17 +177,15 @@
           "&nbsp;&nbsp;&nbsp;<b>Coimbatore Airport - 80 KM</b><br>",
           "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🚗 By Car - 2 hours approx",
           "<br><font color='#BDBDBD'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
-          "<b><font color='#01579B'>📞 CONTACT</font></b><br>",
+          "<b><font color='#01579B'>📞 CONTACT</font></b><br><br>",
           "<b>Click the number to give a call</b><br>",
-          "&nbsp;&nbsp;&nbsp;Temple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:6379222323'><font size='6'><u>6379222323</u></font></a><br>",
-          "&nbsp;&nbsp;&nbsp;Barber 1: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9788090681'><font size='6'><u>9788090681</u></font></a><br>",
-          "&nbsp;&nbsp;&nbsp;Barber 2: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9788466871'><font size='6'><u>9788466871</u></font></a><br>",
-          "&nbsp;&nbsp;&nbsp;Ear Piercing: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9865263677'><font size='6'><u>9865263677</u></font></a>",
-          "<br><br><font color='#616161'>━━━━━━━━━━━━━━━━━━━━━━━━━━</font><br>",
-          "<b>To View on Google Map or Get Directions:</b>"
+          "&nbsp;&nbsp;&nbsp;Temple: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:6379222323'><font size='6'><u>6379222323</u></font></a><br>",
+          "&nbsp;&nbsp;&nbsp;Barber 1: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9788090681'><font size='6'><u>9788090681</u></font></a><br>",
+          "&nbsp;&nbsp;&nbsp;Barber 2: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9788466871'><font size='6'><u>9788466871</u></font></a><br>",
+          "&nbsp;&nbsp;&nbsp;Ear Piercing: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href='tel:9865263677'><font size='6'><u>9865263677</u></font></a>"
         ],
         "buttons": [
-          { "label": "முன்புறம் (பார்க்கிங்) Front side (Parking)", "dest": "geo:0,0?q=11.197046,77.601168(முன்புறம்)", "icon": "map" }
+          { "label": "ముன்புறம் (பார்க்கிங்) Front side (Parking)", "dest": "geo:0,0?q=11.197046,77.601168(முன்புறம்)", "icon": "map" }
         ]
       }
     },
