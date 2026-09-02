@@ -1,6 +1,6 @@
 {
-  "overall_version": 52,
-  "updated_at": "2026-09-02 22:11:06",
+  "overall_version": 53,
+  "updated_at": "2026-09-02 22:12:53",
   "sections": {
     "screens": [
       {
@@ -115,8 +115,8 @@
       },
       {
         "name": "vinayagar_akaval.json",
-        "ver": 4,
-        "hash": "e93d17ddb41f79502dd48be427d30944"
+        "ver": 5,
+        "hash": "5434b782824bbbe37310b84bd9fcf76d"
       }
     ],
     "pdfs": [
