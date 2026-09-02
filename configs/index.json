@@ -1,0 +1,616 @@
+[
+  {
+    "letter": "அ",
+    "entries": [
+      {
+        "t": "அந்தெரட்டி",
+        "id": "andheratti"
+      },
+      {
+        "t": "அன்னப்பிராசனம்",
+        "id": "anaprasanam"
+      },
+      {
+        "t": "அருகுமணம் எடுத்தல்",
+        "id": "arugumanam"
+      },
+      {
+        "t": "அருமைச்சீர்",
+        "id": "arumai"
+      }
+    ]
+  },
+  {
+    "letter": "ஆ",
+    "entries": [
+      {
+        "t": "ஆசீர்வாதம்",
+        "id": "aaseervaatham"
+      },
+      {
+        "t": "ஆடி நோன்பு",
+        "id": "aadi_nonbu"
+      },
+      {
+        "t": "ஆடிப் பதினெட்டு",
+        "id": "pathinettu"
+      },
+      {
+        "t": "ஆடி வெள்ளி",
+        "id": "aadi_velli"
+      },
+      {
+        "t": "ஆயுத பூஜை",
+        "id": "aayuda_poojai"
+      },
+      {
+        "t": "ஆவணி ஞாயிறு",
+        "id": "aavani_naayiru"
+      }
+    ]
+  },
+  {
+    "letter": "இ",
+    "entries": [
+      {
+        "t": "இணைக்காரி சீர்",
+        "id": "inaikkaari"
+      },
+      {
+        "t": "இறுதி சடங்கு",
+        "id": "iruthi_sadanku"
+      }
+    ]
+  },
+  {
+    "letter": "ஊ",
+    "entries": [
+      {
+        "t": "ஊஞ்சல்",
+        "id": "oonjal"
+      },
+      {
+        "t": "ஊஞ்சல் பாட்டு",
+        "id": "oonjal_paattu"
+      }
+    ]
+  },
+  {
+    "letter": "எ",
+    "entries": [
+      {
+        "t": "எழுதிங்கள்சீர்",
+        "id": "ezhuthingal"
+      }
+    ]
+  },
+  {
+    "letter": "ஓ",
+    "entries": [
+      {
+        "t": "ஓலைக்கா நோன்பு",
+        "id": "olaikka"
+      }
+    ]
+  },
+  {
+    "letter": "க",
+    "entries": [
+      {
+        "t": "கன்னிமார் பூஜை",
+        "id": "kannimaar"
+      },
+      {
+        "t": "கரகம் நகர்த்தி – பரியம் செலுத்துவது",
+        "id": "pariyam_seluthuvathu"
+      },
+      {
+        "t": "கல்யாண \"மொய்” எழுதுதல்",
+        "id": "kalyana_moi"
+      },
+      {
+        "t": "கல்யாண விளக்கு",
+        "id": "kalyana_vilakku"
+      }
+    ]
+  },
+  {
+    "letter": "கா",
+    "entries": [
+      {
+        "t": "காட்டில் செய்வது",
+        "id": "kaattil_seyvathu"
+      },
+      {
+        "t": "காட்டுக்கு செல்லும் முன்பு",
+        "id": "kattukku_sellum_mun"
+      },
+      {
+        "t": "காதணி விழா",
+        "id": "kaathani_vizha"
+      },
+      {
+        "t": "காப்பு நூல்,திருமாங்கல்ய நாண் தயாரித்தல்",
+        "id": "kaappu_nool"
+      },
+      {
+        "t": "கார்த்திகை தீபம்",
+        "id": "karthikai"
+      }
+    ]
+  },
+  {
+    "letter": "கி",
+    "entries": [
+      {
+        "t": "கிளைப்பணம் வைத்தல்",
+        "id": "kilaippanam"
+      }
+    ]
+  },
+  {
+    "letter": "கு",
+    "entries": [
+      {
+        "t": "குத்துவிளக்கு ஏற்றி, கரகம் வைத்தல்",
+        "id": "karakam_vaithal"
+      },
+      {
+        "t": "குலதெய்வப் பிரார்த்தனை/காணிக்கை முடிதல்",
+        "id": "kaanikkai_mudithal"
+      },
+      {
+        "t": "குழந்தை நாமகரணம்",
+        "id": "naamakaranam"
+      },
+      {
+        "t": "குழந்தை முடி காணிக்கை",
+        "id": "mudi_kaanikkai"
+      }
+    ]
+  },
+  {
+    "letter": "கை",
+    "entries": [
+      {
+        "t": "கைவீசுக்காரன் – சீர்",
+        "id": "kaiveesukkaaran"
+      }
+    ]
+  },
+  {
+    "letter": "கொ",
+    "entries": [
+      {
+        "t": "கொள்ளு பயறு சீர்",
+        "id": "kollu_payaru_seer"
+      }
+    ]
+  },
+  {
+    "letter": "ச",
+    "entries": [
+      {
+        "t": "சம்மந்தம் கலக்கல்",
+        "id": "sambandham_kalakkal"
+      },
+      {
+        "t": "சரஸ்வதி பூஜை",
+        "id": "saraswathi_poojai"
+      }
+    ]
+  },
+  {
+    "letter": "சா",
+    "entries": [
+      {
+        "t": "சாத்திரம்",
+        "id": "saaththiram"
+      }
+    ]
+  },
+  {
+    "letter": "சி",
+    "entries": [
+      {
+        "t": "சித்ரா பௌர்ணமி",
+        "id": "chitra_pournami"
+      },
+      {
+        "t": "சிரப்பு வைத்தல்",
+        "id": "sirappu_vaithal"
+      },
+      {
+        "t": "சிறுசீர் வைத்தல்",
+        "id": "siruseer"
+      },
+      {
+        "t": "சிவராத்திரி",
+        "id": "sivaratri"
+      }
+    ]
+  },
+  {
+    "letter": "சீ",
+    "entries": [
+      {
+        "t": "சீர்த்தண்ணீர்  எடுத்து வருதல்",
+        "id": "seer_thanni"
+      }
+    ]
+  },
+  {
+    "letter": "சு",
+    "entries": [
+      {
+        "t": "சுப மாங்கல்யப் பிரார்த்தனை - முன்னோர் வழிபாடு (கூறைக்குப் போடுதல்)",
+        "id": "munnor_vazhipaadu"
+      }
+    ]
+  },
+  {
+    "letter": "த",
+    "entries": [
+      {
+        "t": "தண்ணீர் சுத்துதல்",
+        "id": "thanneer_suthuthal"
+      },
+      {
+        "t": "தமிழ் வருடப் பிறப்பு",
+        "id": "thamizh_varuda_pirappu"
+      },
+      {
+        "t": "தலை தீபாவளி/ இரண்டாவது தீபாவளி",
+        "id": "thalai_deepavali"
+      }
+    ]
+  },
+  {
+    "letter": "தி",
+    "entries": [
+      {
+        "t": "திருப்பொற்ச்சுண்ணம்",
+        "id": "thiru_por_chunnam"
+      },
+      {
+        "t": "திருமணம் உறுதி செய்தல்",
+        "id": "urudhi_seythal"
+      },
+      {
+        "t": "திருவாதிரை",
+        "id": "thiruvadirai"
+      },
+      {
+        "t": "திருவாதிரை சீர்",
+        "id": "thiruvaathirai_seer"
+      }
+    ]
+  },
+  {
+    "letter": "தீ",
+    "entries": [
+      {
+        "t": "தீபாவளி",
+        "id": "deepavali"
+      }
+    ]
+  },
+  {
+    "letter": "தை",
+    "entries": [
+      {
+        "t": "தைப்பூசம்",
+        "id": "thaipoosam"
+      }
+    ]
+  },
+  {
+    "letter": "ந",
+    "entries": [
+      {
+        "t": "நமது சமையல்",
+        "id": "namathu_samayal"
+      },
+      {
+        "t": "நவராத்திரி",
+        "id": "navaratri"
+      }
+    ]
+  },
+  {
+    "letter": "நா",
+    "entries": [
+      {
+        "t": "நாகவல்லி (நாளாணைத் தண்ணிவார்த்தல்)",
+        "id": "nagavalli"
+      }
+    ]
+  },
+  {
+    "letter": "நி",
+    "entries": [
+      {
+        "t": "நிச்சய தாம்பூலம்",
+        "id": "nichaya_thamboolam_seythal"
+      },
+      {
+        "t": "நிர்வாக அமைப்புகள்",
+        "id": "nirvaaka_amaippukal"
+      }
+    ]
+  },
+  {
+    "letter": "ப",
+    "entries": [
+      {
+        "t": "பட்டை வார்த்தல் - மேல்கட்டி கட்டுதல்",
+        "id": "pattai_vaarthal"
+      },
+      {
+        "t": "பண்டிகை அழைப்பு",
+        "id": "pandikai_azhaippu"
+      },
+      {
+        "t": "பத்திரிகை எழுதுதல்",
+        "id": "pathirikai_ezhuthuthal"
+      }
+    ]
+  },
+  {
+    "letter": "பா",
+    "entries": [
+      {
+        "t": "பாதபூஜை",
+        "id": "padha_poojai"
+      }
+    ]
+  },
+  {
+    "letter": "பி",
+    "entries": [
+      {
+        "t": "பிள்ளையார் நோன்பு",
+        "id": "pillaiyar"
+      }
+    ]
+  },
+  {
+    "letter": "பு",
+    "entries": [
+      {
+        "t": "புதுக்கல சாப்பாடு",
+        "id": "puthukkala_saappaadu"
+      },
+      {
+        "t": "புற்றுமண் எடுத்தல்",
+        "id": "purru_man"
+      }
+    ]
+  },
+  {
+    "letter": "பூ",
+    "entries": [
+      {
+        "t": "பூப்பொங்கல்",
+        "id": "poopongal"
+      }
+    ]
+  },
+  {
+    "letter": "பெ",
+    "entries": [
+      {
+        "t": "பெண் காணுதல்",
+        "id": "pen_kaanuthal"
+      },
+      {
+        "t": "பெண் கேட்பது",
+        "id": "pen_ketpathu"
+      }
+    ]
+  },
+  {
+    "letter": "பொ",
+    "entries": [
+      {
+        "t": "பொங்கல்",
+        "id": "pongal"
+      },
+      {
+        "t": "பொங்கல் சீர்",
+        "id": "pongal_seer"
+      }
+    ]
+  },
+  {
+    "letter": "போ",
+    "entries": [
+      {
+        "t": "போகி",
+        "id": "bhogi"
+      }
+    ]
+  },
+  {
+    "letter": "ம",
+    "entries": [
+      {
+        "t": "மகிமை / சந்தா",
+        "id": "mahimai"
+      },
+      {
+        "t": "மசக்கம் etc",
+        "id": "masakkam"
+      },
+      {
+        "t": "மஞ்சள் நீர்",
+        "id": "manjal_neer"
+      },
+      {
+        "t": "மணமகனுக்கு காப்புக்கட்டுதல்",
+        "id": "manamakan_kaappu"
+      },
+      {
+        "t": "மணமகனுக்கு முகவேலை",
+        "id": "muka_velai"
+      },
+      {
+        "t": "மணமகனை திருமண இல்லத்திற்குஅனுப்புதல்",
+        "id": "manamagan_illam"
+      },
+      {
+        "t": "மணமகன் அலங்காரம் - மாலை அணிவித்தல்",
+        "id": "manamagan_alangaaram"
+      },
+      {
+        "t": "மணமகன் மங்கள நீராடல்",
+        "id": "manamagan_neeraadal"
+      },
+      {
+        "t": "மணமகன் மணவரைக்கு வருதல்: மணமகளுக்கு பொன்பூட்டுதல்",
+        "id": "pon_poottuthal"
+      },
+      {
+        "t": "மணமகன் வினாயகர் வழிபாடு",
+        "id": "manamagan_vinayagar"
+      },
+      {
+        "t": "மணமகன் வீட்டில் நடக்கும் சீர்கள்",
+        "id": "manamagan_seerkal"
+      },
+      {
+        "t": "மணமகன் வீட்டில் பட்டை வார்த்தல்",
+        "id": "manamagan_pattai_vaarthal"
+      },
+      {
+        "t": "மணமகளுக்கு காப்புக் கட்டுதல்",
+        "id": "manamagal_kaappu"
+      },
+      {
+        "t": "மணமகளுக்கு தாயார் அன்னமிடல்",
+        "id": "annamidal"
+      },
+      {
+        "t": "மணமகளுக்குப் பட்டம் கட்டுதல், மாலை அணிவித்தல்",
+        "id": "pattam_kattuthal"
+      },
+      {
+        "t": "மணமகளை மணமகன் வீட்டுக்கு அழைத்துச் செல்லுதல்",
+        "id": "manamagan_veedu_selluthal"
+      },
+      {
+        "t": "மணமகள் மங்கள நீராடல்",
+        "id": "manamagal_neeraadal"
+      },
+      {
+        "t": "மணமகள் மணமகனுக்கு சட்டுவச்சாதம் போடுதல்",
+        "id": "sattuva_saadham"
+      },
+      {
+        "t": "மணமகள் வீட்டில் பயறு வறுத்துப் பட்டை வார்த்தல்",
+        "id": "manamagal_pattai_vaarthal"
+      },
+      {
+        "t": "மணவறை அலங்காரம்",
+        "id": "manavarai"
+      },
+      {
+        "t": "மண்டபம் முன்பதிவு",
+        "id": "mandapam_booking_instructions"
+      }
+    ]
+  },
+  {
+    "letter": "மா",
+    "entries": [
+      {
+        "t": "மாப்பிள்ளை அழைப்பு",
+        "id": "maappillai_azhaippu"
+      },
+      {
+        "t": "மாமியார் காசு வழங்கல்",
+        "id": "maamiyaar_kaasu"
+      },
+      {
+        "t": "மாலைமாற்றுதல் – மாங்கல்யதாரணம்",
+        "id": "maangalya_dhaaranam"
+      }
+    ]
+  },
+  {
+    "letter": "மு",
+    "entries": [
+      {
+        "t": "முகூர்த்தக்கால்",
+        "id": "muhurthakkaal"
+      }
+    ]
+  },
+  {
+    "letter": "யு",
+    "entries": [
+      {
+        "t": "யுகாதி",
+        "id": "yuagadi"
+      }
+    ]
+  },
+  {
+    "letter": "ர",
+    "entries": [
+      {
+        "t": "ரதசப்தமி",
+        "id": "rathasapthami"
+      }
+    ]
+  },
+  {
+    "letter": "ரு",
+    "entries": [
+      {
+        "t": "ருது மங்கள ஸ்நானம்",
+        "id": "ruthu_mangala_snaanam"
+      }
+    ]
+  },
+  {
+    "letter": "வ",
+    "entries": [
+      {
+        "t": "வளைகாப்பு",
+        "id": "valaikaappu"
+      }
+    ]
+  },
+  {
+    "letter": "வி",
+    "entries": [
+      {
+        "t": "விஜயதசமி",
+        "id": "vijayadasami"
+      },
+      {
+        "t": "விநாயகர் சதுர்த்தி",
+        "id": "vinayagar_chathurthi"
+      }
+    ]
+  },
+  {
+    "letter": "வெ",
+    "entries": [
+      {
+        "t": "வெற்றிலைபாக்கு பிடித்தல்",
+        "id": "vettrilai_paakku"
+      }
+    ]
+  },
+  {
+    "letter": "வை",
+    "entries": [
+      {
+        "t": "வைகுண்ட ஏகாதசி",
+        "id": "ekadasi"
+      }
+    ]
+  }
+]
