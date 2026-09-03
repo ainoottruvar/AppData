@@ -1,311 +1,373 @@
 {
-  "overall_version": 55,
-  "updated_at": "2026-09-03 07:16:40",
+  "overall_version": 56,
+  "schema_version": 1,
+  "maintenance": false,
+  "updated_at": "2026-09-03 15:28:00",
   "sections": {
     "screens": [
       {
         "name": "home_buttons.json",
         "ver": 2,
-        "hash": "28cba4a426bf8a70a96b7239357d665d"
+        "hash": "28cba4a426bf8a70a96b7239357d665d",
+        "size": 615
       },
       {
         "name": "kanda_sashti_kavasam.json",
         "ver": 2,
-        "hash": "c1fcd98592eb2512be67ba0e6c8d62e2"
+        "hash": "c1fcd98592eb2512be67ba0e6c8d62e2",
+        "size": 25442
       },
       {
         "name": "kolaru_pathikam.json",
         "ver": 2,
-        "hash": "eba5591f9b6140deca60f20dc5a36886"
+        "hash": "eba5591f9b6140deca60f20dc5a36886",
+        "size": 9207
       },
       {
         "name": "kovilkal.json",
         "ver": 30,
-        "hash": "00c95e625465e97baf3eab45c65ec94d"
+        "hash": "00c95e625465e97baf3eab45c65ec94d",
+        "size": 38369
       },
       {
         "name": "mahishasura_mardhini.json",
         "ver": 2,
-        "hash": "3ab30aedb31974523356803e767125f1"
+        "hash": "3ab30aedb31974523356803e767125f1",
+        "size": 14365
       },
       {
         "name": "Main_menu_buttons.json",
         "ver": 2,
-        "hash": "d2f362cc1482734996106b1eab16664b"
+        "hash": "d2f362cc1482734996106b1eab16664b",
+        "size": 19764
       },
       {
         "name": "manifest.json",
         "ver": 1,
-        "hash": "fef2645844206a1600e6e2a1f078137d"
+        "hash": "fef2645844206a1600e6e2a1f078137d",
+        "size": 7794
       },
       {
         "name": "muhurtham_varai.json",
         "ver": 2,
-        "hash": "c5cc174b24418da7feb56fb876b02943"
+        "hash": "c5cc174b24418da7feb56fb876b02943",
+        "size": 46331
       },
       {
         "name": "muhurthathirku_pin.json",
         "ver": 2,
-        "hash": "835f0edf47ac8e04c8098fb7d200750e"
+        "hash": "835f0edf47ac8e04c8098fb7d200750e",
+        "size": 37992
       },
       {
         "name": "nichaya_thamboolam.json",
         "ver": 2,
-        "hash": "3792ce2790d6178751614eac914c4a32"
+        "hash": "3792ce2790d6178751614eac914c4a32",
+        "size": 32483
       },
       {
         "name": "oonjal_thirupor.json",
         "ver": 2,
-        "hash": "690525943c706c57b7cd91ebfcb90cce"
+        "hash": "690525943c706c57b7cd91ebfcb90cce",
+        "size": 18947
       },
       {
         "name": "pandikaikal.json",
         "ver": 2,
-        "hash": "0e13e92de99055b207d49a8dfba2b12e"
+        "hash": "0e13e92de99055b207d49a8dfba2b12e",
+        "size": 65613
       },
       {
         "name": "pira_kaariyankal.json",
         "ver": 2,
-        "hash": "c95c64c240712097e7ad970e0b7f7fa6"
+        "hash": "c95c64c240712097e7ad970e0b7f7fa6",
+        "size": 54212
       },
       {
         "name": "potri_thiruthaandakam.json",
         "ver": 2,
-        "hash": "bfdb37d63c16d732783108283e9ba97d"
+        "hash": "bfdb37d63c16d732783108283e9ba97d",
+        "size": 9853
       },
       {
         "name": "saamaankal_list.json",
         "ver": 2,
-        "hash": "90af5980cc4a75a9a34a3d5663aa0e3e"
+        "hash": "90af5980cc4a75a9a34a3d5663aa0e3e",
+        "size": 38999
       },
       {
         "name": "sivapuraanam.json",
         "ver": 2,
-        "hash": "b16703d0be384d55ba7822443d5ceaf1"
+        "hash": "b16703d0be384d55ba7822443d5ceaf1",
+        "size": 12541
       },
       {
         "name": "subha_kaariyankal.json",
         "ver": 2,
-        "hash": "c48044b5358711cc17cee876e27a5f86"
+        "hash": "c48044b5358711cc17cee876e27a5f86",
+        "size": 24413
       },
       {
         "name": "thirumanathirku_mun.json",
         "ver": 2,
-        "hash": "3151d2b0386d65989626cd60244bedea"
+        "hash": "3151d2b0386d65989626cd60244bedea",
+        "size": 18324
       },
       {
         "name": "thirumanathirku_pin.json",
         "ver": 2,
-        "hash": "63b868870803e33785df47c8ca54ce4f"
+        "hash": "63b868870803e33785df47c8ca54ce4f",
+        "size": 16148
       },
       {
         "name": "thirumana_naal_seerkal.json",
         "ver": 2,
-        "hash": "8022324a88ce5510ae3e5b2d308dcda4"
+        "hash": "8022324a88ce5510ae3e5b2d308dcda4",
+        "size": 12386
       },
       {
         "name": "thiruvempaavai.json",
         "ver": 2,
-        "hash": "42aa8aa84a0724422cce036277f1dd57"
+        "hash": "42aa8aa84a0724422cce036277f1dd57",
+        "size": 20888
       },
       {
         "name": "vazhimuraikal.json",
         "ver": 2,
-        "hash": "796e737ae0d273365dc7628aec5f84d3"
+        "hash": "796e737ae0d273365dc7628aec5f84d3",
+        "size": 1576
       },
       {
         "name": "vinayagar_akaval.json",
-        "ver": 7,
-        "hash": "124f8866ba91161006aab977a11f32ee"
+        "ver": 8,
+        "hash": "fe6c8ac62b15791c4c318a660add0c28",
+        "size": 11734
       }
     ],
     "pdfs": [
       {
         "name": "accounts/mahasabai/mahasabai_2021_22.pdf",
         "ver": 1,
-        "hash": "826a398bc980032c00961168230d4a14"
+        "hash": "826a398bc980032c00961168230d4a14",
+        "size": 11413
       },
       {
         "name": "accounts/mahasabai/mahasabai_2022_23.pdf",
         "ver": 1,
-        "hash": "e404f02246cd4bf99f617e59aa25011c"
+        "hash": "e404f02246cd4bf99f617e59aa25011c",
+        "size": 11413
       },
       {
         "name": "accounts/mahasabai/mahasabai_2023_24.pdf",
         "ver": 1,
-        "hash": "474417d467870e38ed20888ec11961fa"
+        "hash": "474417d467870e38ed20888ec11961fa",
+        "size": 11413
       },
       {
         "name": "accounts/mahasabai/mahasabai_2024_25.pdf",
         "ver": 1,
-        "hash": "9dd3b8aa699bc070fd3bc33248915014"
+        "hash": "9dd3b8aa699bc070fd3bc33248915014",
+        "size": 11413
       },
       {
         "name": "accounts/mahasabai/mahasabai_2025_26.pdf",
         "ver": 1,
-        "hash": "3efb2b550539e29184db0bf0a5584009"
+        "hash": "3efb2b550539e29184db0bf0a5584009",
+        "size": 11413
       },
       {
         "name": "accounts/mandapam/mandapam_2021_22.pdf",
         "ver": 1,
-        "hash": "dd82589a1b23a963d46a91465ffbbb43"
+        "hash": "dd82589a1b23a963d46a91465ffbbb43",
+        "size": 11676
       },
       {
         "name": "accounts/mandapam/mandapam_2022_23.pdf",
         "ver": 1,
-        "hash": "b8c49410cf1e63780d6f9af651570bfb"
+        "hash": "b8c49410cf1e63780d6f9af651570bfb",
+        "size": 11676
       },
       {
         "name": "accounts/mandapam/mandapam_2023_24.pdf",
         "ver": 1,
-        "hash": "1cac03e3507a5cc9e7d5d0a2832e3312"
+        "hash": "1cac03e3507a5cc9e7d5d0a2832e3312",
+        "size": 11676
       },
       {
         "name": "accounts/mandapam/mandapam_2024_25.pdf",
         "ver": 1,
-        "hash": "55f6219ac66fae0624b4ca0dca1f38ee"
+        "hash": "55f6219ac66fae0624b4ca0dca1f38ee",
+        "size": 11676
       },
       {
         "name": "accounts/mandapam/mandapam_2025_26.pdf",
         "ver": 1,
-        "hash": "bf071c841acca86eccca239fb77d5708"
+        "hash": "bf071c841acca86eccca239fb77d5708",
+        "size": 11675
       },
       {
         "name": "accounts/palani/palani_2021_22.pdf",
         "ver": 1,
-        "hash": "d52173d4b12511b195ed666b4cb56541"
+        "hash": "d52173d4b12511b195ed666b4cb56541",
+        "size": 12253
       },
       {
         "name": "accounts/palani/palani_2022_23.pdf",
         "ver": 1,
-        "hash": "ca312268762485150423b7e7b06d1ddf"
+        "hash": "ca312268762485150423b7e7b06d1ddf",
+        "size": 12255
       },
       {
         "name": "accounts/palani/palani_2023_24.pdf",
         "ver": 1,
-        "hash": "fb19400afde0ba6d80b4f1103bf03442"
+        "hash": "fb19400afde0ba6d80b4f1103bf03442",
+        "size": 12255
       },
       {
         "name": "accounts/palani/palani_2024_25.pdf",
         "ver": 1,
-        "hash": "da17dc5b3db339b07386c9a8ae31fe5e"
+        "hash": "da17dc5b3db339b07386c9a8ae31fe5e",
+        "size": 12255
       },
       {
         "name": "accounts/palani/palani_2025_26.pdf",
         "ver": 1,
-        "hash": "46fea19c5d755375291b020a345932f7"
+        "hash": "46fea19c5d755375291b020a345932f7",
+        "size": 12255
       },
       {
         "name": "accounts/vittruniyar/vittruniyar_2021_22.pdf",
         "ver": 1,
-        "hash": "824639a3d750d8c260f037f66bb9e073"
+        "hash": "824639a3d750d8c260f037f66bb9e073",
+        "size": 12149
       },
       {
         "name": "accounts/vittruniyar/vittruniyar_2022_23.pdf",
         "ver": 1,
-        "hash": "4d926740460d2e55aec33c5a047a8484"
+        "hash": "4d926740460d2e55aec33c5a047a8484",
+        "size": 12149
       },
       {
         "name": "accounts/vittruniyar/vittruniyar_2023_24.pdf",
         "ver": 1,
-        "hash": "fcd3f3f646a4c0d6ed25a2940844e75b"
+        "hash": "fcd3f3f646a4c0d6ed25a2940844e75b",
+        "size": 12149
       },
       {
         "name": "accounts/vittruniyar/vittruniyar_2024_25.pdf",
         "ver": 1,
-        "hash": "480b50830309fc78eb6f6916a3c1b8f5"
+        "hash": "480b50830309fc78eb6f6916a3c1b8f5",
+        "size": 12149
       },
       {
         "name": "accounts/vittruniyar/vittruniyar_2025_26.pdf",
         "ver": 1,
-        "hash": "b437c5036e10a87074e9768b2333e288"
+        "hash": "b437c5036e10a87074e9768b2333e288",
+        "size": 12149
       },
       {
         "name": "saamaankal/pira/andheratti.pdf",
         "ver": 1,
-        "hash": "e5c75ac8f0b769d78516de7297d9a778"
+        "hash": "e5c75ac8f0b769d78516de7297d9a778",
+        "size": 144168
       },
       {
         "name": "saamaankal/pira/dhivasam.pdf",
         "ver": 1,
-        "hash": "fef8596501b74a5176ad97b8127e3200"
+        "hash": "fef8596501b74a5176ad97b8127e3200",
+        "size": 145972
       },
       {
         "name": "saamaankal/pira/kaariyam.pdf",
         "ver": 1,
-        "hash": "56133078b22319e573e39125a13f7f87"
+        "hash": "56133078b22319e573e39125a13f7f87",
+        "size": 110970
       },
       {
         "name": "saamaankal/pira/maasiyam.pdf",
         "ver": 1,
-        "hash": "b42d4b3447842ac9fd2bc5ee55cac8ad"
+        "hash": "b42d4b3447842ac9fd2bc5ee55cac8ad",
+        "size": 159840
       },
       {
         "name": "saamaankal/pira/viradhaanam.pdf",
         "ver": 1,
-        "hash": "efea48347fafecdbacadb71e3971a4da"
+        "hash": "efea48347fafecdbacadb71e3971a4da",
+        "size": 117693
       },
       {
         "name": "saamaankal/thirumanam/manamagal.pdf",
         "ver": 1,
-        "hash": "d18baa923b51e737abcbed0c391dd40a"
+        "hash": "d18baa923b51e737abcbed0c391dd40a",
+        "size": 92305
       },
       {
         "name": "saamaankal/thirumanam/manamagan.pdf",
         "ver": 1,
-        "hash": "a6aeea54929ee5814cb2c1d5d3d0aed4"
+        "hash": "a6aeea54929ee5814cb2c1d5d3d0aed4",
+        "size": 110165
       },
       {
         "name": "saamaankal/thirumanam/nichayam.pdf",
         "ver": 1,
-        "hash": "be2068bd9de4b407495eb32958517d31"
+        "hash": "be2068bd9de4b407495eb32958517d31",
+        "size": 98714
       },
       {
         "name": "saamaankal/thirumanam/nichaym.pdf",
         "ver": 1,
-        "hash": "5128b25fd1d1b1c14bbd4f54acc560bb"
+        "hash": "5128b25fd1d1b1c14bbd4f54acc560bb",
+        "size": 98714
       },
       {
         "name": "saamaankal/thirumanam/seerkal.pdf",
         "ver": 1,
-        "hash": "7450a196b566e505354330ca74ce9606"
+        "hash": "7450a196b566e505354330ca74ce9606",
+        "size": 127519
       },
       {
         "name": "saamaankal/thirumanam/thirumanam.pdf",
         "ver": 1,
-        "hash": "f44a7867c47b5c980c19560c61b83529"
+        "hash": "f44a7867c47b5c980c19560c61b83529",
+        "size": 158078
       },
       {
         "name": "saamaankal/thirumanam/thirumanamfull.pdf",
         "ver": 1,
-        "hash": "a810c6d4d1a547d8aab10eb2eb7c3c76"
+        "hash": "a810c6d4d1a547d8aab10eb2eb7c3c76",
+        "size": 81432
       }
     ],
     "utilities": [
       {
         "name": "help_data.json",
         "ver": 1,
-        "hash": "c739ea4e8e1cd05b7b1f890a237977cf"
+        "hash": "c739ea4e8e1cd05b7b1f890a237977cf",
+        "size": 6618
       },
       {
         "name": "index.json",
         "ver": 1,
-        "hash": "9dfae8237a9dbb120d6375490507ffbe"
+        "hash": "9dfae8237a9dbb120d6375490507ffbe",
+        "size": 14322
       },
       {
         "name": "poll.json",
         "ver": 3,
-        "hash": "1c8b78fe9680609a134d27b2b21ad537"
+        "hash": "1c8b78fe9680609a134d27b2b21ad537",
+        "size": 287
       },
       {
         "name": "reminders.json",
         "ver": 9,
-        "hash": "359f4820606c641635c250471a62a558"
+        "hash": "359f4820606c641635c250471a62a558",
+        "size": 1955
       },
       {
         "name": "share-msg.json",
         "ver": 1,
-        "hash": "f39894d1c8d26ec81933a52960bde603"
+        "hash": "f39894d1c8d26ec81933a52960bde603",
+        "size": 396
       }
     ],
     "PhoneDirectory": []
